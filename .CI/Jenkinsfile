@@ -5,6 +5,7 @@ pipeline {
   agent none
   options {
     newContainerPerStage()
+    disableConcurrentBuilds()
     buildDiscarder(logRotator(daysToKeepStr: "14", artifactNumToKeepStr: "2"))
   }
   environment {
@@ -24,7 +25,11 @@ pipeline {
     steps {
       script {
         echo "Running on: ${env.NODE_NAME}"
-        sh "hugo --gc --minify=true --cleanDestinationDir --cacheDir=/cache/hugo --noTimes --noChmod ${isPR() ? '--renderToMemory --buildDrafts=true --buildExpired=true --buildFuture=true' : '--destination=/var/www/hugo.openmodelica.org'}"
+        sh "hugo --gc --minify=true --cleanDestinationDir --cacheDir=/cache/hugo --noTimes --noChmod ${isPR() ? '--destionation=public --buildDrafts=true --buildExpired=true --buildFuture=true' : '--destination=/var/www/hugo.openmodelica.org'}"
+        if isPR() {
+          sh "zip -r www.openmodelica.org.zip public/"
+          archiveArtifacts artifacts: 'www.openmodelica.org.zip', fingerprint: true
+        }
       }
     }
   }
