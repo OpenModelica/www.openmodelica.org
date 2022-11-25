@@ -26,7 +26,7 @@ pipeline {
       script {
         echo "Running on: ${env.NODE_NAME}"
         sh "hugo --gc --minify=true --cleanDestinationDir --cacheDir=/cache/hugo --noTimes --noChmod ${isPR() ? '--destionation=public --buildDrafts=true --buildExpired=true --buildFuture=true' : '--destination=/var/www/hugo.openmodelica.org'}"
-        if isPR() {
+        if (isPR()) {
           sh "zip -r www.openmodelica.org.zip public/"
           archiveArtifacts artifacts: 'www.openmodelica.org.zip', fingerprint: true
         }
