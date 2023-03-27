@@ -88,51 +88,51 @@ weight: 1
 <tr style="border: thin solid;">
 <td style="border: thin solid;">Org. - Large company, not an SME</td>
 <td style="border: thin solid;">&gt; 250</td>
-<td style="border: thin solid;">6 600</td>
-<td style="border: thin solid;">7 700</td>
-<td style="border: thin solid;">22 000</td>
+<td style="border: thin solid;">7300</td>
+<td style="border: thin solid;">8500</td>
+<td style="border: thin solid;">24 200</td>
 </tr>
 <tr style="border: thin solid;">
 <td style="border: thin solid;">Org. - Medium company, SME</td>
 <td style="border: thin solid;">&gt; 50, ≤ 250</td>
-<td style="border: thin solid;">3 300</td>
-<td style="border: thin solid;">5 500</td>
-<td style="border: thin solid;">11 000</td>
+<td style="border: thin solid;">3600</td>
+<td style="border: thin solid;">6000</td>
+<td style="border: thin solid;">12 100</td>
 </tr>
 <tr style="border: thin solid;">
 <td style="border: thin solid;">Org. - Small company, SME</td>
 <td style="border: thin solid;">&gt; 5, ≤ 50</td>
-<td style="border: thin solid;">2 200</td>
-<td style="border: thin solid;">3 300</td>
-<td style="border: thin solid;">5 500</td>
+<td style="border: thin solid;">2400</td>
+<td style="border: thin solid;">3600</td>
+<td style="border: thin solid;">6000</td>
 </tr>
 <tr style="border: thin solid;">
 <td style="border: thin solid;">Org. - Very Small Company, SME</td>
 <td style="border: thin solid;">≤ 5</td>
-<td style="border: thin solid;">1 100</td>
-<td style="border: thin solid;">2 200</td>
-<td style="border: thin solid;">3 300</td>
+<td style="border: thin solid;">1200</td>
+<td style="border: thin solid;">2400</td>
+<td style="border: thin solid;">3600</td>
 </tr>
 <tr style="border: thin solid;">
 <td style="border: thin solid;">Org. - Large Non-profit</td>
 <td style="border: thin solid;">Group size &gt; 10</td>
-<td style="border: thin solid;">1 100</td>
-<td style="border: thin solid;">3 300</td>
-<td style="border: thin solid;">5 500</td>
+<td style="border: thin solid;">1200</td>
+<td style="border: thin solid;">3600</td>
+<td style="border: thin solid;">6000</td>
 </tr>
 <tr style="border: thin solid;">
 <td style="border: thin solid;">Org. - Small Non-profit</td>
 <td style="border: thin solid;">Group size ≤ 10</td>
-<td style="border: thin solid;">550</td>
-<td style="border: thin solid;">2 200</td>
-<td style="border: thin solid;">3 300</td>
+<td style="border: thin solid;">600</td>
+<td style="border: thin solid;">2400</td>
+<td style="border: thin solid;">3600</td>
 </tr>
 <tr style="border: thin solid;">
 <td style="border: thin solid;">Individual member</td>
 <td style="border: thin solid;">1</td>
 <td style="border: thin solid;">0</td>
-<td style="border: thin solid;">2 200</td>
-<td style="border: thin solid;">3 300</td>
+<td style="border: thin solid;">2400</td>
+<td style="border: thin solid;">3600</td>
 </tr>
 </tbody>
 </table>
