@@ -16,7 +16,7 @@ title: "Developer Documentation"
 
 Courses on MetaModelica are available <a href="/developersresources/courses">here</a>
 
-OpenModelica is constantly evolving, especially from the developers point of view, developers are suggested to ask any question on <a href="https://github.com/OpenModelica/OpenModelica">Github</a>.
+OpenModelica is constantly evolving, especially from the developers point of view, developers are suggested to ask any question on <a href="https://github.com/OpenModelica/OpenModelica">GitHub</a>.
 
 ## Operating systems we support
 
