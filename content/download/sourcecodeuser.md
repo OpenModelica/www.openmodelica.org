@@ -28,4 +28,4 @@ You can also use them to access the latest bug fixes, that have not yet been inc
 
 ## Reporting bugs
 
-Reporting of bugs can be made through <a href="{{< param "bugreporting" >}}">Github</a>.
+Reporting of bugs can be made through <a href="{{< param "bugreporting" >}}">GitHub</a>.
