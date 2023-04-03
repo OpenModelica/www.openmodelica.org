@@ -15,9 +15,8 @@ The images have 3 variants:
 The images do not come with Modelica libraries installed.
 These are installed in your home directory which can be forwarded to docker and kept between sessions.
 
-<!--- The following information is outdated since the repo is empty and only points to dockerhub in the README 
-Note that you can customize docker images to your own liking, either basing them on the above images or using the same [Dockerfiles](https://github.com/OpenModelica/OpenModelicaDockerImages/tree/{{< param "current_version.release" >}}) we used to create them.
--->
+Note that you can customize docker images to your own liking, either basing them on the above images or using the same [Dockerfiles](https://github.com/OpenModelica/OpenModelicaDockerImages/tree/v{{< param "current_version.release" >}}) we used to create them.
+
 The graphical clients need X forwarding enabled, which works differently for each OS (see below).
 Once the instructions below have been followed: from the terminal you can run the alias
 ```zsh
