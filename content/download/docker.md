@@ -4,7 +4,7 @@ title: "Download Docker (All OS)"
 
 Docker is a lightweight alternative to virtual machines.
 
-We have images available for the major CPU architectures: amd64, arm64, and armv7 at [docker hub](https://hub.docker.com/repository/docker/openmodelica/openmodelica/general).
+We have images available for the major CPU architectures: amd64, arm64, and armv7 at [docker hub](https://hub.docker.com/r/openmodelica/openmodelica/tags).
 
 The images have 3 variants:
 
@@ -15,8 +15,9 @@ The images have 3 variants:
 The images do not come with Modelica libraries installed.
 These are installed in your home directory which can be forwarded to docker and kept between sessions.
 
+<!--- The following information is outdated since the repo is empty and only points to dockerhub in the README 
 Note that you can customize docker images to your own liking, either basing them on the above images or using the same [Dockerfiles](https://github.com/OpenModelica/OpenModelicaDockerImages/tree/{{< param "current_version.release" >}}) we used to create them.
-
+-->
 The graphical clients need X forwarding enabled, which works differently for each OS (see below).
 Once the instructions below have been followed: from the terminal you can run the alias
 ```zsh
@@ -47,11 +48,12 @@ What it does is create a command `docker-om` which will run a the given docker c
 
 Install either [Docker Desktop](https://docs.docker.com/desktop/install/linux-install/) or the docker client that comes with your Linux distribution.
 
-The following code when executed will add an alias to make launching OpenModelica easier.
+The following code when executed will add an alias to make launching OpenModelica easier. The alias will be activated after the next login.
 
 ```zsh
 echo $'alias docker-om=\'docker run -it --rm -v "$HOME:$HOME" -e "HOME=$HOME" -w "$PWD" -e "DISPLAY=$DISPLAY" --user $UID openmodelica/openmodelica:{{< param "current_version.release" >}}-gui\'' >> "$HOME/.profile"
 ```
+
 
 What it does is create a command `docker-om` which will run a the given docker container and mount your home directory inside the docker container, set the network to the host adapter and the X11 DISPLAY variable so graphical clients can connect (optional for the command-line `omc`), set the UNIX user ID to your own user so files in your home directory are still owned by you.
 
