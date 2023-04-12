@@ -2,4 +2,15 @@
 title: "Nightly Builds"
 donate: true
 ---
-<p>We provide experimental nightly builds for <a href="https://build.openmodelica.org/omc/builds/windows/nightly-builds/" target="_blank">Windows</a> and&nbsp;<a href="/download/download-linux" target="_self">Linux</a> between releases.<br />Using the latest builds and reporting bugs provides us with valuable feedback.<br />Some of the bugs reported could be already fixed in the nightly-builds.</p>
+We provide experimental nightly builds for Windows and Linux between releases.
+
+Using the latest builds and reporting bugs provides us with valuable feedback.
+
+Some of the bugs reported could be already fixed in the nightly-builds.
+
+## Download Nightly Builds
+ - [Windows](/download/download-windows)
+ - [Linux](/download/download-linux)
+
+## Status of Nightly Builds
+ - [Pipeline of LINUX_BUILDS](https://test.openmodelica.org/jenkins/job/LINUX_BUILDS/)
