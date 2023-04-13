@@ -12,5 +12,5 @@ Some of the bugs reported could be already fixed in the nightly-builds.
  - [Windows](/download/download-windows)
  - [Linux](/download/download-linux)
 
-## Status of Nightly Builds
+### Status of Nightly Builds
  - [Pipeline of LINUX_BUILDS](https://test.openmodelica.org/jenkins/job/LINUX_BUILDS/)
