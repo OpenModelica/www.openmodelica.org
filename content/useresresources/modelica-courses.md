@@ -20,26 +20,26 @@ title: "Modelica Courses"
 
 In this section you can see a complete modelica course, divided in 12 lessons, plus some exercises.
 
-* <a href="http://www.ida.liu.se/~arupa54/Modelica/OO_Modelica_course/Modelica%20Course%20description.pdf">Course Description</a>
-* <a href="http://www.ida.liu.se/~arupa54/Modelica/OO_Modelica_course/Modelica_course_plan_and_reading_instructions_2010.pdf" target="_blank">Course Plan</a>
-* <a href="http://www.ida.liu.se/~arupa54/Modelica/OO_Modelica_course/Course-Lectures-plan-pdfs.zip">OLDLectures</a>
-* <a href="http://www.ida.liu.se/~arupa54/Modelica/OO_Modelica_course/Course_Exercises.zip" target="_self">Exercises</a>
-* <a href="http://www.ida.liu.se/~arupa54/Modelica/OO_Modelica_course/DrControl.zip">DrControl</a>
+* <a href="/doc/ModelicaLongCourse/Modelica_Course_description.pdf">Course Description</a>
+* <a href="/doc/ModelicaLongCourse/Modelica_course_plan_and_reading_instructions_2010.pdf" target="_blank">Course Plan</a>
+* <a href="/doc/ModelicaLongCourse/Course-Lectures-plan-pdfs.zip">OLDLectures</a>
+* <a href="/doc/ModelicaLongCourse/Course_Exercises.zip" target="_self">Exercises</a>
+* <a href="/doc/ModelicaLongCourse/DrControl.zip">DrControl</a>
 
 ### Lectures
-1. <a href="http://www.ida.liu.se/~arupa54/Modelica/OO_Modelica_course/Lecture01%20-%20Introduction.pdf" target="_blank">Introduction</a>
-1. <a href="http://www.ida.liu.se/~arupa54/Modelica/OO_Modelica_course/Lecture02%20-%20Environments%20and%20OpenModelica.pdf" target="_blank">Modelica Environments</a>
-1. <a href="http://www.ida.liu.se/~arupa54/Modelica/OO_Modelica_course/Lecture03-%20Classes.pdf" target="_blank">Classes</a>
-1. <a href="http://www.ida.liu.se/~arupa54/Modelica/OO_Modelica_course/Lecture04%20-%20Connectors%20and%20graphical%20modeling.pdf" target="_blank">Connectors</a>
-1. <a href="https://www.ida.liu.se/~arupa54/Modelica/OO_Modelica_course/Lecture05%20-%20Equations.pdf" target="_blank">Equations</a>
-1. <a href="/images/docs/Courses/lecture06%20-%20arrays%20algorithms%20and%20functions.pdf">Functions and Algorithms</a>
-1. <a href="http://www.ida.liu.se/~arupa54/Modelica/OO_Modelica_course/Lecture07%20-%20Packages.pdf" target="_blank">Packages</a>
-1. <a href="http://www.ida.liu.se/~arupa54/Modelica/OO_Modelica_course/Lecture08%20-%20Modelica%20Libraries.pdf" target="_blank">Libraries</a>
-1. <a href="http://www.ida.liu.se/~arupa54/Modelica/OO_Modelica_course/Lecture09%20-%20Hybrid%20Systems.pdf" target="_blank">Hybrid Systems</a>
-1. <a href="http://www.ida.liu.se/~arupa54/Modelica/OO_Modelica_course/Lecture10%20-%20Bio%20Population%20Predator-Prey.pdf" target="_blank">Bio Population</a>
-1. <a href="http://www.ida.liu.se/~arupa54/Modelica/OO_Modelica_course/Lecture11%20-%20Model%20design.pdf" target="_blank">Model Design</a>
-1. <a href="http://www.ida.liu.se/~arupa54/Modelica/OO_Modelica_course/Lecture12%20-%20RomeoJulia.pdf" target="_blank">Romeo Julia</a>
-1. <a href="http://www.ida.liu.se/~arupa54/Modelica/OO_Modelica_course/Lecture13%20-%20Influenza%20Library%20Design.pdf" target="_blank">Library Design</a>
+1. <a href="/doc/ModelicaLongCourse/Lecture01_Introduction.pdf" target="_blank">Introduction</a>
+1. <a href="/doc/ModelicaLongCourse/Lecture02_Environments_and_OpenModelica.pdf" target="_blank">Modelica Environments</a>
+1. <a href="/doc/ModelicaLongCourse/Lecture03_Classes.pdf" target="_blank">Classes</a>
+1. <a href="/doc/ModelicaLongCourse/Lecture04_Connectors_and_graphical_modeling.pdf" target="_blank">Connectors</a>
+1. <a href="/doc/ModelicaLongCourse/Lecture05_Equations.pdf" target="_blank">Equations</a>
+1. <a href="/doc/ModelicaLongCourse/Lecture06_Algorithms_and_Functions.pdf">Functions and Algorithms</a>
+1. <a href="/doc/ModelicaLongCourse/Lecture07_Packages.pdf" target="_blank">Packages</a>
+1. <a href="/doc/ModelicaLongCourse/Lecture08_Modelica_Libraries.pdf" target="_blank">Libraries</a>
+1. <a href="/doc/ModelicaLongCourse/Lecture09_Hybrid_Systems.pdf" target="_blank">Hybrid Systems</a>
+1. <a href="/doc/ModelicaLongCourse/Lecture10_Bio_Population_Predator_Prey.pdf" target="_blank">Bio Population</a>
+1. <a href="/doc/ModelicaLongCourse/Lecture11_Model_design.pdf" target="_blank">Model Design</a>
+1. <a href="/doc/ModelicaLongCourse/Lecture12_RomeoJulia.pdf" target="_blank">Romeo Julia</a>
+1. <a href="/doc/ModelicaLongCourse/Lecture13_Influenza_Library_Design.pdf" target="_blank">Library Design</a>
 
 ## DrControl - Control Course with Modelica and OpenModelica
 
