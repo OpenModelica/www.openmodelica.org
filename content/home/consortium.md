@@ -23,7 +23,7 @@ weight: 1
 <p>The current board:</p>
 <ul>
 <li>Rüdiger Franke, Chairman, ABB AG, Germany</li>
-<li>Oliver Lenord, Vice Chairman, Bosch AG, Germany</li>
+<li>Oliver Lenord, Vice Chairman, Robert Bosch GmbH, Germany</li>
 <li>Francesco Casella, Director, Politecnico di Milano, Italy</li>
 <li>Peter Fritzson, Vice Director, Linköping University, Sweden</li>
 <li>Bernhard Bachmann, Hochschule Bielefeld, Germany</li>
