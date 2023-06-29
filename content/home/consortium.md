@@ -208,7 +208,7 @@ weight: 1
 <h3>Companies and Institutes</h3>
 <ul>
 <li><a href="https://www.abb.com">ABB AB, Sweden</a></li>
-<li><a href="https://www.abb.com">Berkeley Lab, California, USA</a></li>
+<li><a href="https://www.lbl.gov">Berkeley Lab, California, USA</a></li>
 <li><a href="https://www.boschrexroth.com">Bosch Rexroth AG, Germany</a></li>
 <li><a href="https://www.cdac.in">CDAC Centre Advanced Computing, Kerala, India</a></li>
 <li><a href="https://creativeconnections.cz">Creative Connections, Prague, Czech Republic</a><span style="mso-ansi-language: SV;" lang="SV"> </span></li>
@@ -244,7 +244,7 @@ weight: 1
 <ul>
 <li>Australian National University, Acton, Australia</li>
 <li>University of Augsburg, Augsburg, Germany&nbsp;</li>
-<li>FH Bielefeld, Bielefeld, Germany</li>
+<li>Hochschule Bielefeld, Germany</li>
 <li>University of Bolivar, Colombia</li>
 <li>University of Buenos Aires, Discrete Simulation Lab, Argentina</li>
 <li>Technical University of Braunschweig, Germany</li>
