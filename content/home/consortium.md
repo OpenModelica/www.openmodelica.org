@@ -23,11 +23,11 @@ weight: 1
 <p>The current board:</p>
 <ul>
 <li>Rüdiger Franke, Chairman, ABB AG, Germany</li>
-<li>Oliver Lenord, Vice Chairman, Germany</li>
+<li>Oliver Lenord, Vice Chairman, Bosch AG, Germany</li>
 <li>Francesco Casella, Director, Politecnico di Milano, Italy</li>
 <li>Peter Fritzson, Vice Director, Linköping University, Sweden</li>
-<li>Bernhard Bachmann, FH Bielefeld, Bielefeld, Germany</li>
-<li>Daniel Bouskela, EDF, Paris, France</li>
+<li>Bernhard Bachmann, Hochschule Bielefeld, Germany</li>
+<li>Audrey Jardin, EDF, Paris, France</li>
 <li>Adrien Guironnet,, RTE-France, Paris, France</li>
 <li>Juha Kortelainen, VTT, Finland</li>
 <li>Gerhard Schmitz, TuTech, Hamburg University of Technology, Germany</li>
@@ -208,6 +208,7 @@ weight: 1
 <h3>Companies and Institutes</h3>
 <ul>
 <li><a href="https://www.abb.com">ABB AB, Sweden</a></li>
+<li><a href="https://www.abb.com">Berkeley Lab, California, USA</a></li>
 <li><a href="https://www.boschrexroth.com">Bosch Rexroth AG, Germany</a></li>
 <li><a href="https://www.cdac.in">CDAC Centre Advanced Computing, Kerala, India</a></li>
 <li><a href="https://creativeconnections.cz">Creative Connections, Prague, Czech Republic</a><span style="mso-ansi-language: SV;" lang="SV"> </span></li>
