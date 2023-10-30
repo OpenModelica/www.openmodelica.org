@@ -218,6 +218,8 @@ weight: 1
 <li><a href="https://www.equa.se">Equa Simulation AB, Sweden</a></li>
 <li><a href="https://www.iwes.fraunhofer.de">Fraunhofer IWES, Bremerhaven, Germany</a></li>
 <li><a href="http://www.fcc.chalmers.se/">Fraunhofer Chalmers (FCC), Gothenburg, Sweden</a></li>
+<li>GSIMX Beijing Technology, China</li>
+<li><a href="https://leitbetriebe.at/en/profiles/hoerbiger-wien-gmbh/">Hoerbiger Wien, Austria</a></li>
 <li><a href="https://www.isid.co.jp">ISID Dentsu, Tokyo, Japan</a></li>
 <li><a href="https://www.inria.fr/en/centre-inria-rennes-bretagne-atlantique">INRIA, Rennes, France</a></li>
 <li><a href="https://www.fz-juelich.de">Jülich Research Center, Jülich, Germany</a></li>
@@ -225,7 +227,6 @@ weight: 1
 <li><a href="https://www.maplesoft.com">Maplesoft, Canada</a></li>
 <li><a href="https://metroscope.tech/">Metroscope, Paris, France</a></li>
 <li><a href="https://www.zaubacorp.com/company/MODELICON-INFOTECH-LLP/AAI-6193">ModeliCon InfoTech, Bangalore, India</a></li>
-<li><a href="https://www.perpetuallabs.io/">Perpertual Labs, London, Great Britain</a></li>
 <li><a href="https://www.reusecompany.com/office-spain">REUSE company, Madrid, Spain</a></li>
 <li><a href="https://www.ri.se">RISE, Research Institutes of Sweden, Linköping</a></li>
 <li><a href="http://www.rte-france.com">RTE France, Paris, France</a></li>
