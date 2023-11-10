@@ -210,7 +210,6 @@ weight: 1
 <li><a href="https://www.abb.com">ABB AB, Sweden</a></li>
 <li><a href="https://www.lbl.gov">Berkeley Lab, California, USA</a></li>
 <li><a href="https://www.boschrexroth.com">Bosch Rexroth AG, Germany</a></li>
-<li><a href="https://www.cdac.in">CDAC Centre Advanced Computing, Kerala, India</a></li>
 <li><a href="https://creativeconnections.cz">Creative Connections, Prague, Czech Republic</a><span style="mso-ansi-language: SV;" lang="SV"> </span></li>
 <li><a href="https://www.dhigroup.com/">DHI, Aarhus, Denmark</a></li>
 <li><a href="http://www.dynamica-it.com">Dynamica s.r.l., Cremona, Italy</a></li>
@@ -228,7 +227,6 @@ weight: 1
 <li><a href="https://metroscope.tech/">Metroscope, Paris, France</a></li>
 <li><a href="https://www.zaubacorp.com/company/MODELICON-INFOTECH-LLP/AAI-6193">ModeliCon InfoTech, Bangalore, India</a></li>
 <li><a href="https://www.reusecompany.com/office-spain">REUSE company, Madrid, Spain</a></li>
-<li><a href="https://www.ri.se">RISE, Research Institutes of Sweden, Linköping</a></li>
 <li><a href="http://www.rte-france.com">RTE France, Paris, France</a></li>
 <li><a href="http://tongyuan.cc/">Suzhou Tongyuan Software &amp; Control Technology Co., Ltd., China</a></li>
 <li><a href="https://www.saab.com">Saab, Linköping, Sweden</a></li>
