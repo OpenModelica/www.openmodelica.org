@@ -1,9 +1,9 @@
 ---
-title: "Simulation Dashboard for the Energy Megagame"
+title: "Simulation Dashboard : Att vända strömmen"
 qrcodejs: true
 ---
 
-## Year 2025
+{{< figure src="/images/megagame_simulation/current_year.png" >}}
 
 {{< load-plotly >}}
 {{< plotly json="/images/megagame_simulation/sankey.json" height="400px" >}}
