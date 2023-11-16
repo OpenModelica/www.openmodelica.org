@@ -3,7 +3,7 @@ title: "Simulation Dashboard : Att vända strömmen"
 qrcodejs: true
 ---
 
-{{< figure src="/images/megagame_simulation/current_year.png" >}}
+Year 2023
 
 {{< load-plotly >}}
 {{< plotly json="/images/megagame_simulation/sankey.json" height="400px" >}}
