@@ -232,6 +232,7 @@ weight: 1
 <li><a href="https://www.saab.com">Saab, Linköping, Sweden</a></li>
 <li><a href="https://www.bloomberg.com/profile/company/1732547D:CH">Shanghai Duanyan Information Technology Co., Ltd., China</a></li>
 <li><a href="https://smart.fluidpower.it/">SmartFluidPower, Modena, Italy</a></li>
+<li><a href="https://www.swegon.com/"> Swegon AB, Gothenburg, Sweden</a></li>
 <li><a href="https://www.tlk-thermo.com">TLK Thermo, Braunschweig, Germany</a></li>
 <li><a href="https://talentswarm.com">Talent Swarm, Madrid, Spain</a><span style="mso-ansi-language: EN-US;" lang="EN-US"> </span></li>
 <li><a href="https://www.volvocars.com/se">Volvo Cars, Göteborg, Sweden</a></li>
