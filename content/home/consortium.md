@@ -219,6 +219,7 @@ weight: 1
 <li><a href="http://www.fcc.chalmers.se/">Fraunhofer Chalmers (FCC), Gothenburg, Sweden</a></li>
 <li>GSIMX Beijing Technology, China</li>
 <li><a href="https://leitbetriebe.at/en/profiles/hoerbiger-wien-gmbh/">Hoerbiger Wien, Austria</a></li>
+<li>Hefei Taize Turbomachinery Technology, Hefei, China</li>
 <li><a href="https://www.isid.co.jp">ISID Dentsu, Tokyo, Japan</a></li>
 <li><a href="https://www.inria.fr/en/centre-inria-rennes-bretagne-atlantique">INRIA, Rennes, France</a></li>
 <li><a href="https://www.fz-juelich.de">Jülich Research Center, Jülich, Germany</a></li>
