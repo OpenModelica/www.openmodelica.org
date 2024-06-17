@@ -223,7 +223,6 @@ weight: 1
 <li>Hefei Taize Turbomachinery Technology, Hefei, China</li>
 <li><a href="https://www.isid.co.jp">ISID Dentsu, Tokyo, Japan</a></li>
 <li><a href="https://www.inria.fr/en/centre-inria-rennes-bretagne-atlantique">INRIA, Rennes, France</a></li>
-<li><a href="https://www.fz-juelich.de">Jülich Research Center, Jülich, Germany</a></li>
 <li><a href="https://www.jsol.co.jp/english/index.html">JSOL Corporation, Tokyo, Japan</a></li>
 <li><a href="https://www.maplesoft.com">Maplesoft, Canada</a></li>
 <li><a href="https://metroscope.tech/">Metroscope, Paris, France</a></li>
