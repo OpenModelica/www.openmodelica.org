@@ -211,6 +211,7 @@ weight: 1
 <li><a href="https://www.lbl.gov">Berkeley Lab, California, USA</a></li>
 <li><a href="https://www.boschrexroth.com">Bosch Rexroth AG, Germany</a></li>
 <li><a href="https://creativeconnections.cz">Creative Connections, Prague, Czech Republic</a><span style="mso-ansi-language: SV;" lang="SV"> </span></li>
+<li><a href="https://www.demxs.com">DEMXS Ltd, Shanghai, China</a></li>
 <li><a href="https://www.dhigroup.com/">DHI, Aarhus, Denmark</a></li>
 <li><a href="http://www.dynamica-it.com">Dynamica s.r.l., Cremona, Italy</a></li>
 <li><a href="https://www.edf.fr">EDF, Paris, France</a></li>
@@ -232,6 +233,8 @@ weight: 1
 <li><a href="http://tongyuan.cc/">Suzhou Tongyuan Software &amp; Control Technology Co., Ltd., China</a></li>
 <li><a href="https://www.saab.com">Saab, Linköping, Sweden</a></li>
 <li><a href="https://www.bloomberg.com/profile/company/1732547D:CH">Shanghai Duanyan Information Technology Co., Ltd., China</a></li>
+<li><a href="http://www.sil3x.fr">SIL3X, Paris, France</a></li>
+<li><a href="http://www.simtek.cc/">Simtek Ltd. Nanjing, China</a></li>
 <li><a href="https://smart.fluidpower.it/">SmartFluidPower, Modena, Italy</a></li>
 <li><a href="https://www.swegon.com/"> Swegon AB, Gothenburg, Sweden</a></li>
 <li><a href="https://www.tlk-thermo.com">TLK Thermo, Braunschweig, Germany</a></li>
@@ -246,6 +249,7 @@ weight: 1
 <li>Australian National University, Acton, Australia</li>
 <li>University of Augsburg, Augsburg, Germany&nbsp;</li>
 <li>Hochschule Bielefeld, Germany</li>
+<li>Huazhong University (HUST), NCDC Center, Wuhan, China </li>
 <li>University of Bolivar, Colombia</li>
 <li>University of Buenos Aires, Discrete Simulation Lab, Argentina</li>
 <li>Technical University of Braunschweig, Germany</li>
