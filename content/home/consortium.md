@@ -30,7 +30,7 @@ weight: 1
 <li>Audrey Jardin, EDF, Paris, France</li>
 <li>Adrien Guironnet,, RTE-France, Paris, France</li>
 <li>Juha Kortelainen, VTT, Finland</li>
-<li>Gerhard Schmitz, TuTech, Hamburg University of Technology, Germany</li>
+<li>Arne Speerforck, TuTech, Hamburg University of Technology, Germany</li>
 <li>Niklas Worschech, Bosch Rexroth, Germany</li>
 </ul>
 <h3>Director and Team</h3>
