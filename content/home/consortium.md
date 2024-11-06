@@ -216,6 +216,7 @@ weight: 1
 <li><a href="http://www.dynamica-it.com">Dynamica s.r.l., Cremona, Italy</a></li>
 <li><a href="https://www.edf.fr">EDF, Paris, France</a></li>
 <li><a href="https://www.equa.se">Equa Simulation AB, Sweden</a></li>
+<li><a href="https://www.festo.com/de/en/">Festo, Esslingen, Germany</a></li>
 <li><a href="https://www.iwes.fraunhofer.de">Fraunhofer IWES, Bremerhaven, Germany</a></li>
 <li><a href="http://www.fcc.chalmers.se/">Fraunhofer Chalmers (FCC), Gothenburg, Sweden</a></li>
 <li>GSIMX Beijing Technology, China</li>
@@ -227,6 +228,7 @@ weight: 1
 <li><a href="https://www.maplesoft.com">Maplesoft, Canada</a></li>
 <li><a href="https://metroscope.tech/">Metroscope, Paris, France</a></li>
 <li><a href="https://www.modelicon.in/">ModeliCon InfoTech, Bangalore, India</a></li>
+<li><a href="https://www.o-de.ai/">Orthogonal Super Systems, Munich, Germany</a></li>
 <li><a href="https://www.reusecompany.com/office-spain">REUSE company, Madrid, Spain</a></li>
 <li><a href="http://www.rte-france.com">RTE France, Paris, France</a></li>
 <li><a href="http://tongyuan.cc/">Suzhou Tongyuan Software &amp; Control Technology Co., Ltd., China</a></li>
