@@ -2,7 +2,7 @@
     "version": {
         "release": "1.24.0",
         "stable": "1.24.1~2-ge6b7b28",
-        "nightly": "1.25.0~dev-133-ga5470be"
+        "nightly": "1.25.0~dev-138-g4bd69db"
     },
     "deb": {
         "amd64": [
@@ -31,20 +31,18 @@
     "rpm": {
         "amd64": {
             "el8": [
-                "openmodelica-1.18",
-                "openmodelica-1.19",
-                "openmodelica-1.20",
                 "openmodelica-nightly"
             ],
             "el9": [
-                "openmodelica-1.19",
-                "openmodelica-1.20",
                 "openmodelica-nightly"
             ],
             "fc39": [
                 "openmodelica-nightly"
             ],
             "fc40": [
+                "openmodelica-nightly"
+            ],
+            "fc41": [
                 "openmodelica-nightly"
             ]
         }
@@ -55,6 +53,7 @@
         "el9": "2032-05-31",
         "fc39": "2024-11-12",
         "fc40": "2025-05-13",
+        "fc41": "2025-11-26",
         "focal": "2025-04-02",
         "jammy": "2027-04-01",
         "noble": "2029-04-25",
@@ -67,6 +66,7 @@
             "el9": "-",
             "fc39": "-",
             "fc40": "-",
+            "fc41": "-",
             "focal": "10.0",
             "jammy": "14.0",
             "noble": "18.0",
@@ -78,6 +78,7 @@
             "el9": "3.20.2",
             "fc39": "3.27.7",
             "fc40": "3.28.2",
+            "fc41": "3.30.5",
             "focal": "3.16.3",
             "jammy": "3.22.1",
             "noble": "3.28.3",
@@ -89,6 +90,7 @@
             "el9": "11.4.1",
             "fc39": "13.2.1",
             "fc40": "14.0.1",
+            "fc41": "14.2.1",
             "focal": "9.3.0",
             "jammy": "11.2.0",
             "noble": "13.2.0",
