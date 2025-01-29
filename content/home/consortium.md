@@ -224,14 +224,11 @@ weight: 1
 <li>Hefei Taize Turbomachinery Technology, Hefei, China</li>
 <li><a href="https://www.isid.co.jp">ISID Dentsu, Tokyo, Japan</a></li>
 <li><a href="https://www.inria.fr/en/centre-inria-rennes-bretagne-atlantique">INRIA, Rennes, France</a></li>
-<li><a href="https://www.jsol.co.jp/english/index.html">JSOL Corporation, Tokyo, Japan</a></li>
 <li><a href="https://www.maplesoft.com">Maplesoft, Canada</a></li>
-<li><a href="https://metroscope.tech/">Metroscope, Paris, France</a></li>
 <li><a href="https://www.modelicon.in/">ModeliCon InfoTech, Bangalore, India</a></li>
 <li><a href="https://www.o-de.ai/">Orthogonal Super Systems, Munich, Germany</a></li>
 <li><a href="https://www.reusecompany.com/office-spain">REUSE company, Madrid, Spain</a></li>
 <li><a href="http://www.rte-france.com">RTE France, Paris, France</a></li>
-<li><a href="http://tongyuan.cc/">Suzhou Tongyuan Software &amp; Control Technology Co., Ltd., China</a></li>
 <li><a href="https://www.saab.com">Saab, Linköping, Sweden</a></li>
 <li><a href="https://www.bloomberg.com/profile/company/1732547D:CH">Shanghai Duanyan Information Technology Co., Ltd., China</a></li>
 <li><a href="http://www.sil3x.fr">SIL3X, Paris, France</a></li>
@@ -239,7 +236,6 @@ weight: 1
 <li><a href="https://smart.fluidpower.it/">SmartFluidPower, Modena, Italy</a></li>
 <li><a href="https://www.swegon.com/"> Swegon AB, Gothenburg, Sweden</a></li>
 <li><a href="https://www.tlk-thermo.com">TLK Thermo, Braunschweig, Germany</a></li>
-<li><a href="https://talentswarm.com">Talent Swarm, Madrid, Spain</a><span style="mso-ansi-language: EN-US;" lang="EN-US"> </span></li>
 <li><a href="https://www.volvocars.com/se">Volvo Cars, Göteborg, Sweden</a></li>
 <li><a href="https://www.vti.se"><span style="mso-ansi-language: SV;" lang="SV">VTI, Linköping, Sweden</span></a></li>
 <li><a href="https://www.xrg-simulation.de/">XRG Simulation, Hamburg, Germany</a></li>
@@ -257,7 +253,6 @@ weight: 1
 <li>University of Catalunya (CITCEA-UPC),&nbsp; Spain</li>
 <li>Chalmers University, Control, Sweden</li>
 <li>Chalmers University, Machine, Sweden</li>
-<li>Technical University Darmstadt, Germany</li>
 <li>Technical University&nbsp;Delft, The Netherlands</li>
 <li>Technical University&nbsp;Dresden, Germany</li>
 <li>Université Laval, Canada</li>
@@ -307,6 +302,8 @@ weight: 1
 <li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Gebremedhin Mahder&nbsp;</span></span></li>
 <li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Grozman Pavel&nbsp;</span></span></li>
 <li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Gubsch Ines&nbsp;</span></span></li>
+<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Hao Hong
+&nbsp;</span></span></li>
 <li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Heuveline Vincent&nbsp;</span></span></li>
 <li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Horkeby Sune&nbsp;</span></span></li>
 <li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Hossain Muhammed Zoheb&nbsp;</span></span></li>
@@ -332,6 +329,8 @@ weight: 1
 <li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Lindberg Rickard&nbsp;</span></span></li>
 <li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Link Kilian</span></span></li>
 <li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Lundvall Håkan&nbsp;</span></span></li>
+<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Lv Hong
+&nbsp;</span></span></li>
 <li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Magnusson Henrik&nbsp;</span></span></li>
 <li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Mavris Dimitri</span></span></li>
 <li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Metkar Abhir Raj&nbsp;</span></span></li>
