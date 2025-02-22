@@ -88,7 +88,9 @@ var selectedDebCodename = function() {
 };
 var selectedRpmCodename = function() {
   var codeNameValue=document.getElementById("rpm-codename-select").value;
+  var addRepoCommand=(codeNameValue=="fc41" ? "addrepo --from-repofile=" : "--add-repo ");
   document.getElementById("rpm-os").innerHTML=codeNameValue;
+  document.getElementById("rpm-os-add-repo-command").innerHTML=addRepoCommand;
   var codenameSelect = [];
   var archValue = document.getElementById("rpm-arch-select").value;
   var collator = new Intl.Collator(undefined, {numeric: true, sensitivity: 'base'});
@@ -284,7 +286,7 @@ dnf config-manager --set-enabled crb
 <div id="el-specifics-container"></div>
 
 <div class="highlight"><pre tabindex="0" class="chroma">
-<code>dnf config-manager --add-repo https://build.openmodelica.org/rpm/<span id="rpm-os">ENTER-RPM-OS-VERSION-HERE</span>/omc.repo</code>
+<code>dnf config-manager <span id="rpm-os-add-repo-command">ENTER-RPM-ADD-REPO-COMMAND-HERE</span>https://build.openmodelica.org/rpm/<span id="rpm-os">ENTER-RPM-OS-VERSION-HERE</span>/omc.repo</code>
 </pre></div>
 
 Once the repository has been enabled in the OS, install OpenModelica:
