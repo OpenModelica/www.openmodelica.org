@@ -7,5 +7,5 @@ OSMC Director: Francesco Casella, francesco.casella [at] polimi.it&nbsp; <br />
 OSMC Vice Director: Peter Fritzson, Peter.Fritzson [at] liu.se&nbsp; <br />
 OSMC Technical Coordinator: Adrian Pop, Adrian.Pop [at] liu.se<br />
 Contact us: OpenModelica [at] ida.liu.se<br />
-Webmaster: Bruno Scaglioni, bruno.scaglioni [at] musp.it
+Webmaster: OpenModelica [at] ida.liu.se
 </p>
