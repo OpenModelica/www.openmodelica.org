@@ -1,8 +1,8 @@
 {
     "version": {
         "release": "1.25.0",
-        "stable": "1.25.0~2-ge56b89b",
-        "nightly": "1.26.0~dev-73-gb6ba6b1"
+        "stable": "1.25.0~3-g9a58ffd",
+        "nightly": "1.26.0~dev-99-gd55fe79"
     },
     "deb": {
         "amd64": [
@@ -10,7 +10,8 @@
             "focal",
             "jammy",
             "noble",
-            "oracular"
+            "oracular",
+            "plucky"
         ],
         "arm64": [
             "bookworm",
@@ -41,6 +42,9 @@
             ],
             "fc41": [
                 "openmodelica-nightly"
+            ],
+            "fc42": [
+                "openmodelica-nightly"
             ]
         }
     },
@@ -50,10 +54,12 @@
         "el9": "2032-05-31",
         "fc40": "2025-05-28",
         "fc41": "2025-11-19",
+        "fc42": "2026-05-13",
         "focal": "2025-05-31",
         "jammy": "2027-04-01",
         "noble": "2029-04-25",
-        "oracular": "2025-07-11"
+        "oracular": "2025-07-10",
+        "plucky": "2026-01-17"
     },
     "pkg": {
         "clang": {
@@ -62,10 +68,12 @@
             "el9": "-",
             "fc40": "-",
             "fc41": "-",
+            "fc42": "-",
             "focal": "10.0",
             "jammy": "14.0",
             "noble": "18.0",
-            "oracular": "19.0"
+            "oracular": "19.0",
+            "plucky": "20.0"
         },
         "cmake": {
             "bookworm": "3.25.1",
@@ -73,10 +81,12 @@
             "el9": "3.26.5",
             "fc40": "3.30.5",
             "fc41": "3.30.5",
+            "fc42": "3.31.6",
             "focal": "3.16.3",
             "jammy": "3.22.1",
             "noble": "3.28.3",
-            "oracular": "3.30.3"
+            "oracular": "3.30.3",
+            "plucky": "3.31.6"
         },
         "gcc": {
             "bookworm": "12.2.0",
@@ -84,10 +94,12 @@
             "el9": "11.5.0",
             "fc40": "14.2.1",
             "fc41": "14.2.1",
+            "fc42": "15.1.1",
             "focal": "9.3.0",
             "jammy": "11.2.0",
             "noble": "13.2.0",
-            "oracular": "14.1.0"
+            "oracular": "14.1.0",
+            "plucky": "14.2.0"
         }
     }
 }
