@@ -1,13 +1,12 @@
 {
     "version": {
         "release": "1.25.0",
-        "stable": "1.25.0~10-ga74ecac",
-        "nightly": "1.26.0~dev-128-gcc2ffb7"
+        "stable": "1.25.0~14-gb4a80e0",
+        "nightly": "1.26.0~dev-147-gc283aac"
     },
     "deb": {
         "amd64": [
             "bookworm",
-            "focal",
             "jammy",
             "noble",
             "oracular",
@@ -15,13 +14,11 @@
         ],
         "arm64": [
             "bookworm",
-            "focal",
             "jammy",
             "noble"
         ],
         "armhf": [
             "bookworm",
-            "focal",
             "jammy",
             "noble"
         ],
@@ -31,6 +28,9 @@
     },
     "rpm": {
         "amd64": {
+            "el10": [
+                "openmodelica-nightly"
+            ],
             "el8": [
                 "openmodelica-nightly"
             ],
@@ -47,11 +47,11 @@
     },
     "eol": {
         "bookworm": "2026-06-10",
+        "el10": "2035-05-31",
         "el8": "2029-03-01",
         "el9": "2032-05-31",
         "fc41": "2025-11-19",
         "fc42": "2026-05-13",
-        "focal": "2025-05-31",
         "jammy": "2027-04-01",
         "noble": "2029-04-25",
         "oracular": "2025-07-10",
@@ -60,11 +60,11 @@
     "pkg": {
         "clang": {
             "bookworm": "14.0",
+            "el10": "-",
             "el8": "-",
             "el9": "-",
             "fc41": "-",
             "fc42": "-",
-            "focal": "10.0",
             "jammy": "14.0",
             "noble": "18.0",
             "oracular": "19.0",
@@ -72,11 +72,11 @@
         },
         "cmake": {
             "bookworm": "3.25.1",
+            "el10": "3.30.5",
             "el8": "3.26.5",
             "el9": "3.26.5",
             "fc41": "3.30.5",
             "fc42": "3.31.6",
-            "focal": "3.16.3",
             "jammy": "3.22.1",
             "noble": "3.28.3",
             "oracular": "3.30.3",
@@ -84,11 +84,11 @@
         },
         "gcc": {
             "bookworm": "12.2.0",
+            "el10": "14.2.1",
             "el8": "8.5.0",
             "el9": "11.5.0",
             "fc41": "14.2.1",
             "fc42": "15.1.1",
-            "focal": "9.3.0",
             "jammy": "11.2.0",
             "noble": "13.2.0",
             "oracular": "14.1.0",
