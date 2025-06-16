@@ -227,7 +227,9 @@ weight: 1
 <li><a href="https://www.maplesoft.com">Maplesoft, Canada</a></li>
 <li><a href="https://www.modelicon.in/">ModeliCon InfoTech, Bangalore, India</a></li>
 <li><a href="https://www.o-de.ai/">Orthogonal Super Systems, Munich, Germany</a></li>
+<!-- inactive member
 <li><a href="https://www.reusecompany.com/office-spain">REUSE company, Madrid, Spain</a></li>
+-->
 <li><a href="http://www.rte-france.com">RTE France, Paris, France</a></li>
 <li><a href="https://www.saab.com">Saab, Linköping, Sweden</a></li>
 <li><a href="https://www.bloomberg.com/profile/company/1732547D:CH">Shanghai Duanyan Information Technology Co., Ltd., China</a></li>
@@ -236,7 +238,9 @@ weight: 1
 <li><a href="https://smart.fluidpower.it/">SmartFluidPower, Modena, Italy</a></li>
 <li><a href="https://www.swegon.com/"> Swegon AB, Gothenburg, Sweden</a></li>
 <li><a href="https://www.tlk-thermo.com">TLK Thermo, Braunschweig, Germany</a></li>
+<!-- inactive member
 <li><a href="https://www.volvocars.com/se">Volvo Cars, Göteborg, Sweden</a></li>
+-->
 <li><a href="https://www.vti.se"><span style="mso-ansi-language: SV;" lang="SV">VTI, Linköping, Sweden</span></a></li>
 <li><a href="https://www.xrg-simulation.de/">XRG Simulation, Hamburg, Germany</a></li>
 </ul>
