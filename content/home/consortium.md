@@ -263,7 +263,7 @@ weight: 1
 <li>Technical University&nbsp;Hamburg, Germany</li>
 <li>IIT Bombay, Mumbai, India</li>
 <li>Linköping University, Sweden</li>
-<li>Linnaeus University, Sweden<li>
+<li>Linnaeus University, Sweden</li>
 <li>University of Leuven, SySi group, Heverlee, Belgium</li>
 <li>University of Maryland, System Enginerring, USA</li>
 <li>University of Maryland, CEEE, USA&nbsp;</li>
