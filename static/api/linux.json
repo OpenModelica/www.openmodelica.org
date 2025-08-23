@@ -1,25 +1,28 @@
 {
     "version": {
-        "release": "1.25.1",
-        "stable": "1.25.1~2-g175c5c9",
-        "nightly": "1.26.0~dev-232-g219c923"
+        "release": "1.25.2",
+        "stable": "1.25.2",
+        "nightly": "1.26.0~dev-265-g885e18d"
     },
     "deb": {
         "amd64": [
             "bookworm",
             "jammy",
             "noble",
-            "plucky"
+            "plucky",
+            "trixie"
         ],
         "arm64": [
             "bookworm",
             "jammy",
-            "noble"
+            "noble",
+            "trixie"
         ],
         "armhf": [
             "bookworm",
             "jammy",
-            "noble"
+            "noble",
+            "trixie"
         ],
         "i386": [
             
@@ -53,7 +56,8 @@
         "fc42": "2026-05-13",
         "jammy": "2027-04-01",
         "noble": "2029-04-25",
-        "plucky": "2026-01-17"
+        "plucky": "2026-01-17",
+        "trixie": "2028-08-09"
     },
     "pkg": {
         "clang": {
@@ -65,7 +69,8 @@
             "fc42": "-",
             "jammy": "14.0",
             "noble": "18.0",
-            "plucky": "20.0"
+            "plucky": "20.0",
+            "trixie": "19.0"
         },
         "cmake": {
             "bookworm": "3.25.1",
@@ -76,7 +81,8 @@
             "fc42": "3.31.6",
             "jammy": "3.22.1",
             "noble": "3.28.3",
-            "plucky": "3.31.6"
+            "plucky": "3.31.6",
+            "trixie": "3.31.6"
         },
         "gcc": {
             "bookworm": "12.2.0",
@@ -87,7 +93,8 @@
             "fc42": "15.1.1",
             "jammy": "11.2.0",
             "noble": "13.2.0",
-            "plucky": "14.2.0"
+            "plucky": "14.2.0",
+            "trixie": "14.2.0"
         }
     }
 }
