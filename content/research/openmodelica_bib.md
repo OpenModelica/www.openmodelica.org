@@ -2784,7 +2784,7 @@ title: "openmodelica.bib"
   author = {Francesco Casella and Filippo Donida and Bernhard Bachmann and Peter Aronsson},
   title = { Overdetermined Steady-State Initialization Problems in Ob\-ject-Ori\-ent\-ed Fluid System Models},
   crossref = {<a href="#modelica2008">modelica2008</a>},
-  pdf = {https://www.modelica.org/events/modelica2008/Proceedings/sessions/session3b4.pdf}
+  pdf = {https://www.modelica.org/events/conference2008/sessions/session3b4.pdf}
 }
 </pre>
 
@@ -2986,7 +2986,7 @@ title: "openmodelica.bib"
   author = {Elmir Jagudin and Andreas Remar and Adrian Pop and Peter Fritzson},
   title = {OpenModelica MDT Eclipse Plugin for Modelica Development, Code Browsing, and Simulation},
   crossref = {<a href="#sims2006">sims2006</a>},
-  pdf = {https://www.modelica.org/publications/papers/2006-09-Jagudin-Remar-Pop-Fritzson-SIMS06-MDTEclipse.pdf}
+  pdf = {https://www.modelica.org/papers/2006-09-Jagudin-Remar-Pop-Fritzson-SIMS06-MDTEclipse.pdf}
 }
 </pre>
 
@@ -2995,7 +2995,7 @@ title: "openmodelica.bib"
   author = {Martin Fransson and Peter Fritzson and Malin Lindqvist and Curt Peterson},
   title = {A Preliminary Study of Modeling and Simulation in Individualized Drug Dosage - Azathioprine on Inflammatory Bowel Disease},
   crossref = {<a href="#sims2006">sims2006</a>},
-  pdf = {https://www.modelica.org/publications/papers/2006-09-Fransson-Fritzson-Lindqvist-Peterson-SIMS06-drugdosage.pdf}
+  pdf = {https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-10250}
 }
 </pre>
 
@@ -3004,7 +3004,7 @@ title: "openmodelica.bib"
   author = {Anders Sandholm and Peter Fritzson and Gunilla Nilsson and Göran Petersson},
   title = {Towards a Flexible General Training Simulator Platform Based on Modelica},
   crossref = {<a href="#sims2006">sims2006</a>},
-  pdf = {https://www.modelica.org/publications/papers/2006-09-30-Sandholm-Fritzson-etal-SIMS06-training-sim.pdf}
+  pdf = {https://www.modelica.org/papers/2006-09-30-Sandholm-Fritzson-etal-SIMS06-training-sim.pdf}
 }
 </pre>
 
@@ -3023,7 +3023,7 @@ title: "openmodelica.bib"
   booktitle = {In Proc. of the Workshop on Developing Computer Science Education – How Can It Be Done?, Linkoping, Sweden},
   month = {March},
   year = {2006},
-  url = {https://modelica.org/publications/papers/2006-03-10-Fernstrom-etal-TeachingWorkshop-NotebookTeaching.pdf}
+  url = {https://modelica.org/papers/2006-03-10-Fernstrom-etal-TeachingWorkshop-NotebookTeaching.pdf}
 }
 </pre>
 
@@ -3076,7 +3076,7 @@ title: "openmodelica.bib"
   author = {Kaj Nyström and Peter Aronsson and Peter Fritzson},
   title = {GridModelica - A Modeling and Simulation Framework for the Grid},
   crossref = {<a href="#sims2004">sims2004</a>},
-  pdf = {https://www.modelica.org/publications/papers/2004-09-Kaj-SIMS2004-GRIDMODELICA.pdf}
+  pdf = {https://www.modelica.org/papers/2004-09-Kaj-SIMS2004-GRIDMODELICA.pdf}
 }
 </pre>
 
@@ -3094,7 +3094,7 @@ title: "openmodelica.bib"
   author = {Håkan Lundvall and Peter Bunus and Peter Fritzson},
   title = {Towards Automatic Generation of Model Checkable Code from Modelica},
   crossref = {<a href="#sims2004">sims2004</a>},
-  pdf = {https://www.modelica.org/publications/papers/2004-09-Lundvall-sims2004-040812.pdf}
+  pdf = {https://www.modelica.org/papers/2004-09-Lundvall-sims2004-040812.pdf}
 }
 </pre>
 
@@ -3119,7 +3119,7 @@ title: "openmodelica.bib"
   author = {Andreas Idebrant and Peter Fritzson},
   title = {Aircraft - A Modelica Library for Aircraft Dynamics Simulation},
   crossref = {<a href="#eurosim2004">eurosim2004</a>},
-  pdf = {https://www.modelica.org/publications/papers/2004-09-Idebrant-Fritzson-AircraftLib-Eurosim.pdf}
+  pdf = {https://www.modelica.org/papers/2004-09-Idebrant-Fritzson-AircraftLib-Eurosim.pdf}
 }
 </pre>
 
@@ -3128,7 +3128,7 @@ title: "openmodelica.bib"
   author = {Vadim Engelson and Peter Fritzson and Ulf Sellgren},
   title = {An Easy-to-use Generic Model Configurator for Models in Multiple Tool Formats},
   crossref = {<a href="#eurosim2004">eurosim2004</a>},
-  pdf = {https://www.modelica.org/publications/papers/2004-09-Engelson-Fritzson-Sellgren-Eurosim-Configurator.pdf}
+  pdf = {https://www.modelica.org/papers/2004-09-Engelson-Fritzson-Sellgren-Eurosim-Configurator.pdf}
 }
 </pre>
 
@@ -3137,7 +3137,7 @@ title: "openmodelica.bib"
   author = {Peter Fritzson and Vadim Engelson and  Andreas Idebrant and Peter Aronsson and Håkan Lundvall and Peter Bunus and Kaj Nyström},
   title = {Modelica - A Strongly Typed System Specification Language for Safe Engineering Practices},
   crossref = {<a href="#simsafe2004">simsafe2004</a>},
-  pdf = {https://www.modelica.org/publications/papers/2004-05-Fritzson-Engelson-Idebrant-Aronsson-Simsafe-ModelicaSafety.pdf}
+  pdf = {https://www.modelica.org/papers/2004-05-Fritzson-Engelson-Idebrant-Aronsson-Simsafe-ModelicaSafety.pdf}
 }
 </pre>
 
@@ -3191,7 +3191,7 @@ title: "openmodelica.bib"
   author = {Peter Aronsson and Peter Fritzson and Levon Saldamli and Peter Bunus},
   title = {Incremental declaration handling in Open Source Modelica},
   crossref = {<a href="#sims2002">sims2002</a>},
-  pdf = {https://www.modelica.org/publications/papers/2002-09_aronsson_sims-incrdeclhandlingmodelica.pdf}
+  pdf = {https://www.modelica.org/papers/2002-09_aronsson_sims-incrdeclhandlingmodelica.pdf}
 }
 </pre>
 
@@ -3200,7 +3200,7 @@ title: "openmodelica.bib"
   author = {Vadim Engelson and Peter Fritzson},
   title = {Distributed Simulation Environment for Heterogeneous Computer Clusters},
   crossref = {<a href="#sims2002">sims2002</a>},
-  pdf = {https://www.modelica.org/publications/papers/2002-09_engelson_sims-distrsimulationenvironment.pdf}
+  pdf = {https://www.modelica.org/papers/2002-09_engelson_sims-distrsimulationenvironment.pdf}
 }
 </pre>
 
@@ -3299,7 +3299,7 @@ title: "openmodelica.bib"
   month = jun,
   year = {1998},
   publisher = {Springer Verlag},
-  pdf = {https://www.modelica.org/publications/papers/1998-06-fritzson-para98LNCS1541-equationbasedmodelingandHighPerformance.pdf}
+  pdf = {https://www.modelica.org/papers/1998-06-fritzson-para98LNCS1541-equationbasedmodelingandHighPerformance.pdf}
 }
 </pre>
 
