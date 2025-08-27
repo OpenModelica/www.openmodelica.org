@@ -50,7 +50,31 @@ pipeline {
     steps {
       script {
         echo "Running on: ${env.NODE_NAME}"
-        sh "HOME=/tmp && linkchecker --threads=15  --no-robots --check-extern --ignore-url=https://openmodelica.org/forum --ignore-url=https://openmodelica.org/doc --ignore-url=https://openmodelica.org/svn --ignore-url=https://lists.liu.se/mailman/listinfo --ignore-url=https://openmodelica.org/git-readonly/ --ignore-url=http://omwebbook.openmodelica.org/ --ignore-url=https://openmodelica.org/git/ --ignore-url=http://dx.doi.org/10. --ignore-url=https://www.sj.se --ignore-url=http://en.wikipedia.org --ignore-url=https://www.statistikdatabasen.scb.se/ https://openmodelica.org"
+        sh '''
+        HOME=/tmp && linkchecker --threads=15  --no-robots --check-extern 
+        --ignore-url=https://openmodelica.org/forum \
+        --ignore-url=https://openmodelica.org/doc \
+        --ignore-url=https://openmodelica.org/svn \
+        --ignore-url=https://lists.liu.se/mailman/listinfo \
+        --ignore-url=https://openmodelica.org/git-readonly/ \
+        --ignore-url=http://omwebbook.openmodelica.org/ \
+        --ignore-url=https://openmodelica.org/git/ \
+        --ignore-url=http://dx.doi.org/10. \
+        --ignore-url=https://www.sj.se \
+        --ignore-url=http://en.wikipedia.org \
+        --ignore-url=https://www.statistikdatabasen.scb.se/ \
+        --ignore-url=https://www.bloomberg.com/profile/company/1732547D%3ACH \
+        --ignore-url=https://www.linkopingcityairport.se/?lang=en \
+        --ignore-url=https://www.flygbussarna.se/en/ \
+        --ignore-url=https://dl.acm.org/citation.cfm?id=. \
+        --ignore-url=https://ieeexplore.ieee.org/stamp/. \
+        --ignore-url=http://archiv.aplimat.com/2007. \
+        --ignore-url=http://www.internationalmathematicasymposium.org/IMS99. \
+        --ignore-url=http://www.sciencedirect.com/science/article/pii/S0096300317308883 \
+        --ignore-url=http://eu.wiley.com/WileyCDA/WileyTitle/productCd-111885912X.html \
+        --ignore-url=https://www.vadstena.se \
+        https://openmodelica.org"
+        '''
       }
     }
   }

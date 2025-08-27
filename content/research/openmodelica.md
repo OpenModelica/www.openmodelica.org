@@ -181,7 +181,7 @@ Peter Aronsson, Peter Fritzson, Levon Saldamli, and Peter Bunus.
  Incremental declaration handling in open source modelica.
  In SIMS'2002 [<a href="#sims2002">282</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:aronsson:sims:2002">bib</a>&nbsp;| 
-<a href="https://www.modelica.org/publications/papers/2002-09_aronsson_sims-incrdeclhandlingmodelica.pdf">.pdf</a>&nbsp;]
+<a href="https://www.modelica.org/papers/2002-09_aronsson_sims-incrdeclhandlingmodelica.pdf">.pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -851,7 +851,7 @@ Francesco Casella, Filippo Donida, Bernhard Bachmann, and Peter Aronsson.
   object-oriented fluid system models.
  In Bachmann [<a href="#modelica2008">20</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:casella:modelica:2008">bib</a>&nbsp;| 
-<a href="https://www.modelica.org/events/modelica2008/Proceedings/sessions/session3b4.pdf">.pdf</a>&nbsp;]
+<a href="https://www.modelica.org/events/conference2008/sessions/session3b4.pdf">.pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -1203,7 +1203,7 @@ Vadim Engelson and Peter Fritzson.
   clusters.
  In SIMS'2002 [<a href="#sims2002">282</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:endelson:sims:2002">bib</a>&nbsp;| 
-<a href="https://www.modelica.org/publications/papers/2002-09_engelson_sims-distrsimulationenvironment.pdf">.pdf</a>&nbsp;]
+<a href="https://www.modelica.org/papers/2002-09_engelson_sims-distrsimulationenvironment.pdf">.pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -1219,7 +1219,7 @@ Vadim Engelson, Peter Fritzson, and Ulf Sellgren.
   formats.
  In EUROSIM'2004 [<a href="#eurosim2004">83</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:engelson:eurosim:2004">bib</a>&nbsp;| 
-<a href="https://www.modelica.org/publications/papers/2004-09-Engelson-Fritzson-Sellgren-Eurosim-Configurator.pdf">.pdf</a>&nbsp;]
+<a href="https://www.modelica.org/papers/2004-09-Engelson-Fritzson-Sellgren-Eurosim-Configurator.pdf">.pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -1366,7 +1366,7 @@ Anders Fernström, Ingemar Axelsson, Peter Fritzson, Anders Sandholm, and
  In <em>In Proc. of the Workshop on Developing Computer Science
   Education – How Can It Be Done?, Linkoping, Sweden</em>, March 2006.
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:pop:Anders:DCSE:2006">bib</a>&nbsp;| 
-<a href="https://modelica.org/publications/papers/2006-03-10-Fernstrom-etal-TeachingWorkshop-NotebookTeaching.pdf">.pdf</a>&nbsp;]
+<a href="https://modelica.org/papers/2006-03-10-Fernstrom-etal-TeachingWorkshop-NotebookTeaching.pdf">.pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -1411,7 +1411,7 @@ Martin Fransson, Peter Fritzson, Malin Lindqvist, and Curt Peterson.
   dosage - azathioprine on inflammatory bowel disease.
  In SIMS'2006 [<a href="#sims2006">286</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:fransson:sims:2006">bib</a>&nbsp;| 
-<a href="https://www.modelica.org/publications/papers/2006-09-Fransson-Fritzson-Lindqvist-Peterson-SIMS06-drugdosage.pdf">.pdf</a>&nbsp;]
+<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-10250">.pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -1527,7 +1527,7 @@ Peter Fritzson.
   Computing in Large Scale Scientific and Industrial Problems</em>. Springer
   Verlag, June 1998.
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:fritzson:para:1998">bib</a>&nbsp;| 
-<a href="https://www.modelica.org/publications/papers/1998-06-fritzson-para98LNCS1541-equationbasedmodelingandHighPerformance.pdf">.pdf</a>&nbsp;]
+<a href="https://www.modelica.org/papers/1998-06-fritzson-para98LNCS1541-equationbasedmodelingandHighPerformance.pdf">.pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -1861,7 +1861,7 @@ Peter Fritzson, Vadim Engelson, Andreas Idebrant, Peter Aronsson, Håkan
   engineering practices.
  In SIMSafe'2004 [<a href="#simsafe2004">291</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:fritzson:simsafe:2004">bib</a>&nbsp;| 
-<a href="https://www.modelica.org/publications/papers/2004-05-Fritzson-Engelson-Idebrant-Aronsson-Simsafe-ModelicaSafety.pdf">.pdf</a>&nbsp;]
+<a href="https://www.modelica.org/papers/2004-05-Fritzson-Engelson-Idebrant-Aronsson-Simsafe-ModelicaSafety.pdf">.pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -2355,7 +2355,7 @@ Andreas Idebrant and Peter Fritzson.
  Aircraft - a modelica library for aircraft dynamics simulation.
  In EUROSIM'2004 [<a href="#eurosim2004">83</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:idebrant:eurosim:2004">bib</a>&nbsp;| 
-<a href="https://www.modelica.org/publications/papers/2004-09-Idebrant-Fritzson-AircraftLib-Eurosim.pdf">.pdf</a>&nbsp;]
+<a href="https://www.modelica.org/papers/2004-09-Idebrant-Fritzson-AircraftLib-Eurosim.pdf">.pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -2396,7 +2396,7 @@ Elmir Jagudin, Andreas Remar, Adrian Pop, and Peter Fritzson.
   browsing, and simulation.
  In SIMS'2006 [<a href="#sims2006">286</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:jagudin:sims:2006">bib</a>&nbsp;| 
-<a href="https://www.modelica.org/publications/papers/2006-09-Jagudin-Remar-Pop-Fritzson-SIMS06-MDTEclipse.pdf">.pdf</a>&nbsp;]
+<a href="https://www.modelica.org/papers/2006-09-Jagudin-Remar-Pop-Fritzson-SIMS06-MDTEclipse.pdf">.pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -2813,7 +2813,7 @@ Håkan Lundvall, Peter Bunus, and Peter Fritzson.
  Towards automatic generation of model checkable code from modelica.
  In SIMS'2004 [<a href="#sims2004">284</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:lundvall:sims:2004">bib</a>&nbsp;| 
-<a href="https://www.modelica.org/publications/papers/2004-09-Lundvall-sims2004-040812.pdf">.pdf</a>&nbsp;]
+<a href="https://www.modelica.org/papers/2004-09-Lundvall-sims2004-040812.pdf">.pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -3315,7 +3315,7 @@ Kaj Nyström, Peter Aronsson, and Peter Fritzson.
  Gridmodelica - a modeling and simulation framework for the grid.
  In SIMS'2004 [<a href="#sims2004">284</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:nystrom:sims:2004">bib</a>&nbsp;| 
-<a href="https://www.modelica.org/publications/papers/2004-09-Kaj-SIMS2004-GRIDMODELICA.pdf">.pdf</a>&nbsp;]
+<a href="https://www.modelica.org/papers/2004-09-Kaj-SIMS2004-GRIDMODELICA.pdf">.pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -4132,7 +4132,7 @@ Anders Sandholm, Peter Fritzson, Gunilla Nilsson, and Göran Petersson.
   modelica.
  In SIMS'2006 [<a href="#sims2006">286</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:sandholm:sims:2006">bib</a>&nbsp;| 
-<a href="https://www.modelica.org/publications/papers/2006-09-30-Sandholm-Fritzson-etal-SIMS06-training-sim.pdf">.pdf</a>&nbsp;]
+<a href="https://www.modelica.org/papers/2006-09-30-Sandholm-Fritzson-etal-SIMS06-training-sim.pdf">.pdf</a>&nbsp;]
 
 </td>
 </tr>
