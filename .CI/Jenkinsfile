@@ -73,7 +73,7 @@ pipeline {
         --ignore-url=http://www.sciencedirect.com/science/article/pii/S0096300317308883 \
         --ignore-url=http://eu.wiley.com/WileyCDA/WileyTitle/productCd-111885912X.html \
         --ignore-url=https://www.vadstena.se \
-        https://openmodelica.org"
+        https://openmodelica.org
         '''
       }
     }
