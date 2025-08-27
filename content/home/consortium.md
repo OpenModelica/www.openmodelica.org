@@ -226,7 +226,7 @@ weight: 1
 <li><a href="https://www.inria.fr/en/centre-inria-rennes-bretagne-atlantique">INRIA, Rennes, France</a></li>
 <li><a href="https://www.maplesoft.com">Maplesoft, Canada</a></li>
 <li><a href="https://www.modelicon.in/">ModeliCon InfoTech, Bangalore, India</a></li>
-<li><a href="https://www.o-de.ai/">Orthogonal Super Systems, Munich, Germany</a></li>
+<li><a href="https://plus.orthogonal.dev/">Orthogonal Super Systems, Munich, Germany</a></li>
 <!-- inactive member
 <li><a href="https://www.reusecompany.com/office-spain">REUSE company, Madrid, Spain</a></li>
 -->
