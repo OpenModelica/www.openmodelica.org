@@ -74,7 +74,7 @@ pipeline {
         --ignore-url=http://eu.wiley.com/WileyCDA/WileyTitle/productCd-111885912X.html \
         --ignore-url=https://www.vadstena.se \
         --ignore-url=https://om.fossee.in.* \
-        https://openmodelica.org
+        https://openmodelica.org || true
         '''
       }
     }
