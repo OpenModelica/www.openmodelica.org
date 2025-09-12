@@ -14,7 +14,7 @@ Join the OpenModelicaInterest [mailing list](/useresresources/mailing-list) to 
 
 Help us: get the latest [source code or nightly-build](/developersresources/sourcecode) and report [bugs]({{< param "bugreporting" >}}).
 
-To learn about Modelica, read a [book](/research/booksproceedings) or a [tutorial](images/M_images/250204-ModelicaTutorial-PeterFritzson-AdrianPop-MODPROD-2025.pdf) about [Modelica](http://www.modelica.org).
+To learn about Modelica, read a [book](/research/booksproceedings) or a [tutorial](images/M_images/250908-ModelicaTutorial-PeterFritzson-2025.pdf) about [Modelica](http://www.modelica.org).
 
 Interactive step-by-step beginners Modelica [on-line spoken tutorials](http://spoken-tutorial.org/tutorial-search/?search_foss=OpenModelica&search_language=English)
 Interactive [OMWebbook](http://omwebbook.openmodelica.org/) with examples of Modelica textual modeling and [textbook companions](http://om.fossee.in/textbook-companion/completed-books) with application OpenModelica exercises.
