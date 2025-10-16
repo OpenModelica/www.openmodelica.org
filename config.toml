@@ -4,8 +4,8 @@ title = 'OpenModelica'
 theme = 'openmodelica'
 
 [params]
-  current_version = {release = '1.25.4', stable = '1.25.4', nightly = '1.26.0-dev'}
-  current_branch = {release = 'v1.25.4', stable = 'maintenance/v1.25', nightly = 'master'}
+  current_version = {release = '1.25.5', stable = '1.25.5', nightly = '1.26.0-dev'}
+  current_branch = {release = 'v1.25.5', stable = 'maintenance/v1.25', nightly = 'master'}
   bugreporting = 'https://github.com/OpenModelica/OpenModelica/blob/master/BUGREPORTING.md'
   roadmap = 'https://github.com/OpenModelica/OpenModelica/milestones'
 
