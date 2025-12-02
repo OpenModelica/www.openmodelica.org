@@ -1,5 +1,5 @@
 ---
-title: "OpenModelica/MODPROD Workshop Feb 2-4, 2026"
+title: "OpenModelica and MODPROD Workshops Feb 2-4, 2026"
 tags: [news]
 date: 2025-12-02
 expirydate: 2026-02-05
