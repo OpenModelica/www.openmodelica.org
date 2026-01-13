@@ -1,6 +1,6 @@
 ---
 title: "Openmodelica v1.26.1 released!"
-date: "2026-01-13T10:00:00+01:00"
+date: "2026-01-13T00:00:00+01:00"
 conference_end_date: null
 rss_ignore: false
 tags: ["news"]
