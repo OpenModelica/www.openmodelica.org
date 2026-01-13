@@ -6,7 +6,7 @@ rss_ignore: false
 tags: ["news"]
 ---
 
-OpenModelica v1.26.1 is now released. This is a minor release to fix important issues.
+OpenModelica v1.26.1 is now released. This patch release for 1.26.0 contains critical fixes to avoid OMEdit crashes and incorrect code generation. Please do upgrade to 1.26.1 if you have already installed 1.26.0.
 
 Download [Linux](/download/download-linux/), [Mac](/download/download-mac/), [Windows](/download/download-windows/). Report bugs in [GitHub]({{< param "bugreporting" >}}).
 
