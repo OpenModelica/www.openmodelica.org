@@ -197,7 +197,7 @@ title: "openmodelica.bib"
   isbn = {978-91-7519-624-4},
   issn = {0280-7971},
   liu = {LiU-Tek-Lic-2013:26},
-  url = {<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-90096">https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-90096</a>},
+  url = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-90096">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-90096</a>},
   urldate = {2013-06-11}
 }
 </pre>
@@ -212,7 +212,7 @@ title: "openmodelica.bib"
   school = {Linköping University},
   isbn = {978-91-7393-047-5},
   liu = {LIU-TEK-LIC-2011:46},
-  url = {<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-71270">https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-71270</a>},
+  url = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-71270">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-71270</a>},
   urldate = {2012-01-20}
 }
 </pre>
@@ -227,7 +227,7 @@ title: "openmodelica.bib"
   address = {Sweden},
   month = oct,
   year = {2010},
-  url = {<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-58743">https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-58743</a>},
+  url = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-58743">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-58743</a>},
   urldate = {2011-10-07}
 }
 </pre>
@@ -255,7 +255,7 @@ title: "openmodelica.bib"
   school = {Linköping University},
   isbn = {978-91-7393-799-3},
   liu = {LIU-TEK-LIC-2008:39},
-  url = {<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-12504">https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-12504</a>},
+  url = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-12504">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-12504</a>},
   urldate = {2011-10-07}
 }
 </pre>
@@ -270,7 +270,7 @@ title: "openmodelica.bib"
   address = {Department of Computer and Information Science},
   school = {Linköping University},
   isbn = {91-85523-68-2},
-  url = {<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-7446">https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-7446</a>},
+  url = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-7446">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-7446</a>},
   urldate = {2011-10-07}
 }
 </pre>
@@ -285,7 +285,7 @@ title: "openmodelica.bib"
   address = {Sweden},
   month = may,
   year = {2006},
-  url = {<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-7281">https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-7281</a>},
+  url = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-7281">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-7281</a>},
   urldate = {2011-10-07}
 }
 </pre>
@@ -299,7 +299,7 @@ title: "openmodelica.bib"
   address = {Department of Computer and Information Science},
   school = {Linköping University},
   isbn = {91-7373-941-3},
-  url = {<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-35555">https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-35555</a>},
+  url = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-35555">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-35555</a>},
   urldate = {2011-10-07}
 }
 </pre>
@@ -314,7 +314,7 @@ title: "openmodelica.bib"
   school = {Linköping University},
   issn = {0280-7971},
   liu = {LiU-Tek-Lic-2002:37},
-  url = {<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-5727">https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-5727</a>},
+  url = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-5727">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-5727</a>},
   urldate = {2011-10-07}
 }
 </pre>
@@ -328,7 +328,7 @@ title: "openmodelica.bib"
   address = {Department of Computer and Information Science},
   school = {Linköping University},
   year = {2000},
-  url = {<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-35606">https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-35606</a>},
+  url = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-35606">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-35606</a>},
   urldate = {2011-10-07}
 }
 </pre>
@@ -362,7 +362,7 @@ title: "openmodelica.bib"
   year = {1999},
   isbn = {3-540-65968-4},
   doi = {10.1007/b71652},
-  bibsource = {DBLP, https://dblp.uni-trier.de}
+  bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 </pre>
 
@@ -377,7 +377,7 @@ title: "openmodelica.bib"
   supervisor = {Supervisor: Martin Sjölund},
   examiner = {Examiner: Peter Fritzson},
   isrn = {LIU-IDA/LITH-EX-A--19/001--SE},
-  url = {<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-154291">https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-154291</a>},
+  url = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-154291">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-154291</a>},
   urldate = {2019-05-17}
 }
 </pre>
@@ -406,7 +406,7 @@ title: "openmodelica.bib"
   supervisor = {Supervisor: Martin Sjölund},
   examiner = {Examiner: Peter Fritzson},
   isrn = {LIU-IDA/LITH-EX-A--18/014--SE},
-  url = {<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-148321">https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-148321</a>},
+  url = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-148321">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-148321</a>},
   urldate = {2019-05-17}
 }
 </pre>
@@ -423,7 +423,7 @@ title: "openmodelica.bib"
   examiner = {Examiner: Bernhard Thiele},
   type = {Bachelor's thesis},
   isrn = {LIU-IDA/LITH-EX-G--17/038--SE},
-  url = {<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-139085">https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-139085</a>},
+  url = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-139085">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-139085</a>},
   urldate = {2017-11-03}
 }
 </pre>
@@ -439,7 +439,7 @@ title: "openmodelica.bib"
   supervisor = {Supervisor: Lena Buffoni},
   examiner = {Examiner: Peter Fritzson},
   isrn = {LIU-IDA/LITH-EX-A--16/014—SE},
-  url = {<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-127383">https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-127383</a>},
+  url = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-127383">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-127383</a>},
   urldate = {2017-11-03}
 }
 </pre>
@@ -455,7 +455,7 @@ title: "openmodelica.bib"
   supervisor = {Supervisor: Lena Buffoni},
   examiner = {Examiner: Peter Fritzson},
   isrn = {LIU-IDA/LITH-EX-A--15/075—SE},
-  url = {<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-131385">https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-131385</a>},
+  url = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-131385">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-131385</a>},
   urldate = {2017-11-03}
 }
 </pre>
@@ -471,7 +471,7 @@ title: "openmodelica.bib"
   supervisor = {Supervisor: Lena Buffoni},
   examiner = {Examiner: Peter Fritzson},
   isrn = {LIU-IDA/LITH-EX-A--15/032-SE},
-  url = {<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-120079">https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-120079</a>},
+  url = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-120079">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-120079</a>},
   urldate = {2015-07-07}
 }
 </pre>
@@ -502,7 +502,7 @@ title: "openmodelica.bib"
   supervisor = {Supervisor: Lena Buffoni},
   examiner = {Examiner: Peter Fritzson},
   isrn = {LIU-IDA/LITH-EX-A--15/012-SE},
-  url = {<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-117873">https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-117873</a>},
+  url = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-117873">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-117873</a>},
   urldate = {2015-05-20}
 }
 </pre>
@@ -518,7 +518,7 @@ title: "openmodelica.bib"
   supervisor = {Supervisor: Lena Buffoni},
   examiner = {Examiner: Peter Fritzson},
   isrn = {LIU-IDA/LITH-EX-A--14/051--SE},
-  url = {<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-111048">https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-111048</a>},
+  url = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-111048">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-111048</a>},
   urldate = {2014-11-19}
 }
 </pre>
@@ -534,7 +534,7 @@ title: "openmodelica.bib"
   supervisor = {Supervisor: Lena Buffoni},
   examiner = {Examiner: Peter Fritzson},
   isrn = {LIU-IDA/LITH-EX-A--14/050--SE},
-  url = {<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-111435">https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-111435</a>},
+  url = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-111435">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-111435</a>},
   urldate = {2014-10-17}
 }
 </pre>
@@ -550,7 +550,7 @@ title: "openmodelica.bib"
   supervisor = {Supervisor: Lena Buffoni},
   examiner = {Examiner: Peter Fritzson},
   isrn = {LIU-IDA/LITH-EX-G--14/042--SE},
-  url = {<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-107393">https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-107393</a>},
+  url = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-107393">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-107393</a>},
   urldate = {2014-06-12}
 }
 </pre>
@@ -566,7 +566,7 @@ title: "openmodelica.bib"
   supervisor = {Supervisor: Lena Buffoni},
   examiner = {Examiner: Peter Fritzson},
   isrn = {LIU-IDA/LITH-EX-A--14/022--SE},
-  url = {<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-110029">https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-110029</a>},
+  url = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-110029">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-110029</a>},
   urldate = {2014-09-02}
 }
 </pre>
@@ -582,7 +582,7 @@ title: "openmodelica.bib"
   supervisor = {Supervisor: Olena Rogovchenko},
   examiner = {Examiner: Peter Fritzson},
   isrn = {LIU-IDA/LITH-EX-A--12/058--SE},
-  url = {<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-86365">https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-86365</a>},
+  url = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-86365">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-86365</a>},
   urldate = {2012-12-14}
 }
 </pre>
@@ -598,7 +598,7 @@ title: "openmodelica.bib"
   supervisor = {Supervisor: Olena Rogovchenko},
   examiner = {Examiner: Peter Fritzson},
   isrn = {LIU-IDA/LITH-EX-A--12/046--SE},
-  url = {<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-81999">https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-81999</a>},
+  url = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-81999">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-81999</a>},
   urldate = {2012-10-02}
 }
 </pre>
@@ -614,7 +614,7 @@ title: "openmodelica.bib"
   supervisor = {Supervisor: Olena Rogovchenko},
   examiner = {Examiner: Peter Fritzson},
   isrn = {LIU-IDA/LITH-EX-A--12/037--SE},
-  url = {<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-78992">https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-78992</a>},
+  url = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-78992">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-78992</a>},
   urldate = {2012-08-10}
 }
 </pre>
@@ -631,7 +631,7 @@ title: "openmodelica.bib"
   supervisor = {Supervisor: Olena Rogovchenko},
   examiner = {Examiner: Peter Fritzson},
   isrn = {LIU-IDA/LITH-EX-A—11/054--SE},
-  url = {<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-74474">https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-74474</a>},
+  url = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-74474">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-74474</a>},
   urldate = {2012-03-08}
 }
 </pre>
@@ -647,7 +647,7 @@ title: "openmodelica.bib"
   supervisor = {Supervisor: Kristian Stavåker},
   examiner = {Examiner: Peter Fritzson},
   isrn = {LIU-IDA/LITH-EX-A—11/042—SE},
-  url = {<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-72685">https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-72685</a>},
+  url = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-72685">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-72685</a>},
   urldate = {2011-12-05}
 }
 </pre>
@@ -663,7 +663,7 @@ title: "openmodelica.bib"
   supervisor = {Supervisor: Kristian Stavåker},
   examiner = {Examiner: Peter Fritzson},
   isrn = {LIU-IDA/LITH-EX-A—11/043—SE},
-  url = {<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-71612">https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-71612</a>},
+  url = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-71612">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-71612</a>},
   urldate = {2011-10-26}
 }
 </pre>
@@ -679,7 +679,7 @@ title: "openmodelica.bib"
   supervisor = {Supervisor: Mohsen Torabzadeh-Tari},
   examiner = {Examiner: Peter Fritzson},
   isrn = {LIU-IDA/LITH-EX-A--11/040--SE},
-  url = {<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-72085">https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-72085</a>},
+  url = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-72085">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-72085</a>},
   urldate = {2011-11-16}
 }
 </pre>
@@ -695,7 +695,7 @@ title: "openmodelica.bib"
   supervisor = {Supervisor: Mohsen Torabzadeh-Tari},
   examiner = {Examiner: Jacob Wikner },
   isrn = {LITH-IDA/ERASMUS-A---11/001--SE},
-  url = {<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-70657">https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-70657</a>},
+  url = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-70657">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-70657</a>},
   urldate = {2011-09-14}
 }
 </pre>
@@ -711,9 +711,9 @@ title: "openmodelica.bib"
   supervisor = {Supervisor: Martin Sjölund},
   examiner = {Examiner: Peter Fritzson},
   isrn = {LIU-IDA/LITH-EX-A--11/019--SE},
-  url = {<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-68863">https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-68863</a>},
+  url = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-68863">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-68863</a>},
   urldate = {2011-10-07},
-  pdf = {<a href="https://liu.diva-portal.org/smash/get/diva2:421575/FULLTEXT01">https://liu.diva-portal.org/smash/get/diva2:421575/FULLTEXT01</a>}
+  pdf = {<a href="http://liu.diva-portal.org/smash/get/diva2:421575/FULLTEXT01">http://liu.diva-portal.org/smash/get/diva2:421575/FULLTEXT01</a>}
 }
 </pre>
 
@@ -729,7 +729,7 @@ title: "openmodelica.bib"
   supervisor = {Supervisor: Adeel Asghar},
   examiner = {Examiner: Peter Fritzson},
   isrn = {LIU-IDA/LITH-EX-G—11/007—SE},
-  url = {<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-67955">https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-67955</a>},
+  url = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-67955">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-67955</a>},
   urldate = {2011-05-05}
 }
 </pre>
@@ -745,7 +745,7 @@ title: "openmodelica.bib"
   supervisor = {Supervisor: Mohsen Torabzadeh-Tari},
   examiner = {Examiner: Peter Fritzson},
   isrn = {LIU-IDA/LITH-EX-A--10/047--SE},
-  url = {<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-65864">https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-65864</a>}
+  url = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-65864">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-65864</a>}
 }
 </pre>
 
@@ -760,7 +760,7 @@ title: "openmodelica.bib"
   supervisor = {Supervisor: Kristian Stavåker},
   examiner = {Examiner: Peter Fritzson},
   isrn = {LIU-IDA/LITH-EX-A--10/006--SE},
-  url = {<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-54463">https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-54463</a>},
+  url = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-54463">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-54463</a>},
   urldate = {2010-03-17}
 }
 </pre>
@@ -776,7 +776,7 @@ title: "openmodelica.bib"
   month = aug,
   supervisor = {Supervisor: Bettina Buth},
   examiner = {Examiner: Olaf Zukunft},
-  pdf = {<a href="https://www.ida.liu.se/labs/pelab/modelica/OpenModelica/Documents/Interactive_Simulation_of_SysML_Models_using_Modelica.pdf">https://www.ida.liu.se/labs/pelab/modelica/OpenModelica/Documents/Interactive_Simulation_of_SysML_Models_using_Modelica.pdf</a>}
+  pdf = {<a href="http://www.ida.liu.se/labs/pelab/modelica/OpenModelica/Documents/Interactive_Simulation_of_SysML_Models_using_Modelica.pdf">http://www.ida.liu.se/labs/pelab/modelica/OpenModelica/Documents/Interactive_Simulation_of_SysML_Models_using_Modelica.pdf</a>}
 }
 </pre>
 
@@ -791,7 +791,7 @@ title: "openmodelica.bib"
   supervisor = {Supervisor: Kristian Stavåker},
   examiner = {Examiner: Peter Fritzson},
   isrn = {LIU-IDA/LITH-EX-A--09/062--SE},
-  url = {<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-52060">https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-52060</a>}
+  url = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-52060">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-52060</a>}
 }
 </pre>
 
@@ -807,9 +807,9 @@ title: "openmodelica.bib"
   supervisor = {Supervisor: Adrian Pop},
   examiner = {Examiner: Peter Fritzson},
   isrn = {LIU-IDA/LITH-EX-A--09/041--SE},
-  url = {<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-20386">https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-20386</a>},
+  url = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-20386">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-20386</a>},
   urldate = {2011-10-07},
-  pdf = {<a href="https://www.ida.liu.se/~marsj/pdf/marsj_msc_thesis.pdf">https://www.ida.liu.se/~marsj/pdf/marsj_msc_thesis.pdf</a>}
+  pdf = {<a href="http://www.ida.liu.se/~marsj/pdf/marsj_msc_thesis.pdf">http://www.ida.liu.se/~marsj/pdf/marsj_msc_thesis.pdf</a>}
 }
 </pre>
 
@@ -824,7 +824,7 @@ title: "openmodelica.bib"
   supervisor = {Supervisor: Peter Bunus },
   examiner = {Examiner: Peter Fritzson},
   isrn = {LIU-IDA/LITH-EX-A--09/017--SE},
-  url = {<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-19866">https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-19866</a>},
+  url = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-19866">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-19866</a>},
   urldate = {2009-08-14}
 }
 </pre>
@@ -853,7 +853,7 @@ title: "openmodelica.bib"
   supervisor = {Supervisor: Anders Sandholm},
   examiner = {Examiner: Peter Fritzson},
   isrn = {LIU-IDA/LITH-EX-A-08/035-SE},
-  url = {<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-15453">https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-15453</a>},
+  url = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-15453">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-15453</a>},
   urldate = {2008-11-19}
 }
 </pre>
@@ -869,7 +869,7 @@ title: "openmodelica.bib"
   supervisor = {Supervisor: Anders Sandholm},
   examiner = {Examiner: Peter Fritzson},
   isrn = {LIU-IDA/LITH-EX-A--08/036--SE},
-  url = {<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-15075">https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-15075</a>},
+  url = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-15075">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-15075</a>},
   urldate = {2008-10-20}
 }
 </pre>
@@ -885,7 +885,7 @@ title: "openmodelica.bib"
   supervisor = {Supervisor: Adrian Pop},
   examiner = {Examiner: Peter Fritzson},
   isrn = {LIU-IDA/LITH-EX-A--08/029--SE},
-  url = {<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-12329">https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-12329</a>},
+  url = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-12329">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-12329</a>},
   urldate = {2008-06-24}
 }
 </pre>
@@ -901,7 +901,7 @@ title: "openmodelica.bib"
   supervisor = {Supervisor: Adrian Pop},
   examiner = {Examiner: Peter Fritzson},
   isrn = {LIU-IDA/LITH-EX-A--08/030--SE},
-  url = {<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-12148">https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-12148</a>},
+  url = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-12148">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-12148</a>},
   urldate = {2008-06-23}
 }
 </pre>
@@ -941,7 +941,7 @@ title: "openmodelica.bib"
   month = apr,
   supervisor = {Supervisor: Adrian Pop},
   examiner = {Examiner: Peter Fritzson},
-  url = {<a href="https://www.ida.liu.se/~pelab/modelica/OpenModelica/MDT">https://www.ida.liu.se/~pelab/modelica/OpenModelica/MDT</a>}
+  url = {<a href="http://www.ida.liu.se/~pelab/modelica/OpenModelica/MDT">http://www.ida.liu.se/~pelab/modelica/OpenModelica/MDT</a>}
 }
 </pre>
 
@@ -1101,7 +1101,7 @@ title: "openmodelica.bib"
   year = {2018},
   issn = {0096-3003},
   doi = {10.1016/j.amc.2017.12.029},
-  url = {<a href="https://www.sciencedirect.com/science/article/pii/S0096300317308883">https://www.sciencedirect.com/science/article/pii/S0096300317308883</a>}
+  url = {<a href="http://www.sciencedirect.com/science/article/pii/S0096300317308883">http://www.sciencedirect.com/science/article/pii/S0096300317308883</a>}
 }
 </pre>
 
@@ -1270,7 +1270,7 @@ title: "openmodelica.bib"
   title = {MathPDE: A Package to Solve PDEs by Finite Differences},
   journal = {Mathematica Journal},
   volume = {13},
-  url = {<a href="https://www.mathematica-journal.com/2011/12/mathpde-a-package-to-solve-pdes-by-finite-differences/">https://www.mathematica-journal.com/2011/12/mathpde-a-package-to-solve-pdes-by-finite-differences/</a>},
+  url = {<a href="http://www.mathematica-journal.com/2011/12/mathpde-a-package-to-solve-pdes-by-finite-differences/">http://www.mathematica-journal.com/2011/12/mathpde-a-package-to-solve-pdes-by-finite-differences/</a>},
   year = {2011}
 }
 </pre>
@@ -1322,7 +1322,7 @@ title: "openmodelica.bib"
   volume = {10},
   number = {4},
   year = {2008},
-  url = {<a href="https://www.mathematica-journal.com/2008/11/mathcode-a-system-for-c-or-fortran-code-generation-from-mathematica/">https://www.mathematica-journal.com/2008/11/mathcode-a-system-for-c-or-fortran-code-generation-from-mathematica/</a>}
+  url = {<a href="http://www.mathematica-journal.com/2008/11/mathcode-a-system-for-c-or-fortran-code-generation-from-mathematica/">http://www.mathematica-journal.com/2008/11/mathcode-a-system-for-c-or-fortran-code-generation-from-mathematica/</a>}
 }
 </pre>
 
@@ -2181,7 +2181,7 @@ title: "openmodelica.bib"
   author = {Martin Sjölund and Mahder Gebremedhin and Peter Fritzson},
   title = {Parallelizing Equation-Based Models for Simulation on Multi-Core Platforms by Utilizing Model Structure},
   crossref = {<a href="#cpc2013">cpc2013</a>},
-  url = {<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-110322">https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-110322</a>}
+  url = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-110322">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-110322</a>}
 }
 </pre>
 
@@ -2190,7 +2190,7 @@ title: "openmodelica.bib"
   author = {Francesco Casella},
   title = {A Strategy for Parallel Simulation of Declarative Object-Oriented Models of Generalized Physical Networks},
   crossref = {<a href="#eoolt2013">eoolt2013</a>},
-  pdf = {<a href="https://www.ep.liu.se/ecp/084/006/ecp13084006.pdf">https://www.ep.liu.se/ecp/084/006/ecp13084006.pdf</a>}
+  pdf = {<a href="http://www.ep.liu.se/ecp/084/006/ecp13084006.pdf">http://www.ep.liu.se/ecp/084/006/ecp13084006.pdf</a>}
 }
 </pre>
 
@@ -2208,7 +2208,7 @@ title: "openmodelica.bib"
   title = {Static and Dynamic Debugging of {Modelica} Models},
   crossref = {<a href="#modelica2012">modelica2012</a>},
   doi = {10.3384/ecp12076443},
-  pdf = {<a href="https://www.ep.liu.se/ecp/076/046/ecp12076046.pdf">https://www.ep.liu.se/ecp/076/046/ecp12076046.pdf</a>}
+  pdf = {<a href="http://www.ep.liu.se/ecp/076/046/ecp12076046.pdf">http://www.ep.liu.se/ecp/076/046/ecp12076046.pdf</a>}
 }
 </pre>
 
@@ -2218,7 +2218,7 @@ title: "openmodelica.bib"
   title = {A Data-Parallel Algorithmic {Modelica} Extension for Efficient Execution on Multi-Core Platforms},
   crossref = {<a href="#modelica2012">modelica2012</a>},
   doi = {10.3384/ecp12076393},
-  pdf = {<a href="https://www.ep.liu.se/ecp/076/041/ecp12076041.pdf">https://www.ep.liu.se/ecp/076/041/ecp12076041.pdf</a>}
+  pdf = {<a href="http://www.ep.liu.se/ecp/076/041/ecp12076041.pdf">http://www.ep.liu.se/ecp/076/041/ecp12076041.pdf</a>}
 }
 </pre>
 
@@ -2228,7 +2228,7 @@ title: "openmodelica.bib"
   title = {Parallel Multiple-Shooting and Collocation {Optimization} with {OpenModelica}},
   crossref = {<a href="#modelica2012">modelica2012</a>},
   doi = {10.3384/ecp12076659},
-  pdf = {<a href="https://www.ep.liu.se/ecp/076/067/ecp12076067.pdf">https://www.ep.liu.se/ecp/076/067/ecp12076067.pdf</a>}
+  pdf = {<a href="http://www.ep.liu.se/ecp/076/067/ecp12076067.pdf">http://www.ep.liu.se/ecp/076/067/ecp12076067.pdf</a>}
 }
 </pre>
 
@@ -2238,7 +2238,7 @@ title: "openmodelica.bib"
   title = {PNlib - An Advanced Petri Net Library for Hybrid Process Modeling},
   crossref = {<a href="#modelica2012">modelica2012</a>},
   doi = {10.3384/ecp1207647},
-  pdf = {<a href="https://www.ep.liu.se/ecp/076/004/ecp12076004.pdf">https://www.ep.liu.se/ecp/076/004/ecp12076004.pdf</a>}
+  pdf = {<a href="http://www.ep.liu.se/ecp/076/004/ecp12076004.pdf">http://www.ep.liu.se/ecp/076/004/ecp12076004.pdf</a>}
 }
 </pre>
 
@@ -2248,7 +2248,7 @@ title: "openmodelica.bib"
   title = {Generation of Sparse Jacobians for the Function Mock-Up Interface 2.0},
   crossref = {<a href="#modelica2012">modelica2012</a>},
   doi = {10.3384/ecp12076185},
-  pdf = {<a href="https://www.ep.liu.se/ecp/076/018/ecp12076018.pdf">https://www.ep.liu.se/ecp/076/018/ecp12076018.pdf</a>}
+  pdf = {<a href="http://www.ep.liu.se/ecp/076/018/ecp12076018.pdf">http://www.ep.liu.se/ecp/076/018/ecp12076018.pdf</a>}
 }
 </pre>
 
@@ -2258,7 +2258,7 @@ title: "openmodelica.bib"
   title = {Fast Simulation of Fluid Models with Colored Jacobians},
   crossref = {<a href="#modelica2012">modelica2012</a>},
   doi = {10.3384/ecp12076247},
-  pdf = {<a href="https://www.ep.liu.se/ecp/076/024/ecp12076024.pdf">https://www.ep.liu.se/ecp/076/024/ecp12076024.pdf</a>}
+  pdf = {<a href="http://www.ep.liu.se/ecp/076/024/ecp12076024.pdf">http://www.ep.liu.se/ecp/076/024/ecp12076024.pdf</a>}
 }
 </pre>
 
@@ -2268,7 +2268,7 @@ title: "openmodelica.bib"
   title = {Model-based Requirement Verification : A Case Study},
   crossref = {<a href="#modelica2012">modelica2012</a>},
   doi = {10.3384/ecp12076385},
-  pdf = {<a href="https://www.ep.liu.se/ecp/076/040/ecp12076040.pdf">https://www.ep.liu.se/ecp/076/040/ecp12076040.pdf</a>}
+  pdf = {<a href="http://www.ep.liu.se/ecp/076/040/ecp12076040.pdf">http://www.ep.liu.se/ecp/076/040/ecp12076040.pdf</a>}
 }
 </pre>
 
@@ -2278,7 +2278,7 @@ title: "openmodelica.bib"
   title = {Survey of appropriate matching algorithms for large scale systems of differential algebraic equations},
   crossref = {<a href="#modelica2012">modelica2012</a>},
   doi = {10.3384/ecp12076433},
-  pdf = {<a href="https://www.ep.liu.se/ecp/076/045/ecp12076045.pdf">https://www.ep.liu.se/ecp/076/045/ecp12076045.pdf</a>}
+  pdf = {<a href="http://www.ep.liu.se/ecp/076/045/ecp12076045.pdf">http://www.ep.liu.se/ecp/076/045/ecp12076045.pdf</a>}
 }
 </pre>
 
@@ -2288,7 +2288,7 @@ title: "openmodelica.bib"
   title = {An {OpenModelica} {Python} Interface and its use in PySimulator},
   crossref = {<a href="#modelica2012">modelica2012</a>},
   doi = {10.3384/ecp12076537},
-  pdf = {<a href="https://www.ep.liu.se/ecp/076/054/ecp12076054.pdf">https://www.ep.liu.se/ecp/076/054/ecp12076054.pdf</a>}
+  pdf = {<a href="http://www.ep.liu.se/ecp/076/054/ecp12076054.pdf">http://www.ep.liu.se/ecp/076/054/ecp12076054.pdf</a>}
 }
 </pre>
 
@@ -2298,7 +2298,7 @@ title: "openmodelica.bib"
   title = {{Modelica} Code Generation with Polymorphic Arrays and Records Used in Wind Turbine Modeling},
   crossref = {<a href="#modelica2012">modelica2012</a>},
   doi = {10.3384/ecp12076809},
-  pdf = {<a href="https://www.ep.liu.se/ecp/076/083/ecp12076083.pdf">https://www.ep.liu.se/ecp/076/083/ecp12076083.pdf</a>}
+  pdf = {<a href="http://www.ep.liu.se/ecp/076/083/ecp12076083.pdf">http://www.ep.liu.se/ecp/076/083/ecp12076083.pdf</a>}
 }
 </pre>
 
@@ -2308,7 +2308,7 @@ title: "openmodelica.bib"
   title = {{Modelica3D} -Platform Independent Simulation Visualization},
   crossref = {<a href="#modelica2012">modelica2012</a>},
   doi = {10.3384/ecp12076485},
-  pdf = {<a href="https://www.ep.liu.se/ecp/076/049/ecp12076049.pdf">https://www.ep.liu.se/ecp/076/049/ecp12076049.pdf</a>}
+  pdf = {<a href="http://www.ep.liu.se/ecp/076/049/ecp12076049.pdf">http://www.ep.liu.se/ecp/076/049/ecp12076049.pdf</a>}
 }
 </pre>
 
@@ -2318,7 +2318,7 @@ title: "openmodelica.bib"
   title = {A Toolchain for Real-Time Simulation using the {OpenModelica} Compiler},
   crossref = {<a href="#modelica2012">modelica2012</a>},
   doi = {10.3384/ecp12076839},
-  pdf = {<a href="https://www.ep.liu.se/ecp/076/086/ecp12076086.pdf">https://www.ep.liu.se/ecp/076/086/ecp12076086.pdf</a>}
+  pdf = {<a href="http://www.ep.liu.se/ecp/076/086/ecp12076086.pdf">http://www.ep.liu.se/ecp/076/086/ecp12076086.pdf</a>}
 }
 </pre>
 
@@ -2345,7 +2345,7 @@ title: "openmodelica.bib"
   author = {Wladimir Schamai and Peter Fritzson and Christiaan Paredis and Philipp Helle},
   title = {{ModelicaML} Value Bindings for Automated Model Composition},
   crossref = {<a href="#TMS/DEVS2012">TMS/DEVS2012</a>},
-  url = {<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-110308">https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-110308</a>}
+  url = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-110308">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-110308</a>}
 }
 </pre>
 
@@ -2366,7 +2366,7 @@ title: "openmodelica.bib"
   location = {Linkoping, Sweden},
   month = nov,
   year = {2011},
-  pdf = {<a href="https://www.ida.liu.se/conferences/mcc2011/slides/MCC2011-MahderGebremedhin.pdf">https://www.ida.liu.se/conferences/mcc2011/slides/MCC2011-MahderGebremedhin.pdf</a>}
+  pdf = {<a href="http://www.ida.liu.se/conferences/mcc2011/slides/MCC2011-MahderGebremedhin.pdf">http://www.ida.liu.se/conferences/mcc2011/slides/MCC2011-MahderGebremedhin.pdf</a>}
 }
 </pre>
 
@@ -2384,7 +2384,7 @@ title: "openmodelica.bib"
   author = {Wuzhu Chen and Michaela Huhn and Peter Fritzson},
   title = {A Generic {FMU} Interface for {Modelica}},
   crossref = {<a href="#eoolt2011">eoolt2011</a>},
-  pdf = {<a href="https://www.ep.liu.se/ecp/056/003/ecp1105603.pdf">https://www.ep.liu.se/ecp/056/003/ecp1105603.pdf</a>}
+  pdf = {<a href="http://www.ep.liu.se/ecp/056/003/ecp1105603.pdf">http://www.ep.liu.se/ecp/056/003/ecp1105603.pdf</a>}
 }
 </pre>
 
@@ -2393,7 +2393,7 @@ title: "openmodelica.bib"
   author = {Toby Myers and Wladimir Schamai and Peter Fritzson},
   title = {Comodeling Revisited: Execution of Behavior Trees in Modelica.},
   crossref = {<a href="#eoolt2011">eoolt2011</a>},
-  pdf = {<a href="https://www.ep.liu.se/ecp/056/011/ecp1105611.pdf">https://www.ep.liu.se/ecp/056/011/ecp1105611.pdf</a>}
+  pdf = {<a href="http://www.ep.liu.se/ecp/056/011/ecp1105611.pdf">http://www.ep.liu.se/ecp/056/011/ecp1105611.pdf</a>}
 }
 </pre>
 
@@ -2402,7 +2402,7 @@ title: "openmodelica.bib"
   author = {Martin Sjölund and Peter Fritzson},
   title = {Debugging Symbolic Transformations in Equation Systems},
   crossref = {<a href="#eoolt2011">eoolt2011</a>},
-  pdf = {<a href="https://www.ep.liu.se/ecp/056/008/ecp1105608.pdf">https://www.ep.liu.se/ecp/056/008/ecp1105608.pdf</a>}
+  pdf = {<a href="http://www.ep.liu.se/ecp/056/008/ecp1105608.pdf">http://www.ep.liu.se/ecp/056/008/ecp1105608.pdf</a>}
 }
 </pre>
 
@@ -2412,7 +2412,7 @@ title: "openmodelica.bib"
   title = {Modelling of Uncertainties with {Modelica}},
   crossref = {<a href="#modelica2011">modelica2011</a>},
   doi = {10.3384/ecp11063673},
-  pdf = {<a href="https://www.ep.liu.se/ecp/063/075/ecp11063075.pdf">https://www.ep.liu.se/ecp/063/075/ecp11063075.pdf</a>}
+  pdf = {<a href="http://www.ep.liu.se/ecp/063/075/ecp11063075.pdf">http://www.ep.liu.se/ecp/063/075/ecp11063075.pdf</a>}
 }
 </pre>
 
@@ -2422,7 +2422,7 @@ title: "openmodelica.bib"
   title = {{OMWeb} - Virtual Web-based Remote Laboratory for Modelica in Engineering Courses},
   crossref = {<a href="#modelica2011">modelica2011</a>},
   doi = {10.3384/ecp11063153},
-  pdf = {<a href="https://www.ep.liu.se/ecp/063/018/ecp11063018.pdf">https://www.ep.liu.se/ecp/063/018/ecp11063018.pdf</a>}
+  pdf = {<a href="http://www.ep.liu.se/ecp/063/018/ecp11063018.pdf">http://www.ep.liu.se/ecp/063/018/ecp11063018.pdf</a>}
 }
 </pre>
 
@@ -2432,7 +2432,7 @@ title: "openmodelica.bib"
   title = {Towards Design Optimization with OpenModelica Emphasizing Parameter Optimization with Genetic Algorithms},
   crossref = {<a href="#modelica2011">modelica2011</a>},
   doi = {10.3384/ecp11063756},
-  pdf = {<a href="https://www.ep.liu.se/ecp/063/084/ecp11063084.pdf">https://www.ep.liu.se/ecp/063/084/ecp11063084.pdf</a>}
+  pdf = {<a href="http://www.ep.liu.se/ecp/063/084/ecp11063084.pdf">http://www.ep.liu.se/ecp/063/084/ecp11063084.pdf</a>}
 }
 </pre>
 
@@ -2442,7 +2442,7 @@ title: "openmodelica.bib"
   title = {{DrControl} - An Interactive Course Material for Teaching Control Engineering},
   crossref = {<a href="#modelica2011">modelica2011</a>},
   doi = {10.3384/ecp11063801},
-  pdf = {<a href="https://www.ep.liu.se/ecp/063/091/ecp11063091.pdf">https://www.ep.liu.se/ecp/063/091/ecp11063091.pdf</a>}
+  pdf = {<a href="http://www.ep.liu.se/ecp/063/091/ecp11063091.pdf">http://www.ep.liu.se/ecp/063/091/ecp11063091.pdf</a>}
 }
 </pre>
 
@@ -2452,7 +2452,7 @@ title: "openmodelica.bib"
   title = {Bootstrapping a {Modelica} Compiler aiming at {Modelica} 4},
   crossref = {<a href="#modelica2011">modelica2011</a>},
   doi = {10.3384/ecp11063510},
-  pdf = {<a href="https://www.ep.liu.se/ecp/063/058/ecp11063058.pdf">https://www.ep.liu.se/ecp/063/058/ecp11063058.pdf</a>}
+  pdf = {<a href="http://www.ep.liu.se/ecp/063/058/ecp11063058.pdf">http://www.ep.liu.se/ecp/063/058/ecp11063058.pdf</a>}
 }
 </pre>
 
@@ -2546,7 +2546,7 @@ title: "openmodelica.bib"
   month = jul,
   year = {2010},
   location = {Chicago, USA},
-  pdf = {<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-110236">https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-110236</a>}
+  pdf = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-110236">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-110236</a>}
 }
 </pre>
 
@@ -2556,7 +2556,7 @@ title: "openmodelica.bib"
   title = {Platform-independent modeling of explicitly parallel programs},
   pages = {83--94},
   crossref = {<a href="#ARCS2010">ARCS2010</a>},
-  url = {<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=5758990&amp;tag=1">https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5758990&tag=1</a>}
+  url = {<a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=5758990&amp;tag=1">http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5758990&tag=1</a>}
 }
 </pre>
 
@@ -2565,7 +2565,7 @@ title: "openmodelica.bib"
   author = {Wladimir Schamai and Uwe Pohlmann and Peter Fritzson and Christiaan J.J. Paredis and Philipp Helle and Carsten Strobel},
   title = {Execution of UML State Machines Using Modelica},
   crossref = {<a href="#eoolt2010">eoolt2010</a>},
-  pdf = {<a href="https://www.ep.liu.se/ecp/047/001/ecp4710001.pdf">https://www.ep.liu.se/ecp/047/001/ecp4710001.pdf</a>}
+  pdf = {<a href="http://www.ep.liu.se/ecp/047/001/ecp4710001.pdf">http://www.ep.liu.se/ecp/047/001/ecp4710001.pdf</a>}
 }
 </pre>
 
@@ -2575,7 +2575,7 @@ title: "openmodelica.bib"
   title = {Towards Efficient Distributed Simulation in {Modelica} using Transmission Line Modeling},
   crossref = {<a href="#eoolt2010">eoolt2010</a>},
   pages = {71--80},
-  pdf = {<a href="https://www.ep.liu.se/ecp/047/008/ecp4710008.pdf">https://www.ep.liu.se/ecp/047/008/ecp4710008.pdf</a>}
+  pdf = {<a href="http://www.ep.liu.se/ecp/047/008/ecp4710008.pdf">http://www.ep.liu.se/ecp/047/008/ecp4710008.pdf</a>}
 }
 </pre>
 
@@ -2584,7 +2584,7 @@ title: "openmodelica.bib"
   author = {Kristian Stavåker and Daniel Rolls and Jing Guo and Peter Fritzson and Sven-Bodo Scholz},
   title = {Compilation of Modelica Array Computations into Single Assignment C for Efficient Execution on CUDA-enabled GPUs},
   crossref = {<a href="#eoolt2010">eoolt2010</a>},
-  pdf = {<a href="https://www.sac-home.org/publications/RollSchoJoslStav.pdf">https://www.sac-home.org/publications/RollSchoJoslStav.pdf</a>}
+  pdf = {<a href="http://www.sac-home.org/publications/RollSchoJoslStav.pdf">http://www.sac-home.org/publications/RollSchoJoslStav.pdf</a>}
 }
 </pre>
 
@@ -2593,8 +2593,8 @@ title: "openmodelica.bib"
   author = {Wladimir Schamai and Philipp Helle and Peter Fritzson and Christiaan Paredis},
   title = {Virtual Verification of System Designs against System Requirements},
   crossref = {<a href="#ACES2010">ACES2010</a>},
-  pdf = {<a href="https://ceur-ws.org/Vol-644/paper05.pdf">https://ceur-ws.org/Vol-644/paper05.pdf</a>},
-  https = {<a href="https://dl.acm.org/citation.cfm?id=2008503.2008514">https://dl.acm.org/citation.cfm?id=2008503.2008514</a>}
+  pdf = {<a href="http://ceur-ws.org/Vol-644/paper05.pdf">http://ceur-ws.org/Vol-644/paper05.pdf</a>},
+  http = {<a href="http://dl.acm.org/citation.cfm?id=2008503.2008514">http://dl.acm.org/citation.cfm?id=2008503.2008514</a>}
 }
 </pre>
 
@@ -2625,7 +2625,7 @@ title: "openmodelica.bib"
   location = {Göteborg, Sweden},
   month = nov,
   year = {2010},
-  https = {<a href="https://www.chalmers.se/cse/mcc10-en/program1026">https://www.chalmers.se/cse/mcc10-en/program1026</a>}
+  http = {<a href="http://www.chalmers.se/cse/mcc10-en/program1026">http://www.chalmers.se/cse/mcc10-en/program1026</a>}
 }
 </pre>
 
@@ -2634,7 +2634,7 @@ title: "openmodelica.bib"
   author = {Mohsen Torabzadeh-Tari and Peter Fritzson and Martin Sjölund and Adrian Pop},
   title = {OpenModelica-Python Interoperability Applied to Monte Carlo Simulation},
   crossref = {<a href="#modelica2009">modelica2009</a>},
-  https = {<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-50804">https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-50804</a>}
+  http = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-50804">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-50804</a>}
 }
 </pre>
 
@@ -2712,7 +2712,7 @@ title: "openmodelica.bib"
   location = {Zurich, Switzerland},
   month = jan,
   year = {2009},
-  https = {<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-12504">https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-12504</a>}
+  http = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-12504">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-12504</a>}
 }
 </pre>
 
@@ -2746,7 +2746,7 @@ title: "openmodelica.bib"
   author = {Ericsson Magnusson and Peter Fritzson and Adian Pop},
   title = {3D Animation and Programmable 2D Graphics for Visualization of Simulations in OpenModelica},
   crossref = {<a href="#sims2008">sims2008</a>},
-  pdf = {<a href="https://www.scansims.org/media-files/sims2008/23.pdf">https://www.scansims.org/media-files/sims2008/23.pdf</a>}
+  pdf = {<a href="http://www.scansims.org/media-files/sims2008/23.pdf">http://www.scansims.org/media-files/sims2008/23.pdf</a>}
 }
 </pre>
 
@@ -2755,7 +2755,7 @@ title: "openmodelica.bib"
   author = {Jörn Guy Süß and Peter Fritzson and Adrian Pop},
   title = { The Impreciseness of UML and Implications for ModelicaML},
   crossref = {<a href="#eoolt2008">eoolt2008</a>},
-  pdf = {<a href="https://www.ep.liu.se/ecp/029/003/ecp08029003.pdf">https://www.ep.liu.se/ecp/029/003/ecp08029003.pdf</a>}
+  pdf = {<a href="http://www.ep.liu.se/ecp/029/003/ecp08029003.pdf">http://www.ep.liu.se/ecp/029/003/ecp08029003.pdf</a>}
 }
 </pre>
 
@@ -2764,7 +2764,7 @@ title: "openmodelica.bib"
   author = {David Broman and Peter Fritzson},
   title = {Higher-Order Acausal Models},
   crossref = {<a href="#eoolt2008">eoolt2008</a>},
-  pdf = {<a href="https://www.ep.liu.se/ecp/029/007/ecp08029007.pdf">https://www.ep.liu.se/ecp/029/007/ecp08029007.pdf</a>}
+  pdf = {<a href="http://www.ep.liu.se/ecp/029/007/ecp08029007.pdf">http://www.ep.liu.se/ecp/029/007/ecp08029007.pdf</a>}
 }
 </pre>
 
@@ -2816,7 +2816,7 @@ title: "openmodelica.bib"
   year = {2007},
   pages = {557--563},
   publisher = {ACTA Press},
-  https = {<a href="https://dl.acm.org/citation.cfm?id=1647636.1647732">https://dl.acm.org/citation.cfm?id=1647636.1647732</a>}
+  http = {<a href="http://dl.acm.org/citation.cfm?id=1647636.1647732">http://dl.acm.org/citation.cfm?id=1647636.1647732</a>}
 }
 </pre>
 
@@ -2825,7 +2825,7 @@ title: "openmodelica.bib"
   author = {Adrian Pop and David Akhvlediani and Peter Fritzson},
   title = { Towards Run-time Debugging of Equa\-tion-Based Ob\-ject-Ori\-ent\-ed Languages},
   crossref = {<a href="#sims2007">sims2007</a>},
-  pdf = {<a href="https://www.ep.liu.se/ecp/027/016/ecp072716.pdf">https://www.ep.liu.se/ecp/027/016/ecp072716.pdf</a>}
+  pdf = {<a href="http://www.ep.liu.se/ecp/027/016/ecp072716.pdf">http://www.ep.liu.se/ecp/027/016/ecp072716.pdf</a>}
 }
 </pre>
 
@@ -2843,7 +2843,7 @@ title: "openmodelica.bib"
   author = {Håkan Lundvall and Peter Fritzson},
   title = {Automatic Parallelization of Object Oriented Models Executed with Inlined Runge-Kutta Solvers},
   crossref = {<a href="#sims2007">sims2007</a>},
-  pdf = {<a href="https://www.ep.liu.se/ecp/027/001/ecp072701.pdf">https://www.ep.liu.se/ecp/027/001/ecp072701.pdf</a>}
+  pdf = {<a href="http://www.ep.liu.se/ecp/027/001/ecp072701.pdf">http://www.ep.liu.se/ecp/027/001/ecp072701.pdf</a>}
 }
 </pre>
 
@@ -2868,7 +2868,7 @@ title: "openmodelica.bib"
   booktitle = {In Proceedings of the 6th Eurosim Congress},
   location = {Ljubjana, Slovenia},
   year = {2007},
-  pdf = {<a href="https://www.ida.liu.se/~petfr/paperlinks/2007-09-Lundvall-Fritzson-eurosim-parallelModelica.pdf">https://www.ida.liu.se/~petfr/paperlinks/2007-09-Lundvall-Fritzson-eurosim-parallelModelica.pdf</a>}
+  pdf = {<a href="http://www.ida.liu.se/~petfr/paperlinks/2007-09-Lundvall-Fritzson-eurosim-parallelModelica.pdf">http://www.ida.liu.se/~petfr/paperlinks/2007-09-Lundvall-Fritzson-eurosim-parallelModelica.pdf</a>}
 }
 </pre>
 
@@ -2877,8 +2877,8 @@ title: "openmodelica.bib"
   author = {Adrian Pop and David Akhvlediani and Peter Fritzson},
   title = {Towards Unified System Modeling with the ModelicaML UML Profile},
   crossref = {<a href="#eoolt2007">eoolt2007</a>},
-  slide = {<a href="https://www.ida.liu.se/labs/pelab/conf/eoolt07/pres/presentation-paper2.pdf">https://www.ida.liu.se/labs/pelab/conf/eoolt07/pres/presentation-paper2.pdf</a>},
-  pdf = {<a href="https://www.ep.liu.se/ecp/024/002/ecp2407002.pdf">https://www.ep.liu.se/ecp/024/002/ecp2407002.pdf</a>}
+  slide = {<a href="http://www.ida.liu.se/labs/pelab/conf/eoolt07/pres/presentation-paper2.pdf">http://www.ida.liu.se/labs/pelab/conf/eoolt07/pres/presentation-paper2.pdf</a>},
+  pdf = {<a href="http://www.ep.liu.se/ecp/024/002/ecp2407002.pdf">http://www.ep.liu.se/ecp/024/002/ecp2407002.pdf</a>}
 }
 </pre>
 
@@ -2887,8 +2887,8 @@ title: "openmodelica.bib"
   author = {David Broman and Peter Fritzson},
   title = {Abstract Syntax Can Make the Definition of Modelica Less Abstract},
   crossref = {<a href="#eoolt2007">eoolt2007</a>},
-  slide = {<a href="https://www.ida.liu.se/labs/pelab/conf/eoolt07/pres/presentation-paper10.pdf">https://www.ida.liu.se/labs/pelab/conf/eoolt07/pres/presentation-paper10.pdf</a>},
-  pdf = {<a href="https://www.ep.liu.se/ecp/024/010/ecp2407010.pdf">https://www.ep.liu.se/ecp/024/010/ecp2407010.pdf</a>}
+  slide = {<a href="http://www.ida.liu.se/labs/pelab/conf/eoolt07/pres/presentation-paper10.pdf">http://www.ida.liu.se/labs/pelab/conf/eoolt07/pres/presentation-paper10.pdf</a>},
+  pdf = {<a href="http://www.ep.liu.se/ecp/024/010/ecp2407010.pdf">http://www.ep.liu.se/ecp/024/010/ecp2407010.pdf</a>}
 }
 </pre>
 
@@ -2897,8 +2897,8 @@ title: "openmodelica.bib"
   author = {Bernhard Bachmann and Peter Aronsson and Peter Fritzson},
   title = { Robust Initialization of Differential Algebraic Equations},
   crossref = {<a href="#eoolt2007">eoolt2007</a>},
-  slide = {<a href="https://www.ida.liu.se/labs/pelab/conf/eoolt07/pres/presentation-paper14.pdf">https://www.ida.liu.se/labs/pelab/conf/eoolt07/pres/presentation-paper14.pdf</a>},
-  pdf = {<a href="https://www.ep.liu.se/ecp/024/014/ecp2407014.pdf">https://www.ep.liu.se/ecp/024/014/ecp2407014.pdf</a>}
+  slide = {<a href="http://www.ida.liu.se/labs/pelab/conf/eoolt07/pres/presentation-paper14.pdf">http://www.ida.liu.se/labs/pelab/conf/eoolt07/pres/presentation-paper14.pdf</a>},
+  pdf = {<a href="http://www.ep.liu.se/ecp/024/014/ecp2407014.pdf">http://www.ep.liu.se/ecp/024/014/ecp2407014.pdf</a>}
 }
 </pre>
 
@@ -2910,7 +2910,7 @@ title: "openmodelica.bib"
   location = {Bratislava, Slovakia},
   month = feb,
   year = {2007},
-  pdf = {<a href="https://archiv.aplimat.com/2007/Proceedings/Part_III/06_Modeling/114_Fritzson,Ulfhelm,Belic,Fransson,Green.pdf">https://archiv.aplimat.com/2007/Proceedings/Part_III/06_Modeling/114_Fritzson,Ulfhelm,Belic,Fransson,Green.pdf</a>}
+  pdf = {<a href="http://archiv.aplimat.com/2007/Proceedings/Part_III/06_Modeling/114_Fritzson,Ulfhelm,Belic,Fransson,Green.pdf">http://archiv.aplimat.com/2007/Proceedings/Part_III/06_Modeling/114_Fritzson,Ulfhelm,Belic,Fransson,Green.pdf</a>}
 }
 </pre>
 
@@ -2933,7 +2933,7 @@ title: "openmodelica.bib"
   location = {Portland, Oregon},
   month = oct,
   year = {2006},
-  pdf = {<a href="https://www.bromans.com/david/publ/gpce2006-constraint-delta-final-corrected.pdf">https://www.bromans.com/david/publ/gpce2006-constraint-delta-final-corrected.pdf</a>}
+  pdf = {<a href="http://www.bromans.com/david/publ/gpce2006-constraint-delta-final-corrected.pdf">http://www.bromans.com/david/publ/gpce2006-constraint-delta-final-corrected.pdf</a>}
 }
 </pre>
 
@@ -3032,7 +3032,7 @@ title: "openmodelica.bib"
   author = {Stina Edelfeldt and Peter Fritzson},
   title = {Evaluation and Comparison of Models and Modeling Tools Simulating Nitrogen Processes in Wetlands},
   crossref = {<a href="#sims2005">sims2005</a>},
-  pdf = {<a href="https://scansims.org/media-files/sims2005/SIMS2005_33.pdf">https://scansims.org/media-files/sims2005/SIMS2005_33.pdf</a>}
+  pdf = {<a href="http://scansims.org/media-files/sims2005/SIMS2005_33.pdf">http://scansims.org/media-files/sims2005/SIMS2005_33.pdf</a>}
 }
 </pre>
 
@@ -3041,7 +3041,7 @@ title: "openmodelica.bib"
   author = {Peter Fritzson and Peter Aronsson and Håkan Lundvall and Kaj Nyström and Adrian Pop and Levon Saldamli and David Broman},
   title = {The OpenModelica Modeling, Simulation, and Development Environment},
   crossref = {<a href="#sims2005">sims2005</a>},
-  pdf = {<a href="https://scansims.org/media-files/sims2005/SIMS2005_58.pdf">https://scansims.org/media-files/sims2005/SIMS2005_58.pdf</a>}
+  pdf = {<a href="http://scansims.org/media-files/sims2005/SIMS2005_58.pdf">http://scansims.org/media-files/sims2005/SIMS2005_58.pdf</a>}
 }
 </pre>
 
@@ -3050,7 +3050,7 @@ title: "openmodelica.bib"
   author = {Håkan Lundvall and Peter Fritzson},
   title = {Event Handling in the OpenModelica Compiler and Run-time System},
   crossref = {<a href="#sims2005">sims2005</a>},
-  pdf = {<a href="https://www.scansims.org/media-files/sims2005/SIMS2005_57.pdf">https://www.scansims.org/media-files/sims2005/SIMS2005_57.pdf</a>}
+  pdf = {<a href="http://www.scansims.org/media-files/sims2005/SIMS2005_57.pdf">http://www.scansims.org/media-files/sims2005/SIMS2005_57.pdf</a>}
 }
 </pre>
 
@@ -3155,7 +3155,7 @@ title: "openmodelica.bib"
   author = {Håkan Lundvall and Peter Fritzson},
   title = {Modeling Concurrent Activities and Resource Sharing in Modelica.},
   crossref = {<a href="#sims2003">sims2003</a>},
-  pdf = {<a href="https://scansims.org/media-files/sims2003/papers/SIMS2003_14.pdf">https://scansims.org/media-files/sims2003/papers/SIMS2003_14.pdf</a>}
+  pdf = {<a href="http://scansims.org/media-files/sims2003/papers/SIMS2003_14.pdf">http://scansims.org/media-files/sims2003/papers/SIMS2003_14.pdf</a>}
 }
 </pre>
 
@@ -3164,7 +3164,7 @@ title: "openmodelica.bib"
   author = {Vadim Engelson and Peter Bunus and Lucian Popescu and Peter Fritzson},
   title = {Mechanical CAD with Multibody Dynamic Analysis Based on Modelica Simulation},
   crossref = {<a href="#sims2003">sims2003</a>},
-  pdf = {<a href="https://scansims.org/media-files/sims2003/papers/SIMS2003_34.pdf">https://scansims.org/media-files/sims2003/papers/SIMS2003_34.pdf</a>}
+  pdf = {<a href="http://scansims.org/media-files/sims2003/papers/SIMS2003_34.pdf">http://scansims.org/media-files/sims2003/papers/SIMS2003_34.pdf</a>}
 }
 </pre>
 
@@ -3173,7 +3173,7 @@ title: "openmodelica.bib"
   author = {Eva-Lena Lengquist-Sandelin and Susanna Monemar and Peter Fritzson and Peter Bunus},
   title = {DrModelica – A Web-Based Teaching Environment for Modelica},
   crossref = {<a href="#sims2003">sims2003</a>},
-  pdf = {<a href="https://scansims.org/media-files/sims2003/papers/SIMS2003_3.pdf">https://scansims.org/media-files/sims2003/papers/SIMS2003_3.pdf</a>}
+  pdf = {<a href="http://scansims.org/media-files/sims2003/papers/SIMS2003_3.pdf">http://scansims.org/media-files/sims2003/papers/SIMS2003_3.pdf</a>}
 }
 </pre>
 
@@ -3258,7 +3258,7 @@ title: "openmodelica.bib"
   author = {Andreas Wrangsjö and Peter Fritzson and Sheshadri Krishnamurthy},
   title = {Transforming Systems of PDEs for Efficient Numerical Solution},
   crossref = {<a href="#ims1999">ims1999</a>},
-  pdf = {<a href="https://www.internationalmathematicasymposium.org/IMS99/paper7/Transformations.pdf">https://www.internationalmathematicasymposium.org/IMS99/paper7/Transformations.pdf</a>}
+  pdf = {<a href="http://www.internationalmathematicasymposium.org/IMS99/paper7/Transformations.pdf">http://www.internationalmathematicasymposium.org/IMS99/paper7/Transformations.pdf</a>}
 }
 </pre>
 
@@ -3329,7 +3329,7 @@ title: "openmodelica.bib"
   author = {Peter Fritzson},
   title = {Language Modeling and Symbolic Transformations with {Meta-Modelica}},
   year = {2005},
-  url = {<a href="https://openmodelica.org">https://openmodelica.org</a>},
+  url = {<a href="http://openmodelica.org">http://openmodelica.org</a>},
   urldate = {2011-10-07}
 }
 </pre>
@@ -3339,7 +3339,7 @@ title: "openmodelica.bib"
   author = {Peter Fritzson},
   title = {Language Modeling and Symbolic Transformations with {Meta-Modelica}},
   year = {2007},
-  url = {<a href="https://openmodelica.org">https://openmodelica.org</a>},
+  url = {<a href="http://openmodelica.org">http://openmodelica.org</a>},
   urldate = {2011-10-07}
 }
 </pre>
@@ -3355,8 +3355,8 @@ title: "openmodelica.bib"
   number = {2011:10},
   month = may,
   year = {2011},
-  pdf = {<a href="https://liu.diva-portal.org/smash/get/diva2:418188/FULLTEXT01">https://liu.diva-portal.org/smash/get/diva2:418188/FULLTEXT01</a>},
-  url = {<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-68361">https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-68361</a>},
+  pdf = {<a href="http://liu.diva-portal.org/smash/get/diva2:418188/FULLTEXT01">http://liu.diva-portal.org/smash/get/diva2:418188/FULLTEXT01</a>},
+  url = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-68361">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-68361</a>},
   urldate = {2013-04-01}
 }
 </pre>
@@ -3371,7 +3371,7 @@ title: "openmodelica.bib"
   series = {Technical reports in Computer and Information Science},
   number = {9},
   year = {2011},
-  url = {<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-66440">https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-66440</a>},
+  url = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-66440">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-66440</a>},
   urldate = {2011-10-07}
 }
 </pre>
@@ -3438,7 +3438,7 @@ title: "openmodelica.bib"
   location = {Berlin, Germany},
   issn = {1650-3740},
   publisher = {Linköping University Electronic Press},
-  url = {<a href="https://www.ep.liu.se/ecp/024/">https://www.ep.liu.se/ecp/024/</a>},
+  url = {<a href="http://www.ep.liu.se/ecp/024/">http://www.ep.liu.se/ecp/024/</a>},
   urldate = {2011-10-07}
 }
 </pre>
@@ -3454,7 +3454,7 @@ title: "openmodelica.bib"
   issn = {1650-3686},
   location = {Oslo, Norway},
   publisher = {Linköping University Electronic Press},
-  url = {<a href="https://www.ep.liu.se/ecp/047/">https://www.ep.liu.se/ecp/047/</a>},
+  url = {<a href="http://www.ep.liu.se/ecp/047/">http://www.ep.liu.se/ecp/047/</a>},
   urldate = {2011-10-07}
 }
 </pre>
@@ -4032,3 +4032,4 @@ title: "openmodelica.bib"
   year = {2013}
 }
 </pre>
+
