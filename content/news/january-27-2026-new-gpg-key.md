@@ -31,7 +31,7 @@ ssb   rsa4096 2026-01-27 [E]
 Overwrite the old key:
 
 ```bash
-$ sudo curl -fsSL http://build.openmodelica.org/apt/openmodelica-2026.asc | \
+$ curl -fsSL https://build.openmodelica.org/apt/openmodelica-2026.asc | \
     sudo gpg --dearmor -o /usr/share/keyrings/openmodelica-keyring.gpg
 # File '/usr/share/keyrings/openmodelica-keyring.gpg' exists. Overwrite? (y/N)
 # y
