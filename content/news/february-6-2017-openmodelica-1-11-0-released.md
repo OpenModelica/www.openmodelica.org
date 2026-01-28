@@ -14,7 +14,7 @@ title: "February 6, 2017: OpenModelica 1.11.0 released"
 <li style="line-height: 17.6px;">Integration of Sundials/IDA DAE solver with potentially large increase of simulation performance for large models with sparse structure.</li>
 <li style="line-height: 17.6px;">Improved library coverage.</li>
 <li style="line-height: 17.6px;">Parameter sensitivity analysis added to OMC.</li>
-<li style="line-height: 17.6px;">An online step-by-step Modelica introduction spoken-tutorial using OpenModelica (see link from <a href="http://www.openmodelica.org)">www.openmodelica.org</a>).</li>
+<li style="line-height: 17.6px;">An online step-by-step Modelica introduction spoken-tutorial using OpenModelica (see link from <a href="https://www.openmodelica.org)">www.openmodelica.org</a>).</li>
 <li style="line-height: 17.6px;">Enhanced OMPython for 64-bit platforms.</li>
 </ul>
 <p class="Appendix3"><span style="font-size: 12pt;"><strong>OpenModelica Compiler (OMC)</strong></span></p>
@@ -59,8 +59,8 @@ title: "February 6, 2017: OpenModelica 1.11.0 released"
 <ul>
 <li style="line-height: 17.6px;">3D animation visualization of regular MSL MultiBody simulations and for real-time FMUs.</li>
 <li style="line-height: 17.6px;">An updated OMDev (OpenModelica Development Environment), involving msys2. This was needed for the shift to 64-bit on Windows.</li>
-<li style="line-height: 17.6px;">OMWebbook – a web version of OMNotebook online, <a href="http://omwebbook.openmodelica.org/">http://omwebbook.openmodelica.org/</a> &nbsp;Also, a script is available to convert an OMNotebook to an OMWebbook.</li>
+<li style="line-height: 17.6px;">OMWebbook – a web version of OMNotebook online, <a href="https://omwebbook.openmodelica.org/">https://omwebbook.openmodelica.org/</a> &nbsp;Also, a script is available to convert an OMNotebook to an OMWebbook.</li>
 <li style="line-height: 17.6px;">A <a href="https://github.com/OpenModelica/jupyter-openmodelica">Jupyter notebook</a> Modelica mode, available in OpenModelica.</li>
 <li style="line-height: 17.6px;">An enhanced version of OMPython for 64-bit platforms.</li>
-<li style="line-height: 17.6px;">An online step-by-step Modelica introduction spoken-tutorial using OpenModelica (see link from <a href="http://www.openmodelica.org)">www.openmodelica.org</a>).</li>
+<li style="line-height: 17.6px;">An online step-by-step Modelica introduction spoken-tutorial using OpenModelica (see link from <a href="https://www.openmodelica.org)">www.openmodelica.org</a>).</li>
 </ul>

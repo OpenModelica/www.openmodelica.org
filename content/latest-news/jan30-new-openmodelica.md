@@ -1,7 +1,7 @@
 ---
 title: "Jan 30: OpenModelica 1.8.1 beta released"
 ---
-<p>The OpenModelica 1.8.1 beta has been <a href="http://build.openmodelica.org/omc/builds/windows/releases/1.8.1/beta/" target="_blank">released</a>. You can find the Windows builds&nbsp;<a href="http://build.openmodelica.org/omc/builds/windows/releases/1.8.1/beta/" target="_blank">here</a>. The Linux and MacOS builds are available via the Download menu above.</p>
+<p>The OpenModelica 1.8.1 beta has been <a href="https://build.openmodelica.org/omc/builds/windows/releases/1.8.1/beta/" target="_blank">released</a>. You can find the Windows builds&nbsp;<a href="https://build.openmodelica.org/omc/builds/windows/releases/1.8.1/beta/" target="_blank">here</a>. The Linux and MacOS builds are available via the Download menu above.</p>
 <p>Major new functionality is available in ModelicaML, but also improvements in the compiler and the simulation. It is still a beta version, see missing features at the end of this text.</p>
 <p>Many thanks to everybody who contributed!</p>
 <h1><span lang="SV">A.1<span style="font: 7pt 'Times New Roman';"> </span></span><span lang="SV">OpenModelica 1.8.1, January 2012</span></h1>

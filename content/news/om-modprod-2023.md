@@ -12,7 +12,7 @@ In cooperation with INCOSE Sweden and IEEE Computer Society Swedish Chapter
 
 Location: Linköping University
 
-See [http://www.modprod.liu.se/](http://www.modprod.liu.se/) for details and updates.
+See [https://www.modprod.liu.se/](https://www.modprod.liu.se/) for details and updates.
 
 For submissions (before 2022-12-04):
 

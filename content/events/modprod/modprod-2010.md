@@ -15,7 +15,7 @@ external_url: https://modprodblog.wordpress.com/modprod-2010/
 <p class="western">&nbsp;</p>
 <p class="western"><strong>9.15-10.45</strong> <strong>Tutorials in Parallel </strong></p>
 <p class="western">Tutorial 1. Peter Fritzson, LIU.Introduction to Object-Oriented Modeling and Simulation with Modelica. Hands-on Exercises. Place: A2 <a href="https://www.ida.liu.se/~petfr27/MODPROD2010talks/Tutorials/modprod2010-Tutorial1-PeterFritzson-ModelicaIntroduction.pdf"><strong>pdf</strong></a></p>
-<p class="western">Tutorial 2: Wladimir Schamai EADS and Adrian Pop LIU. Model-based development using the ModelicaML (Modelica-SysML) and Modelica MDT Eclipse plugin. Place: ACAS <a href="http://www.ida.liu.se/%7Estebr/modprod2010-Day1-WladimirSchamai-ModelicaML-tutorial.pdf"><strong>pdf</strong></a></p>
+<p class="western">Tutorial 2: Wladimir Schamai EADS and Adrian Pop LIU. Model-based development using the ModelicaML (Modelica-SysML) and Modelica MDT Eclipse plugin. Place: ACAS <a href="https://www.ida.liu.se/%7Estebr/modprod2010-Day1-WladimirSchamai-ModelicaML-tutorial.pdf"><strong>pdf</strong></a></p>
 <p class="western">Tutorial 3: Kristian Sandahl, LIU. Requirements Modelling. Place: A34 <a href="https://www.ida.liu.se/~petfr27/MODPROD2010talks/Tutorials/modprod2010-Tutorial3-Kristian-Sandahl-Requirements-analysis.pdf"><strong>pdf</strong></a></p>
 <p style="margin-top: 0in;">Tutorial 4. Petter Krus. Design Analysis and Optimisation under Uncertainty. Hands-on Exercise. Place: MASS <a href="https://www.ida.liu.se/~petfr27/MODPROD2010talks/Tutorials/modprod2010-Tutorial5-PetterKrus-Design-Under-Uncertainty-Allslides.pdf"><strong>pdf</strong></a></p>
 <p style="margin-top: 0in;">Tutorial 5. Gunilla Hammarberg Know IT. MBSE in a Lean Context. Place: A35 <a href="https://www.ida.liu.se/~petfr27/MODPROD2010talks/Tutorials/modprod2010-Tutorial5-Gunilla%20Hammarberg-MBSE-in-a-LeanContext.pdf"><strong>pdf</strong></a></p>
@@ -32,7 +32,7 @@ external_url: https://modprodblog.wordpress.com/modprod-2010/
 <p style="margin-top: 0in;">Peter Fritzson, Petter Krus <a href="https://www.ida.liu.se/~petfr27/MODPROD2010talks/Day1/modprod2010-Day1-PeterFritzson-MODPROD%20Research.pdf"><strong>pdf, Peter Fritzson</strong></a> - <a href="https://www.ida.liu.se/~petfr27/MODPROD2010talks/Day1/modprod2010-Day1-PetterKrus.pdf"><strong>pdf, Petter Krus</strong></a></p>
 <p style="margin-top: 0in;">&nbsp;</p>
 <p class="western"><strong>14.00-15.30</strong> <strong>Session 1a. </strong>Room:&nbsp;A2, Building A.&nbsp;Session&nbsp;Chair:&nbsp;Kristian Sandahl</p>
-<p style="margin-top: 0in;">Otto Tronarp, MathCore. A TCP/IP Based Protocol for Communicating with Real Time Simulations <a href="http://www.ida.liu.se/%7Estebr/modprod2010-Day1-OttoTronarp-TCP-IP-protocol-for-simulation.pdf"><strong>pdf</strong></a></p>
+<p style="margin-top: 0in;">Otto Tronarp, MathCore. A TCP/IP Based Protocol for Communicating with Real Time Simulations <a href="https://www.ida.liu.se/%7Estebr/modprod2010-Day1-OttoTronarp-TCP-IP-protocol-for-simulation.pdf"><strong>pdf</strong></a></p>
 <p style="margin-top: 0in;">John Lundbäck, Articus Systems. Rubus – Why – How <a href="https://www.ida.liu.se/~petfr27/MODPROD2010talks/Day1/modprod2010-Day1-John%20Lundb%e4ck-Robus-Realtime.pdf"><strong>pdf</strong></a></p>
 <p style="margin-top: 0in;">Henric Andersson, Saab Aerosystems. Needs for Performance of Large-Scale Modeling and Simulation <a href="https://www.ida.liu.se/~petfr27/MODPROD2010talks/Day1/modprod2010-Day1-Henric-Andersson_public.pdf"><strong>pdf</strong></a></p>
 <p style="margin-top: 0in;">&nbsp;</p>
@@ -45,7 +45,7 @@ external_url: https://modprodblog.wordpress.com/modprod-2010/
 <p style="margin-top: 0in;">&nbsp;</p>
 <p style="margin-top: 0in;"><strong>16.15-17.30</strong> <strong>Session 2a. </strong>Room:&nbsp;A2, Building A.&nbsp;Session&nbsp;Chair:&nbsp;Peter Fritzson</p>
 <p style="margin-top: 0in;"><span>Hannu Niemistö</span><span>, VTT. </span>The Simantics System for Semantics-based Integrated Modeling <a href="https://www.ida.liu.se/~petfr27/MODPROD2010talks/Day1/modprod2010-Day1-Hannu-Niemisto-SimanticsSystemSemantics-basedIntegratedModeling.pdf"><strong>pdf</strong></a></p>
-<p style="margin-top: 0in;">Wladimir Schamai, EADS &amp; Liu. Towards Unified System Modeling and Simulation with ModelicaML – A UML Profile for Modelica <a href="http://www.ida.liu.se/%7Estebr/modprod2010-Day1-WladimirSchamai-ModelicaML.pdf"><strong>pdf</strong></a></p>
+<p style="margin-top: 0in;">Wladimir Schamai, EADS &amp; Liu. Towards Unified System Modeling and Simulation with ModelicaML – A UML Profile for Modelica <a href="https://www.ida.liu.se/%7Estebr/modprod2010-Day1-WladimirSchamai-ModelicaML.pdf"><strong>pdf</strong></a></p>
 <p style="margin-top: 0in;">John R. Wolfe, Mentor Graphics, UML, Embedded Systems, ESL. Executable UML and Open, Flexible Code Generation with BridgePoint <a href="https://www.ida.liu.se/~petfr27/MODPROD2010talks/Day1/modprod2010-Day1-John-Wolfe-xtUML-BP-MODPROD.pdf"><strong>pdf</strong></a></p>
 <p class="western" style="margin-top: 0in;" align="left">&nbsp;</p>
 <p style="margin-top: 0in;"><span><strong>16.</strong></span><span><strong>15-17.30</strong></span><span> </span><span><strong>Session 2b. </strong>Room:&nbsp;ACAS, Building A. Session&nbsp;Chair:&nbsp;Petter Krus<br /> </span></p>
@@ -66,7 +66,7 @@ external_url: https://modprodblog.wordpress.com/modprod-2010/
 <p style="margin-top: 0in;">Room:&nbsp;A2, Building A</p>
 <p class="western"><strong>8.30-8.40</strong> Peter Fritzson. Workshop Opening</p>
 <p style="margin-top: 0in;">&nbsp;</p>
-<p style="margin-top: 0in;"><strong>8.40-9.40</strong> <strong>Keynote</strong>, <strong>Sanford Friedenthal</strong>, Principal Systems Engineer, Lockheed Martin, Model-based Systems Engineering (MBSE) Using SysML <a href="http://www.ida.liu.se/%7Estebr/modprod2010-Day2-Sanford-Friedenthal-MBSE-Using-SysML-v2.pdf"><strong>pdf</strong></a></p>
+<p style="margin-top: 0in;"><strong>8.40-9.40</strong> <strong>Keynote</strong>, <strong>Sanford Friedenthal</strong>, Principal Systems Engineer, Lockheed Martin, Model-based Systems Engineering (MBSE) Using SysML <a href="https://www.ida.liu.se/%7Estebr/modprod2010-Day2-Sanford-Friedenthal-MBSE-Using-SysML-v2.pdf"><strong>pdf</strong></a></p>
 <p style="margin-top: 0in;">&nbsp;</p>
 <p style="margin-top: 0in;"><strong>10.10-10.30</strong> Coffee, Posters, Exhibition outside A2, Building A</p>
 <p style="margin-top: 0in;">&nbsp;</p>
@@ -82,9 +82,9 @@ external_url: https://modprodblog.wordpress.com/modprod-2010/
 <p style="margin-top: 0in;">&nbsp;</p>
 <p style="margin-top: 0in;"><strong><span>13.30-1</span><span>4.30</span></strong><span> </span><strong>Parallel Session 1a, Model-Based Engineering. </strong>Session&nbsp;Chair: Petter Krus<strong><br /> </strong></p>
 <p style="margin-top: 0in;">Room: A2, Building A</p>
-<p align="justify">Xiaolong Feng, ABB Corp Research, Multi-objective optimization in optimal robot cell design. <a href="http://www.ida.liu.se/%7Estebr/modprod2010-Day2-XialongFeng-TowardsAutomatedDesignIndustrialRobots.pdf"><strong>pdf</strong></a></p>
+<p align="justify">Xiaolong Feng, ABB Corp Research, Multi-objective optimization in optimal robot cell design. <a href="https://www.ida.liu.se/%7Estebr/modprod2010-Day2-XialongFeng-TowardsAutomatedDesignIndustrialRobots.pdf"><strong>pdf</strong></a></p>
 <p align="justify">David Broman, Linköping University, Growing an Equation-Based Object-Oriented Modeling Language. <a href="https://www.ida.liu.se/~petfr27/MODPROD2010talks/Day2/modprod2010-Day2-DavidBroman-growing-eoo-lang.pdf"><strong>pdf</strong></a></p>
-<p align="justify">Johan Olsson. National Instruments, Graphical System Design with open connectivity and multicore support. <a href="http://www.ida.liu.se/%7Estebr/modprod2010-Day2-JohanOlsson-GraphicalSystemDesignwithopenconnectivityandmulticoresupport.pdf"><strong>pdf</strong></a></p>
+<p align="justify">Johan Olsson. National Instruments, Graphical System Design with open connectivity and multicore support. <a href="https://www.ida.liu.se/%7Estebr/modprod2010-Day2-JohanOlsson-GraphicalSystemDesignwithopenconnectivityandmulticoresupport.pdf"><strong>pdf</strong></a></p>
 <p style="margin-top: 0in;">&nbsp;</p>
 <p style="margin-top: 0in;"><strong><span>13.30-</span><span>14.30</span></strong><span> </span><strong>Parallel Session 1b, Model-Based Development. </strong>Session&nbsp;Chair: Kristian Sandahl<strong><br /> </strong></p>
 <p style="margin-top: 0in;">Room: ACAS, Building A</p>
@@ -103,7 +103,7 @@ external_url: https://modprodblog.wordpress.com/modprod-2010/
 <p class="western"><strong>15.30-16.30 Parallel Session 2bModel-Based Software Design. </strong>Session&nbsp;Chair:&nbsp;Peter Fritzson<strong><br /> </strong></p>
 <p style="margin-top: 0in;">Room: ACAS, Building A</p>
 <p style="margin-top: 0in;">Göran Rydqvist, Configura. Configura CET - Model based sales configuration and space planning using incremental programming and domain specific language techniques <a href="https://www.ida.liu.se/~petfr27/MODPROD2010talks/Day2/modprod2010-Day2-GöranRydqvist-Model-based-Configuration.pdf"><strong>pdf</strong></a></p>
-<p class="western">Thomas Wiman: UML-based domain-specific modeling using MetaModelAgent. <a href="http://www.ida.liu.se/%7Estebr/modprod2010-Day2-ThomasWiman-UML-based-domain-specific-modeling-using%20MMA.pdf"><strong>pdf</strong></a></p>
+<p class="western">Thomas Wiman: UML-based domain-specific modeling using MetaModelAgent. <a href="https://www.ida.liu.se/%7Estebr/modprod2010-Day2-ThomasWiman-UML-based-domain-specific-modeling-using%20MMA.pdf"><strong>pdf</strong></a></p>
 <p class="western">Pär Emanuelsson: Collaborative Work with Software Models and the Model Merge problem <a href="https://www.ida.liu.se/~petfr27/MODPROD2010talks/Day2/modprod2010-Day2-P%e4rEmanuelsson-Modelmerge.pdf"><strong>pdf</strong></a></p>
 <p style="margin-top: 0in;">&nbsp;</p>
 <p style="margin-top: 0in;"><strong>16.30-17.00</strong> <strong>Panel Discussion. (plenary session) </strong></p>

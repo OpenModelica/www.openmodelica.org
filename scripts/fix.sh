@@ -105,4 +105,4 @@ sed -i 's,href="svn/,href="https://openmodelica.org/svn/,g' */*.md */*/*.md
 
 sed -i 's,/images/M_images/ModelicaTools,/images/ModelicaTools,g' */*.md */*/*.md
 
-# linkchecker --ignore-url=http://hugo.openmodelica.org/forum --ignore-url=http://hugo.openmodelica.org/doc http://hugo.openmodelica.org |& tee log
+# linkchecker --ignore-url=https://hugo.openmodelica.org/forum --ignore-url=https://hugo.openmodelica.org/doc https://hugo.openmodelica.org |& tee log

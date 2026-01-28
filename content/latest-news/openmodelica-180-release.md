@@ -1,7 +1,7 @@
 ---
 title: "Nov 25: OpenModelica 1.8.0 released"
 ---
-<p>The OpenModelica 1.8.0 was&nbsp;<a href="http://build.openmodelica.org/omc/builds/windows/releases/1.8.0/">released</a>. You can find the Windows builds&nbsp;<a href="http://build.openmodelica.org/omc/builds/windows/releases/1.8.0/">here</a>. The Linux and MacOS builds are available via the Download menu above.<br />Many thanks to everybody that contributed!</p>
+<p>The OpenModelica 1.8.0 was&nbsp;<a href="https://build.openmodelica.org/omc/builds/windows/releases/1.8.0/">released</a>. You can find the Windows builds&nbsp;<a href="https://build.openmodelica.org/omc/builds/windows/releases/1.8.0/">here</a>. The Linux and MacOS builds are available via the Download menu above.<br />Many thanks to everybody that contributed!</p>
 <p>&nbsp;</p>
 <h1><span lang="SV">A.1<span style="font: 7.0pt 'Times New Roman';"> </span></span><span lang="SV">OpenModelica 1.8, November 2011</span></h1>
 <p>&nbsp;</p>

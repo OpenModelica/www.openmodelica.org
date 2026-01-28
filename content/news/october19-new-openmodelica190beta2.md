@@ -1,7 +1,7 @@
 ---
 title: "October 19, 2012: OpenModelica 1.9.0 Beta2 released"
 ---
-<p>The OpenModelica 1.9.0 Beta2 has been released. You can find the Windows builds&nbsp;<a href="http://build.openmodelica.org/omc/builds/windows/releases/1.9.0/beta2" target="_blank">here</a>. The Linux and MacOS builds are available via the Download menu above.</p>
+<p>The OpenModelica 1.9.0 Beta2 has been released. You can find the Windows builds&nbsp;<a href="https://build.openmodelica.org/omc/builds/windows/releases/1.9.0/beta2" target="_blank">here</a>. The Linux and MacOS builds are available via the Download menu above.</p>
 <p>Many thanks to everybody who contributed!</p>
 <h1><span lang="SV">A.1<span style="font: 7pt;"> </span></span><span lang="SV">OpenModelica 1.9.0 Beta2, October 2012</span></h1>
 <p>The OpenModelica 1.9.0 beta2 release has a more complete OMC model compiler. It simulates more models than the previous 1.8.1 version, for example 108 MSL 3.1 example models compared to 74 for the beta1 release and 36 example models for the 1.8.1 release, 118 MSL3.2.1 example models (73%) compared to 30% in the 1.9.0 beta1 release, and partial support for some other libraries like ThermoSysPro. It also contains a further improved ModelicaML version for the latest Eclipse and Papyrus releases. However it does not yet contain general support for the Fluid library, only simulates 17% of the MSL 3.2.1 Fluid example models. More general Fluid support is the target for the final 1.9.0 release planned for the December time frame.</p>

@@ -3,30 +3,30 @@ title: "Modelica Modeling Language (ModelicaML)"
 aliases: ["/free-and-open-source-software/modelicaml"]
 ---
 <h1>ModelicaML - A UML Profile for Modelica</h1>
-<p><img src="http://www.ida.liu.se/%7Epelab/modelica/OpenModelica/MDT/ModelicaML/pix/modelicaml_concept.png" border="0" alt="ModelicaML concept" width="546" height="327" align="right" name="ModelicaML concept" />Modelica Modeling Language (ModelicaML) is a graphical modeling language for the description of time-continuous and time-discrete/event-based system dynamics. ModelicaML is defined as an extended subset of the <a href="http://www.uml.org/" target="_blank">OMG Unified Modeling Language (UML)</a>. This subset enables the generation of executable <a href="http://www.modelica.org/" target="_blank">Modelica</a> code.</p>
+<p><img src="https://www.ida.liu.se/%7Epelab/modelica/OpenModelica/MDT/ModelicaML/pix/modelicaml_concept.png" border="0" alt="ModelicaML concept" width="546" height="327" align="right" name="ModelicaML concept" />Modelica Modeling Language (ModelicaML) is a graphical modeling language for the description of time-continuous and time-discrete/event-based system dynamics. ModelicaML is defined as an extended subset of the <a href="https://www.uml.org/" target="_blank">OMG Unified Modeling Language (UML)</a>. This subset enables the generation of executable <a href="https://www.modelica.org/" target="_blank">Modelica</a> code.</p>
 <p>ModelicaML extends the graphical modeling capabilities of Modelica by providing more diagrams (UML diagrams for presenting the composition, connection, inheritance or behavior of classes) for graphical model definition or documentation. Moreover, ModelicaML incluides methods for formalizing and evaluating system requirements during simulations.</p>
 <h2>Documentation</h2>
 <ul>
-<li><a href="http://www.ida.liu.se/%7Epelab/modelica/OpenModelica/MDT/ModelicaML/doc/ModelicaML_getting_started_v12.pdf" target="_blank">ModelicaML - Installation (PDF)</a></li>
-<li><a href="http://www.ida.liu.se/%7Epelab/modelica/OpenModelica/MDT/ModelicaML/doc/ModelicaML_description_profile_version_1_3_2.html" target="_blank">ModelicaML Profile (HTML)</a> </li>
+<li><a href="https://www.ida.liu.se/%7Epelab/modelica/OpenModelica/MDT/ModelicaML/doc/ModelicaML_getting_started_v12.pdf" target="_blank">ModelicaML - Installation (PDF)</a></li>
+<li><a href="https://www.ida.liu.se/%7Epelab/modelica/OpenModelica/MDT/ModelicaML/doc/ModelicaML_description_profile_version_1_3_2.html" target="_blank">ModelicaML Profile (HTML)</a> </li>
 </ul>
 <h2>Downloads</h2>
 <p>ModelicaML plugins for <strong>Eclipse Juno, Papyrus MDT 0.9</strong>:</p>
 <ul>
-<li>Update site:<strong> http://www.ida.liu.se/~pelab/modelica/OpenModelica/MDT/ModelicaML/update/juno/</strong></li>
+<li>Update site:<strong> https://www.ida.liu.se/~pelab/modelica/OpenModelica/MDT/ModelicaML/update/juno/</strong></li>
 <!--
-<li><a href="http://www.ida.liu.se/%7Epelab/modelica/OpenModelica/MDT/ModelicaML/examples/" mce_href="http://www.ida.liu.se/%7Epelab/modelica/OpenModelica/MDT/ModelicaML/examples/" target="_blank">ModelicaML example-models</a></li>
+<li><a href="https://www.ida.liu.se/%7Epelab/modelica/OpenModelica/MDT/ModelicaML/examples/" mce_href="https://www.ida.liu.se/%7Epelab/modelica/OpenModelica/MDT/ModelicaML/examples/" target="_blank">ModelicaML example-models</a></li>
 -->
 <li>Source code: <a href="https://openmodelica.org/svn/MDT/">https://openmodelica.org/svn/MDT/</a> (user: <strong>anonymous</strong> password: <strong>none</strong>)</li>
 </ul>
 <h2>Tutorials</h2>
 <ul>
-<li><a href="http://www.ida.liu.se/%7Epelab/modelica/OpenModelica/MDT/ModelicaML/doc/tutorial/ModelicaML_getting_started_tutorial_v03.pdf" target="_blank">ModelicaML Getting Started Tutorial (PDF)</a> <!--, <a href="http://www.ida.liu.se/~pelab/modelica/OpenModelica/MDT/ModelicaML/examples/" mce_href="http://www.ida.liu.se/~pelab/modelica/OpenModelica/MDT/ModelicaML/examples/" target="_blank">Example Models</a> --> </li>
+<li><a href="https://www.ida.liu.se/%7Epelab/modelica/OpenModelica/MDT/ModelicaML/doc/tutorial/ModelicaML_getting_started_tutorial_v03.pdf" target="_blank">ModelicaML Getting Started Tutorial (PDF)</a> <!--, <a href="https://www.ida.liu.se/~pelab/modelica/OpenModelica/MDT/ModelicaML/examples/" mce_href="https://www.ida.liu.se/~pelab/modelica/OpenModelica/MDT/ModelicaML/examples/" target="_blank">Example Models</a> --> </li>
 <!--
-<li><a href="http://www.ida.liu.se/%7Epelab/modelica/OpenModelica/MDT/ModelicaML/doc/tutorial/ModelicaML_vVDR_tutorial_v02.pdf" mce_href="http://www.ida.liu.se/%7Epelab/modelica/OpenModelica/MDT/ModelicaML/doc/tutorial/ModelicaML_vVDR_tutorial_v02.pdf" target="_blank">ModelicaML vVDR Method Tutorial (PDF)</a></li>
-<li><a href="http://www.ida.liu.se/~pelab/modelica/OpenModelica/MDT/ModelicaML/doc/tutorial/ModelicaML_ValueBindings_v01.pdf" mce_href="http://www.ida.liu.se/~pelab/modelica/OpenModelica/MDT/ModelicaML/doc/tutorial/ModelicaML_ValueBindings_v01.pdf" target="_blank">ModelicaML Value Bindings (PDF)</a> </li>
+<li><a href="https://www.ida.liu.se/%7Epelab/modelica/OpenModelica/MDT/ModelicaML/doc/tutorial/ModelicaML_vVDR_tutorial_v02.pdf" mce_href="https://www.ida.liu.se/%7Epelab/modelica/OpenModelica/MDT/ModelicaML/doc/tutorial/ModelicaML_vVDR_tutorial_v02.pdf" target="_blank">ModelicaML vVDR Method Tutorial (PDF)</a></li>
+<li><a href="https://www.ida.liu.se/~pelab/modelica/OpenModelica/MDT/ModelicaML/doc/tutorial/ModelicaML_ValueBindings_v01.pdf" mce_href="https://www.ida.liu.se/~pelab/modelica/OpenModelica/MDT/ModelicaML/doc/tutorial/ModelicaML_ValueBindings_v01.pdf" target="_blank">ModelicaML Value Bindings (PDF)</a> </li>
 -->
-<li><a href="http://www.ida.liu.se/~pelab/modelica/OpenModelica/MDT/ModelicaML/examples/" target="_blank">Example Models</a></li>
+<li><a href="https://www.ida.liu.se/~pelab/modelica/OpenModelica/MDT/ModelicaML/examples/" target="_blank">Example Models</a></li>
 </ul>
 <h2>Publications</h2>
 <ul>

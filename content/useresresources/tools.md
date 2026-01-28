@@ -21,14 +21,14 @@ aliases: ["/openmodelicaworld/tools"]
 
 ### <a href="/free-and-open-source-software/open-modelica-shell-omshell">Interactive OpenModelica Shell (OMShell)</a>
 
-<div class="clearfix"><a href="http://www.ida.liu.se/labs/pelab/modelica/OpenModelica/Screenshots/OMShell-screenshot.jpg"><img style="border: 0; margin-right: 30pt; float: left;" src="/images/ModelicaTools/OMS.jpg" alt="omshell" width="120" border="0" /></a>
+<div class="clearfix"><a href="https://www.ida.liu.se/labs/pelab/modelica/OpenModelica/Screenshots/OMShell-screenshot.jpg"><img style="border: 0; margin-right: 30pt; float: left;" src="/images/ModelicaTools/OMS.jpg" alt="omshell" width="120" border="0" /></a>
 
 The purpose of OMShell is to provide an interactive environment for working with OMC.
 </div>
 
 ### <a href="/free-and-open-source-software/omnotebook">OpenModelica Notebook (OMNotebook)</a>
 
-<div class="clearfix"><a href="http://www.ida.liu.se/labs/pelab/modelica/OpenModelica/Screenshots/OMNotebook-screenshot.jpg"><img style="border: 0; margin-right: 30pt; float: left;" src="/images/ModelicaTools/OMNotebook.jpg" alt="omnotebook" width="120" border="0" /></a>
+<div class="clearfix"><a href="https://www.ida.liu.se/labs/pelab/modelica/OpenModelica/Screenshots/OMNotebook-screenshot.jpg"><img style="border: 0; margin-right: 30pt; float: left;" src="/images/ModelicaTools/OMNotebook.jpg" alt="omnotebook" width="120" border="0" /></a>
 
 * A literate programming notebook.
 * OMNotebook is a Mathematica style Notebook for Modelica.
@@ -156,7 +156,7 @@ The purpose of OMShell is to provide an interactive environment for working with
 <h3><a href="/free-and-open-source-software/omsimulator"><strong>OpenModelica </strong><strong>Simulator&nbsp;(OMSimulator)</strong></a></h3>
 <ul>
 <li>A new (stand-alone) FMI- and TLM-based simulation tool OMSimulator.</li>
-<li>First version for connected FMUs, TLM objects, Simulink models (via wrappers), Adams models (via wrappers), BEAST models (via wrappers), Modelica models. Regarding the FMI standard for model exchange and co-simulation , see <a href="http://www.fmi-standard.org/">FMI standard</a>.</li>
+<li>First version for connected FMUs, TLM objects, Simulink models (via wrappers), Adams models (via wrappers), BEAST models (via wrappers), Modelica models. Regarding the FMI standard for model exchange and co-simulation , see <a href="https://www.fmi-standard.org/">FMI standard</a>.</li>
 </ul>
 </td>
 </tr>

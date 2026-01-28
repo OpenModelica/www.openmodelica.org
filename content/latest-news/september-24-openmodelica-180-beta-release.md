@@ -1,7 +1,7 @@
 ---
 title: "September 24: OpenModelica 1.8.0 Beta Release"
 ---
-<p>Open Modelica 1.8.0 Beta Realease available for download from <a title="Open Modelica 1.8.0 Beta" href="http://build.openmodelica.org/omc/builds/windows/releases/1.8.0/beta/" target="_blank">here</a>.</p>
+<p>Open Modelica 1.8.0 Beta Realease available for download from <a title="Open Modelica 1.8.0 Beta" href="https://build.openmodelica.org/omc/builds/windows/releases/1.8.0/beta/" target="_blank">here</a>.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>The main highlights of the Beta 1 release are:</p>

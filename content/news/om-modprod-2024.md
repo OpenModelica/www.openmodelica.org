@@ -10,6 +10,6 @@ expirydate: 2024-12-11
 
 Location: Linköping University
 
-See [http://www.modprod.liu.se/](http://www.modprod.liu.se/) for details.
+See [https://www.modprod.liu.se/](https://www.modprod.liu.se/) for details.
 
 * [OpenModelica Workshop 2024 - presentations](https://openmodelica.org/events/openmodelica-workshop/2024/)

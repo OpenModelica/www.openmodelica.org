@@ -69,7 +69,7 @@ weight: 1
 </ul>
 <p>&nbsp;</p>
 <h3><a name="fees"></a>Membership Types and Annual Fees</h3>
-<p>There are two main kinds of members: <a href="http://www.ida.liu.se/labs/pelab/modelica/OpenModelica/OSMC/OSMC-organizational-member-application-form.pdf">organizational members</a> (any legal person/business partnership) and individual members (for any natural person). The annual service fee varies according to the size of the organization, whether the organization chooses the honorary Gold or Silver sponsorship levels, and whether the member is allowed to redistribute OpenModelica in binary form for commercial purposes outside its own organization (Level 2 member) as specified by the OSMC Public License.</p>
+<p>There are two main kinds of members: <a href="https://www.ida.liu.se/labs/pelab/modelica/OpenModelica/OSMC/OSMC-organizational-member-application-form.pdf">organizational members</a> (any legal person/business partnership) and individual members (for any natural person). The annual service fee varies according to the size of the organization, whether the organization chooses the honorary Gold or Silver sponsorship levels, and whether the member is allowed to redistribute OpenModelica in binary form for commercial purposes outside its own organization (Level 2 member) as specified by the OSMC Public License.</p>
 <p>For a non-profit organization such as a university, research institute, or similar, the engaged research group size (or sum of the sizes if several engaged groups) determines the annual fee.</p>
 <p>For an organization paying an annual fee corresponding to the size of the organization including all its affiliates, the membership benefits apply to all its affiliates.</p>
 <p>To further clarify:</p>
@@ -165,10 +165,10 @@ weight: 1
 </tbody>
 </table>
 <h3>Individual Membership</h3>
-<p>An individual who so wishes, and who has made a significant contribution to OpenModelica during he previous two years or the current year, can get a Level 1 individual membership for the current ear for free, after decision by the Director, and after having signed a <a href="http://www.ida.liu.se/labs/pelab/modelica/OpenModelica/OSMC/OSMC-individual-member-application-form.pdf">membership application form</a>. Individuals who are Level 1 members but have not made any further contribution to OpenModelica<br /> during the previous two years or current year, should automatically lose their membership, if they do not decide to become Level 2 members and pay the Level 2 membership fee for individual members. Notification message should be sent to such members before they lose their membership <em>[to give them a chance to respond and possibly make a contribution to keep their membership].</em></p>
+<p>An individual who so wishes, and who has made a significant contribution to OpenModelica during he previous two years or the current year, can get a Level 1 individual membership for the current ear for free, after decision by the Director, and after having signed a <a href="https://www.ida.liu.se/labs/pelab/modelica/OpenModelica/OSMC/OSMC-individual-member-application-form.pdf">membership application form</a>. Individuals who are Level 1 members but have not made any further contribution to OpenModelica<br /> during the previous two years or current year, should automatically lose their membership, if they do not decide to become Level 2 members and pay the Level 2 membership fee for individual members. Notification message should be sent to such members before they lose their membership <em>[to give them a chance to respond and possibly make a contribution to keep their membership].</em></p>
 <hr />
 <h3 style="font-size: 13.75px;">Administration</h3>
-<p>From an administrative point of view, OSMC is an independent non-profit organization in close collaboration primarily with <a href="http://www.liu.se/">Linköping University</a> but also with other organizations which typically are members of the OSMC consortium.</p>
+<p>From an administrative point of view, OSMC is an independent non-profit organization in close collaboration primarily with <a href="https://www.liu.se/">Linköping University</a> but also with other organizations which typically are members of the OSMC consortium.</p>
 <p>During spring 2021 OSMC decided to create a research institute owned by OSMC, named Santa Anna IT Research Institute. The purpose is to be able to explore new research topics outside the current main focus of OSMC relevant for the future and for collaborative efforts possibly involving OpenModelica. The institute form will enable flexible, efficient and low overhead operations open for collaboration with new research, industry and societal partners.</p>
 <p>&nbsp;</p>
 <hr />
@@ -213,12 +213,12 @@ weight: 1
 <li><a href="https://creativeconnections.cz">Creative Connections, Prague, Czech Republic</a><span style="mso-ansi-language: SV;" lang="SV"> </span></li>
 <li><a href="https://www.demxs.com">DEMXS Ltd, Shanghai, China</a></li>
 <li><a href="https://www.dhigroup.com/">DHI, Aarhus, Denmark</a></li>
-<li><a href="http://www.dynamica-it.com">Dynamica s.r.l., Cremona, Italy</a></li>
+<li><a href="https://www.dynamica-it.com">Dynamica s.r.l., Cremona, Italy</a></li>
 <li><a href="https://www.edf.fr">EDF, Paris, France</a></li>
 <li><a href="https://www.equa.se">Equa Simulation AB, Sweden</a></li>
 <li><a href="https://www.festo.com/de/en/">Festo, Esslingen, Germany</a></li>
 <li><a href="https://www.iwes.fraunhofer.de">Fraunhofer IWES, Bremerhaven, Germany</a></li>
-<li><a href="http://www.fcc.chalmers.se/">Fraunhofer Chalmers (FCC), Gothenburg, Sweden</a></li>
+<li><a href="https://www.fcc.chalmers.se/">Fraunhofer Chalmers (FCC), Gothenburg, Sweden</a></li>
 <li>GSIMX Beijing Technology, China</li>
 <li><a href="https://leitbetriebe.at/en/profiles/hoerbiger-wien-gmbh/">Hoerbiger Wien, Austria</a></li>
 <li>Hefei Taize Turbomachinery Technology, Hefei, China</li>
@@ -230,11 +230,11 @@ weight: 1
 <!-- inactive member
 <li><a href="https://www.reusecompany.com/office-spain">REUSE company, Madrid, Spain</a></li>
 -->
-<li><a href="http://www.rte-france.com">RTE France, Paris, France</a></li>
+<li><a href="https://www.rte-france.com">RTE France, Paris, France</a></li>
 <li><a href="https://www.saab.com">Saab, Linköping, Sweden</a></li>
 <li><a href="https://www.bloomberg.com/profile/company/1732547D:CH">Shanghai Duanyan Information Technology Co., Ltd., China</a></li>
-<li><a href="http://www.sil3x.fr">SIL3X, Paris, France</a></li>
-<li><a href="http://www.simtek.cc/">Simtek Ltd. Nanjing, China</a></li>
+<li><a href="https://www.sil3x.fr">SIL3X, Paris, France</a></li>
+<li><a href="https://www.simtek.cc/">Simtek Ltd. Nanjing, China</a></li>
 <li><a href="https://smart.fluidpower.it/">SmartFluidPower, Modena, Italy</a></li>
 <li><a href="https://www.swegon.com/"> Swegon AB, Gothenburg, Sweden</a></li>
 <li><a href="https://www.tlk-thermo.com">TLK Thermo, Braunschweig, Germany</a></li>
@@ -384,8 +384,8 @@ weight: 1
 <p>Apply for membership or read the OSMC bylaws or OSMC-PL License.<span style="border-collapse: collapse; font-family: Arial, Helvetica, sans-serif; color: #000000; line-height: normal;"> </span></p>
 <ul>
 <li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><a href="/images/docs/OpenSourceModelicaConsortium-bylaws-250616-v27-final.pdf">Bylaws and OSMC-PL License</a></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><a href="http://www.ida.liu.se/labs/pelab/modelica/OpenModelica/OSMC/OSMC-organizational-member-application-form.pdf" style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; color: #1b57b1; text-decoration: none; font-weight: normal; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;">Organizational member application form</a></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><a href="http://www.ida.liu.se/labs/pelab/modelica/OpenModelica/OSMC/OSMC-individual-member-application-form.pdf" style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; color: #1b57b1; text-decoration: none; font-weight: normal; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;">Individual member application form</a></li>
+<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><a href="https://www.ida.liu.se/labs/pelab/modelica/OpenModelica/OSMC/OSMC-organizational-member-application-form.pdf" style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; color: #1b57b1; text-decoration: none; font-weight: normal; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;">Organizational member application form</a></li>
+<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><a href="https://www.ida.liu.se/labs/pelab/modelica/OpenModelica/OSMC/OSMC-individual-member-application-form.pdf" style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; color: #1b57b1; text-decoration: none; font-weight: normal; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;">Individual member application form</a></li>
 </ul>
 <hr style="border-right-width: 0px; border-bottom-width: 0px; height: 1px; border-top: #dddddd 1px solid; border-left-width: 0px;" />
 <h2 style="font-family: Arial, Helvetica, sans-serif; font-size: 18px; font-weight: bold; color: #222222; outline-width: 0px; outline-style: initial; outline-color: initial; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; line-height: 1.2; background-position: initial initial; background-repeat: initial initial; padding: 0px; border: 0px initial initial; margin: 10px 0px 10px 0px;"><a name="contact"></a>Contact</h2>
