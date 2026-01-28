@@ -7,7 +7,7 @@ title: "OpenModelica Connection Editor (OMEdit)"
 <h2>Documentation</h2>
 <ul>
 <li><a title="OMEdit Demo Download" href="/images/ModelicaTools/omeditMovie.wmv" target="_blank">Demonstration Video (Download)</a></li>
-<li><a title="OMEdit Demo High Definition" href="http://www.youtube.com/watch?v=1Ke7KNipPds&amp;hd=1" target="_blank" rel="noopener">OMEdit Demonstration Video (Youtube<sup>HD</sup>)</a></li>
+<li><a title="OMEdit Demo High Definition" href="https://www.youtube.com/watch?v=1Ke7KNipPds&amp;hd=1" target="_blank" rel="noopener">OMEdit Demonstration Video (Youtube<sup>HD</sup>)</a></li>
 </ul>
 <h2>Downloads</h2>
 <ul>
@@ -17,7 +17,7 @@ title: "OpenModelica Connection Editor (OMEdit)"
 </ul>
 <h2>Publications</h2>
 <ul>
-<li>2010: <a title="OMEdit Thesis Report" href="http://liu.diva-portal.org/smash/record.jsf?searchId=2&amp;pid=diva2:399755" target="_blank" rel="noopener">Design and Implementation of a User Friendly OpenModelica Graphical Connection</a> Syed Adeel Asghar, Sonia Tariq</li>
+<li>2010: <a title="OMEdit Thesis Report" href="https://liu.diva-portal.org/smash/record.jsf?searchId=2&amp;pid=diva2:399755" target="_blank" rel="noopener">Design and Implementation of a User Friendly OpenModelica Graphical Connection</a> Syed Adeel Asghar, Sonia Tariq</li>
 </ul>
 <h2>Contributors</h2>
 <ul>

@@ -31,6 +31,6 @@ title: "Oct 5: CFP - OpenModelica Annual Workshop Feb 7 2011 and MODPROD Worksho
 <p><br /><strong>Supporting organizations</strong></p>
 <p>The Center for Model-based Product Development (MODPROD) is an inter-disciplinary research center at Linköping University. It revolves around model-based tools and methods for mechanical systems, electronic systems and software, and unified approaches for model-based design. This workshop brings together expertise in these fields to discuss state of the art and the way ahead.</p>
 <p>The Open Source Modelica Consortium (OSMC) is a non-profit organization supporting the<br />development of the OpenModelica Open-Source implementation of Modelica and <br />related tools, e.g. ModelicaML (UML-Modelica integration), for industrial and academic usage.</p>
-<p><br />For more information and previous workshops see <a href="http://www.modprod.liu.se">www.modprod.liu.se</a> and <a href="undefined/">www.openmodelica.org</a></p>
+<p><br />For more information and previous workshops see <a href="https://www.modprod.liu.se">www.modprod.liu.se</a> and <a href="undefined/">www.openmodelica.org</a></p>
 <p><br />Welcome!</p>
 <p>Peter Fritzson</p>

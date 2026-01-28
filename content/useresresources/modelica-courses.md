@@ -4,8 +4,8 @@ title: "Modelica Courses"
 
 ## On-line Tutorials
 
-* <a href="http://omwebbook.openmodelica.org/">OMWebbook</a> with interactive self-learning exercises and runnable simulation models. (Web version of DrModelica)
-* Interactive step-by-step self-learning for beginners of Modelica: <a href="http://spoken-tutorial.org/tutorial-search/?search_foss=OpenModelica&amp;search_language=English">on-line spoken tutorials</a> with exercises using OpenModelica.
+* <a href="https://omwebbook.openmodelica.org/">OMWebbook</a> with interactive self-learning exercises and runnable simulation models. (Web version of DrModelica)
+* Interactive step-by-step self-learning for beginners of Modelica: <a href="https://spoken-tutorial.org/tutorial-search/?search_foss=OpenModelica&amp;search_language=English">on-line spoken tutorials</a> with exercises using OpenModelica.
 * [Chemical engineering flowsheets](https://om.fossee.in/chemical/flowsheeting-project/completed-flowsheet) at FOSSEE.
 * [Power system simulations](https://om.fossee.in/powersystems/pssp/completed-pssp) at FOSSEE.
 * [Textbook companions books](https://om.fossee.in/textbook-companion/completed-books)  with executable applications and exercises using OpenModelica.

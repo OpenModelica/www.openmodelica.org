@@ -16,7 +16,7 @@ Manas&nbsp;Ranjan Das.
   Applications.
  Master's thesis, IIT Bombay, Department of Chemical Engineering,
   2019.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Manas:msc:2019">bib</a>&nbsp;| 
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Manas:msc:2019">bib</a>&nbsp;|
 <a href="https://www.openmodelica.org/images/M_images/Masterthesis/MTP_Report.pdf">.pdf</a>&nbsp;]
 <blockquote><font size="-1">
 Examiner: Kannan Moudgalya
@@ -35,8 +35,8 @@ John Tinnerholm.
  An LLVM backend for the Open Modelica Compiler.
  Master's thesis, Linköping University, Department of Computer and
   Information Science, 2019.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Tinnerholm:msc:2019">bib</a>&nbsp;| 
-<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-154291">http</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Tinnerholm:msc:2019">bib</a>&nbsp;|
+<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-154291">https</a>&nbsp;]
 <blockquote><font size="-1">
 Supervisor: Martin Sjölund
 </font></blockquote>
@@ -59,8 +59,8 @@ Simon Eriksson and Patrik Andersson.
  Efficient IR for the OpenModelica Compiler.
  Master's thesis, Linköping University, Department of Computer and
   Information Science, 2018.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:ErikssonAndersson:msc:2018">bib</a>&nbsp;| 
-<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-148321">http</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:ErikssonAndersson:msc:2018">bib</a>&nbsp;|
+<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-148321">https</a>&nbsp;]
 <blockquote><font size="-1">
 Supervisor: Martin Sjölund
 </font></blockquote>
@@ -83,8 +83,8 @@ Christoffer&nbsp;Fors Johansson.
  OpenModelica Interactive Simulation using an OPC UA client.
  Bachelor's thesis, Linköping University, Department of Computer and
   Information Science, June 2017.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:ForsJohansson:bsc:2017">bib</a>&nbsp;| 
-<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-139085">http</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:ForsJohansson:bsc:2017">bib</a>&nbsp;|
+<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-139085">https</a>&nbsp;]
 <blockquote><font size="-1">
 Supervisors: Martin Sjölund, Adeel Asghar
 </font></blockquote>
@@ -107,8 +107,8 @@ Sudeep Bajracharya.
  Enhanced OpenModelica Python Interface.
  Master's thesis, Linköping University, Department of Computer and
   Information Science, April 2016.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:sudeep:msc:2016">bib</a>&nbsp;| 
-<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-127383">http</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:sudeep:msc:2016">bib</a>&nbsp;|
+<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-127383">https</a>&nbsp;]
 <blockquote><font size="-1">
 Supervisor: Lena Buffoni
 </font></blockquote>
@@ -131,8 +131,8 @@ Nicke Sievert.
  Modelica Models in a Distributed Environment Using FMI and HLA.
  Master's thesis, Linköping University, Department of Computer and
   Information Science, December 2015.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Nicke:msc:2015">bib</a>&nbsp;| 
-<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-131385">http</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Nicke:msc:2015">bib</a>&nbsp;|
+<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-131385">https</a>&nbsp;]
 <blockquote><font size="-1">
 Supervisor: Lena Buffoni
 </font></blockquote>
@@ -176,8 +176,8 @@ Gustaf Thorslund.
   Parallelism of ParModelica.
  Master's thesis, Linköping University, Department of Computer and
   Information Science, June 2015.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Gustaf:msc:2015">bib</a>&nbsp;| 
-<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-120079">http</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Gustaf:msc:2015">bib</a>&nbsp;|
+<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-120079">https</a>&nbsp;]
 <blockquote><font size="-1">
 Supervisor: Lena Buffoni
 </font></blockquote>
@@ -199,8 +199,8 @@ Ibrahim&nbsp;Bumin Kara.
   Acceleo 3.X.
  Master's thesis, Linköping University, Department of Computer and
   Information Science, May 2015.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Ibrahim:msc:2015">bib</a>&nbsp;| 
-<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-117873">http</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Ibrahim:msc:2015">bib</a>&nbsp;|
+<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-117873">https</a>&nbsp;]
 <blockquote><font size="-1">
 Supervisor: Lena Buffoni
 </font></blockquote>
@@ -223,8 +223,8 @@ Shilu Shrestha.
  Software modeling in cyber-physical systems.
  Master's thesis, Linköping University, Department of Computer and
   Information Science, September 2014.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Shilu:msc:2014">bib</a>&nbsp;| 
-<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-111435">http</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Shilu:msc:2014">bib</a>&nbsp;|
+<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-111435">https</a>&nbsp;]
 <blockquote><font size="-1">
 Supervisor: Lena Buffoni
 </font></blockquote>
@@ -245,8 +245,8 @@ Mohammad Jahanzeb.
  Type Inferencing and MATLAB to Modelica Translation.
  Master's thesis, Linköping University, Department of Computer and
   Information Science, September 2014.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Mohammad:msc:2014">bib</a>&nbsp;| 
-<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-111048">http</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Mohammad:msc:2014">bib</a>&nbsp;|
+<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-111048">https</a>&nbsp;]
 <blockquote><font size="-1">
 Supervisor: Lena Buffoni
 </font></blockquote>
@@ -268,8 +268,8 @@ Alexander Carlqvist.
   Analysis.
  Master's thesis, Linköping University, Department of Computer and
   Information Science, June 2014.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Carlqvist:msc:2014">bib</a>&nbsp;| 
-<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-107393">http</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Carlqvist:msc:2014">bib</a>&nbsp;|
+<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-107393">https</a>&nbsp;]
 <blockquote><font size="-1">
 Supervisor: Lena Buffoni
 </font></blockquote>
@@ -291,8 +291,8 @@ Manokar Munisamy.
   MetaModelica.
  Master's thesis, Linköping University, Department of Computer and
   Information Science, May 2014.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:manokar:msc:2014">bib</a>&nbsp;| 
-<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-110029">http</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:manokar:msc:2014">bib</a>&nbsp;|
+<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-110029">https</a>&nbsp;]
 <blockquote><font size="-1">
 Supervisor: Lena Buffoni
 </font></blockquote>
@@ -315,8 +315,8 @@ Arunkumar Palanisamy.
  Extended Metamodelica Based Integrated Compiler Generator.
  Master's thesis, Linköping University, Department of Computer and
   Information Science, October 2012.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:arun:msc:2012">bib</a>&nbsp;| 
-<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-86365">http</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:arun:msc:2012">bib</a>&nbsp;|
+<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-86365">https</a>&nbsp;]
 <blockquote><font size="-1">
 Supervisor: Olena Rogovchenko
 </font></blockquote>
@@ -338,8 +338,8 @@ Anand Ganeson.
   Python interface.
  Master's thesis, Linköping University, Department of Computer and
   Information Science, August 2012.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:anand:msc:2012">bib</a>&nbsp;| 
-<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-78992">http</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:anand:msc:2012">bib</a>&nbsp;|
+<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-78992">https</a>&nbsp;]
 <blockquote><font size="-1">
 Supervisor: Olena Rogovchenko
 </font></blockquote>
@@ -360,8 +360,8 @@ Alachew Shitahun.
  Template based XML and Modelica Unparsers in OpenModelica.
  Master's thesis, Linköping University, Department of Computer and
   Information Science, August 2012.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:alachew:msc:2012">bib</a>&nbsp;| 
-<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-81999">http</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:alachew:msc:2012">bib</a>&nbsp;|
+<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-81999">https</a>&nbsp;]
 <blockquote><font size="-1">
 Supervisor: Olena Rogovchenko
 </font></blockquote>
@@ -383,8 +383,8 @@ Jhansi&nbsp;Reddy Remala.
   notebook.
  Master's thesis, Linköping University, Department of Computer and
   Information Science, January 2012.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:jhansi:msc:2012">bib</a>&nbsp;| 
-<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-74474">http</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:jhansi:msc:2012">bib</a>&nbsp;|
+<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-74474">https</a>&nbsp;]
 <blockquote><font size="-1">
 Supervisor: Mohsen Torabzadeh-Tari
 </font></blockquote>
@@ -408,8 +408,8 @@ Afshin&nbsp;Hemmati Moghadam.
   evaluating the performance of parallel simulations of modelica models.
  Master's thesis, Linköping University, Department of Computer and
   Information Science, December 2011.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:afshin:msc:2011">bib</a>&nbsp;| 
-<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-72685">http</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:afshin:msc:2011">bib</a>&nbsp;|
+<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-72685">https</a>&nbsp;]
 <blockquote><font size="-1">
 Supervisor: Kristian Stavåker
 </font></blockquote>
@@ -431,8 +431,8 @@ Mahder Gebremedhin.
   explicit parallel languageconstructs for Multi-core Simulation.
  Master's thesis, Linköping University, Department of Computer and
   Information Science, November 2011.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:mahder:msc:2011">bib</a>&nbsp;| 
-<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-71612">http</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:mahder:msc:2011">bib</a>&nbsp;|
+<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-71612">https</a>&nbsp;]
 <blockquote><font size="-1">
 Supervisor: Kristian Stavåker
 </font></blockquote>
@@ -453,8 +453,8 @@ Syed Atif&nbsp;Shaharyar. Roohul&nbsp;Halim.
  Frontway paperfront to openmodelica translator.
  Master's thesis, Linköping University, Department of Computer and
   Information Science, October 2011.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:roohul:msc:2011">bib</a>&nbsp;| 
-<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-72085">http</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:roohul:msc:2011">bib</a>&nbsp;|
+<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-72085">https</a>&nbsp;]
 <blockquote><font size="-1">
 Supervisor: Mohsen Torabzadeh-Tari
 </font></blockquote>
@@ -475,13 +475,13 @@ David&nbsp;Malo Cid.
  OpenModelica for analog ic design.
  Master's thesis, Linköping University, Department of Computer and
   Information Science, August 2011.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:david:msc:2011">bib</a>&nbsp;| 
-<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-70657">http</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:david:msc:2011">bib</a>&nbsp;|
+<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-70657">https</a>&nbsp;]
 <blockquote><font size="-1">
 Supervisor: Mohsen Torabzadeh-Tari
 </font></blockquote>
 <blockquote><font size="-1">
-Examiner: Jacob Wikner 
+Examiner: Jacob Wikner
 </font></blockquote>
 
 </td>
@@ -497,8 +497,8 @@ Haris Kapidzic.
  Developing a new 2D-plotting package for OpenModelica.
  Master's thesis, Linköping University, Department of Computer and
   Information Science, May 2011.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:haris:msc:2011">bib</a>&nbsp;| 
-<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-67955">http</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:haris:msc:2011">bib</a>&nbsp;|
+<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-67955">https</a>&nbsp;]
 <blockquote><font size="-1">
 Supervisor: Mohsen Torabzadeh-Tari
 </font></blockquote>
@@ -520,9 +520,9 @@ Edgar&nbsp;Alonso Lopez-Rojas.
   Modelica.
  Master's thesis, Linköping University, Department of Computer and
   Information Science, May 2011.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:lopez:msc:2011">bib</a>&nbsp;| 
-<a href="http://liu.diva-portal.org/smash/get/diva2:421575/FULLTEXT01">pdf</a>&nbsp;| 
-<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-68863">http</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:lopez:msc:2011">bib</a>&nbsp;|
+<a href="https://liu.diva-portal.org/smash/get/diva2:421575/FULLTEXT01">pdf</a>&nbsp;|
+<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-68863">https</a>&nbsp;]
 <blockquote><font size="-1">
 Supervisor: Martin Sjölund
 </font></blockquote>
@@ -546,8 +546,8 @@ Syed&nbsp;Adeel Asghar and Sonia Tariq.
   connection editor.
  Master's thesis, Linköping University, Department of Computer and
   Information Science, December 2010.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:asghar:msc:2010">bib</a>&nbsp;| 
-<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-65864">http</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:asghar:msc:2010">bib</a>&nbsp;|
+<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-65864">https</a>&nbsp;]
 <blockquote><font size="-1">
 Supervisor: Mohsen Torabzadeh-Tari
 </font></blockquote>
@@ -568,8 +568,8 @@ Rickard Lindberg.
  A template based code generator for the OpenModelica compiler.
  Master's thesis, Linköping University, Department of Computer and
   Information Science, March 2010.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:rickard:msc:2010">bib</a>&nbsp;| 
-<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-54463">http</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:rickard:msc:2010">bib</a>&nbsp;|
+<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-54463">https</a>&nbsp;]
 <blockquote><font size="-1">
 Supervisor: Kristian Stavåker
 </font></blockquote>
@@ -592,8 +592,8 @@ Per Östlund.
  Simulation of Modelica Models on the CUDA Architecture.
  Master's thesis, Linköping University, Department of Computer and
   Information Science, November 2009.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:oestlund:msc:2009">bib</a>&nbsp;| 
-<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-52060">http</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:oestlund:msc:2009">bib</a>&nbsp;|
+<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-52060">https</a>&nbsp;]
 <blockquote><font size="-1">
 Supervisor: Kristian Stavåker
 </font></blockquote>
@@ -615,9 +615,9 @@ Martin Sjölund.
   Modelica/MetaModelica and Java.
  Master's thesis, Linköping University, Department of Computer and
   Information Science, August 2009.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:sjoelund:msc:2009">bib</a>&nbsp;| 
-<a href="http://www.ida.liu.se/~marsj/pdf/marsj_msc_thesis.pdf">pdf</a>&nbsp;| 
-<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-20386">http</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:sjoelund:msc:2009">bib</a>&nbsp;|
+<a href="https://www.ida.liu.se/~marsj/pdf/marsj_msc_thesis.pdf">pdf</a>&nbsp;|
+<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-20386">https</a>&nbsp;]
 <blockquote><font size="-1">
 Supervisor: Adrian Pop
 </font></blockquote>
@@ -638,8 +638,8 @@ Parham Vasaiely.
  Interactive simulation of SysML models using Modelica.
  Bachelor's thesis, Hochschule für Angewandte Wissenschaften Hamburg,
   Fakultät Technik und Informatik, August 2009.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:vasaiely:bsc:2009">bib</a>&nbsp;| 
-<a href="http://www.ida.liu.se/labs/pelab/modelica/OpenModelica/Documents/Interactive_Simulation_of_SysML_Models_using_Modelica.pdf">pdf</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:vasaiely:bsc:2009">bib</a>&nbsp;|
+<a href="https://www.ida.liu.se/labs/pelab/modelica/OpenModelica/Documents/Interactive_Simulation_of_SysML_Models_using_Modelica.pdf">pdf</a>&nbsp;]
 <blockquote><font size="-1">
 Supervisor: Bettina Buth
 </font></blockquote>
@@ -681,10 +681,10 @@ Klas Sjöholm.
  Debugging equation-based languages in OpenModelica environment.
  Master's thesis, Linköping University, Department of Computer and
   Information Science, June 2009.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:klas:msc:2009">bib</a>&nbsp;| 
-<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-19866">http</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:klas:msc:2009">bib</a>&nbsp;|
+<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-19866">https</a>&nbsp;]
 <blockquote><font size="-1">
-Supervisor: Peter Bunus 
+Supervisor: Peter Bunus
 </font></blockquote>
 <blockquote><font size="-1">
 Examiner: Peter Fritzson
@@ -705,8 +705,8 @@ Henrik Magnusson.
  Integrated generic 3D visualization of Modelica models.
  Master's thesis, Linköping University, Department of Computer and
   Information Science, November 2008.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:magnusson:msc:2008">bib</a>&nbsp;| 
-<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-15453">http</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:magnusson:msc:2008">bib</a>&nbsp;|
+<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-15453">https</a>&nbsp;]
 <blockquote><font size="-1">
 Supervisor: Anders Sandholm
 </font></blockquote>
@@ -727,8 +727,8 @@ Henrik Eriksson.
  Advanced OpenModelica plotting package for Modelica.
  Master's thesis, Linköping University, Department of Computer and
   Information Science, October 2008.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:eriksson:msc:2008">bib</a>&nbsp;| 
-<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-15075">http</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:eriksson:msc:2008">bib</a>&nbsp;|
+<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-15075">https</a>&nbsp;]
 <blockquote><font size="-1">
 Supervisor: Anders Sandholm
 </font></blockquote>
@@ -750,8 +750,8 @@ Simon Björklén.
   implementation in OpenModelica.
  Master's thesis, Linköping University, Department of Computer and
   Information Science, June 2008.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:simon:msc:2008">bib</a>&nbsp;| 
-<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-12148">http</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:simon:msc:2008">bib</a>&nbsp;|
+<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-12148">https</a>&nbsp;]
 <blockquote><font size="-1">
 Supervisor: Adrian Pop
 </font></blockquote>
@@ -773,8 +773,8 @@ Kim Jansson and Joel Klinghed.
   OpenModelica.
  Master's thesis, Linköping University, Department of Computer and
   Information Science, June 2008.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:kim:msc:2008">bib</a>&nbsp;| 
-<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-12329">http</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:kim:msc:2008">bib</a>&nbsp;|
+<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-12329">https</a>&nbsp;]
 <blockquote><font size="-1">
 Supervisor: Adrian Pop
 </font></blockquote>
@@ -836,8 +836,8 @@ Andreas Remar and Elmir Jagudin.
  Modelica and Meta-Modelica IDE plugin for Eclipse.
  Master's thesis, Linköping University, Department of Computer and
   Information Science, April 2006.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:remar:msc:2006">bib</a>&nbsp;| 
-<a href="http://www.ida.liu.se/~pelab/modelica/OpenModelica/MDT">http</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:remar:msc:2006">bib</a>&nbsp;|
+<a href="https://www.ida.liu.se/~pelab/modelica/OpenModelica/MDT">https</a>&nbsp;]
 <blockquote><font size="-1">
 Supervisor: Adrian Pop
 </font></blockquote>

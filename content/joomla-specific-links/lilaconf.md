@@ -1,7 +1,7 @@
 ---
 title: "Oct 11: Lila Conference on remote experiments, virtual labs and simulation in April 2011 Cambridge"
 ---
-<p>Lila conference in April 2011 in Cambridge. More about this in the home page: <span style="text-decoration: underline;"><strong><a href="http://www.lila-project.org/" target="_blank">Lila</a></strong></span></p>
+<p>Lila conference in April 2011 in Cambridge. More about this in the home page: <span style="text-decoration: underline;"><strong><a href="https://www.lila-project.org/" target="_blank">Lila</a></strong></span></p>
 <p class="MsoPlainText" style="margin: 0cm 0cm 0pt;"><span style="font-family: Consolas; color: #000000; font-size: small;">LiLa 2011: SHARING ONLINE LABORATORIES fOR EDUCATION</span></p>
 <p class="MsoPlainText" style="margin: 0cm 0cm 0pt;"><span style="font-family: Consolas; color: #000000; font-size: small;">&nbsp;</span></p>
 <p class="MsoPlainText" style="margin: 0cm 0cm 0pt;"><span style="font-family: Consolas; color: #000000; font-size: small;">11th &amp; 12th April 2011, Selwyn College, Cambridge, UK.</span></p>
@@ -23,7 +23,7 @@ title: "Oct 11: Lila Conference on remote experiments, virtual labs and simulati
 <p class="MsoPlainText" style="margin: 0cm 0cm 0pt;"><span style="font-family: Consolas; color: #000000; font-size: small;">- Seeing one of England's most historic University towns on foot and by boat</span></p>
 <p class="MsoPlainText" style="margin: 0cm 0cm 0pt;"><span style="font-family: Consolas; color: #000000; font-size: small;">&nbsp;</span></p>
 <p class="MsoPlainText" style="margin: 0cm 0cm 0pt;"><span style="font-family: Consolas; color: #000000; font-size: small;">For further information visit</span></p>
-<p><span><a href="http://www.lila-project.org/conference2011/index.html"><span style="color: #0000ff;">http://www.lila-project.org/conference2011/index.html</span></a></span></p>
+<p><span><a href="https://www.lila-project.org/conference2011/index.html"><span style="color: #0000ff;">https://www.lila-project.org/conference2011/index.html</span></a></span></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><span style="text-decoration: underline;"><strong>&nbsp;</strong></span></p>

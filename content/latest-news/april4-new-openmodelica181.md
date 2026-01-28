@@ -1,7 +1,7 @@
 ---
 title: "April 4: OpenModelica 1.8.1 released"
 ---
-<p>The OpenModelica 1.8.1 has been <a href="http://build.openmodelica.org/omc/builds/windows/releases/1.8.1/" target="_blank">released</a>. You can find the Windows builds&nbsp;<a href="http://build.openmodelica.org/omc/builds/windows/releases/1.8.1/" target="_blank">here</a>. The Linux and MacOS builds are available via the Download menu above.</p>
+<p>The OpenModelica 1.8.1 has been <a href="https://build.openmodelica.org/omc/builds/windows/releases/1.8.1/" target="_blank">released</a>. You can find the Windows builds&nbsp;<a href="https://build.openmodelica.org/omc/builds/windows/releases/1.8.1/" target="_blank">here</a>. The Linux and MacOS builds are available via the Download menu above.</p>
 <p>Many thanks to everybody who contributed!</p>
 <h1><span lang="SV">A.1<span style="font: 7pt;"> </span></span><span lang="SV">OpenModelica 1.8.1, April 2012</span></h1>
 <p>The OpenModelica 1.8.1 release has a faster and more stable OMC model compiler. It flattens and simulates more models than the previous 1.8.0 version. Significant flattening speedup of the compiler has been achieved for certain large models. It also contains a New ModelicaML version with support for value bindings in requirements-driven modeling and importing Modelica library models into ModelicaML models. A beta version of the new OpenModelica Python scripting is also included.</p>

@@ -57,6 +57,6 @@ title: "December 20, 2016: OpenModelica 1.11 Beta2 released"
 <ul>
 <li style="line-height: 17.6px;">3D animation visualization of regular MSL MultiBody simulations and for real-time FMUs.</li>
 <li style="line-height: 17.6px;">An updated OMDev (OpenModelica Development Environment), involving msys2. This was needed for the shift to 64-bit on Windows.</li>
-<li style="line-height: 17.6px;">OMWebbook – a web version of OMNotebook online, <a href="http://omwebbook.openmodelica.org/">http://omwebbook.openmodelica.org/</a> &nbsp;Also, a script is available to convert an OMNotebook to an OMWebbook.</li>
+<li style="line-height: 17.6px;">OMWebbook – a web version of OMNotebook online, <a href="https://omwebbook.openmodelica.org/">https://omwebbook.openmodelica.org/</a> &nbsp;Also, a script is available to convert an OMNotebook to an OMWebbook.</li>
 <li style="line-height: 17.6px;">A Jupyter notebook Modelica mode, available in OpenModelica.</li>
 </ul>

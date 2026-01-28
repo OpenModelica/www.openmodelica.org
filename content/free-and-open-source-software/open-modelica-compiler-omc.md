@@ -7,8 +7,8 @@ title: "Advanced Interactive OpenModelica Compiler (OMC)"
 <h2>Documentation</h2>
 <h2>Downloads</h2>
 <ul>
-<li>Nightly Builds: <a title="Nightly Builds" href="http://build.openmodelica.org/omc/builds/" target="_blank">http://build.openmodelica.org/omc/builds/</a></li>
-<li>Releases for Windows: <a title="Lastest Releases" href="http://build.openmodelica.org/omc/builds/windows/releases/" target="_blank">http://build.openmodelica.org/omc/builds/windows/releases/</a></li>
+<li>Nightly Builds: <a title="Nightly Builds" href="https://build.openmodelica.org/omc/builds/" target="_blank">https://build.openmodelica.org/omc/builds/</a></li>
+<li>Releases for Windows: <a title="Lastest Releases" href="https://build.openmodelica.org/omc/builds/windows/releases/" target="_blank">https://build.openmodelica.org/omc/builds/windows/releases/</a></li>
 </ul>
 <h2>Publications</h2>
 <ul>

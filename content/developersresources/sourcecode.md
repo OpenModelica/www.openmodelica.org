@@ -31,7 +31,7 @@ You can also use them to access the latest bug fixes, that have not yet been inc
 
 ## Explore
 
-* <a href="http://build.openmodelica.org/omc/builds/">The Directory Structure</a> which contains nightly builds or older releases.
+* <a href="https://build.openmodelica.org/omc/builds/">The Directory Structure</a> which contains nightly builds or older releases.
 
 ## Reporting bugs
 

@@ -15,8 +15,8 @@ John Tinnerholm.
   Modeling and Simulation of Variable Structured Systems in Modelica</em>.
  Licentiate Thesis No 1937, Linköping University, Department of
   Computer and Information Science, 2022.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:tinnerholm:lic:2022">bib</a>&nbsp;| 
-<a href="http://dx.doi.org/10.3384/9789179293680">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:tinnerholm:lic:2022">bib</a>&nbsp;|
+<a href="https://dx.doi.org/10.3384/9789179293680">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -34,8 +34,8 @@ Alachew Mengist.
   Cyber-Physical Systems with Emphasis on Model and Tool Integration</em>.
  Licentiate Thesis No 1848, Linköping University, Department of
   Computer and Information Science, 2019.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:alachew:lic:2019">bib</a>&nbsp;| 
-<a href="http://dx.doi.org/10.3384/lic.diva-156690">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:alachew:lic:2019">bib</a>&nbsp;|
+<a href="https://dx.doi.org/10.3384/lic.diva-156690">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -51,8 +51,8 @@ Anders Andersson.
   Performance, and Requirements</em>.
  Doctoral thesis No 1984, Linköping University, Department of
   Computer and Information Science, 2019.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Anders:phd:2019">bib</a>&nbsp;| 
-<a href="http://dx.doi.org/10.3384/diss.diva-156537">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Anders:phd:2019">bib</a>&nbsp;|
+<a href="https://dx.doi.org/10.3384/diss.diva-156537">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -70,8 +70,8 @@ Mahder Gebremedhin.
   Based Mathematical Modeling and Simulation</em>.
  Doctoral thesis No 1967, Linköping University, Department of
   Computer and Information Science, 2018.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:mahder:phd:2018">bib</a>&nbsp;| 
-<a href="http://dx.doi.org/10.3384/diss.diva-152789">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:mahder:phd:2018">bib</a>&nbsp;|
+<a href="https://dx.doi.org/10.3384/diss.diva-152789">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -89,8 +89,8 @@ Lennart Ochel.
   OpenModelica</em>.
  Doctoral thesis, Universität Bielefeld, AG Bioinformatik
   Technische Fakultät, 2017.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:lennart:phd:2017">bib</a>&nbsp;| 
-<a href="https://pub.uni-bielefeld.de/record/2913956">http</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:lennart:phd:2017">bib</a>&nbsp;|
+<a href="https://pub.uni-bielefeld.de/record/2913956">https</a>&nbsp;]
 
 </td>
 </tr>
@@ -108,8 +108,8 @@ Roland Samlaus.
   Domain-Specific Interactive Model Validation</em>.
  Doctoral thesis No 1652, Linköping University, Department of
   Computer and Information Science, 2015.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Roland:phd:2015">bib</a>&nbsp;| 
-<a href="http://dx.doi.org/10.3384/diss.diva-114838">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Roland:phd:2015">bib</a>&nbsp;|
+<a href="https://dx.doi.org/10.3384/diss.diva-114838">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -125,8 +125,8 @@ Martin Sjölund.
   Improvement of Equation-Based Models</em>.
  Doctoral thesis No 1664, Linköping University, Department of
   Computer and Information Science, 2015.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:sjoelund:phd:2015">bib</a>&nbsp;| 
-<a href="http://dx.doi.org/10.3384/diss.diva-116346">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:sjoelund:phd:2015">bib</a>&nbsp;|
+<a href="https://dx.doi.org/10.3384/diss.diva-116346">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -142,8 +142,8 @@ Mahder Gebremedhin.
   Mathematical Simulation Models</em>.
  Licentiate Thesis No 1716, Linköping University, Department of
   Computer and Information Science, 2015.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Mahder:lic:2015">bib</a>&nbsp;| 
-<a href="http://dx.doi.org/10.3384/lic.diva-117346">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Mahder:lic:2015">bib</a>&nbsp;|
+<a href="https://dx.doi.org/10.3384/lic.diva-117346">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -159,8 +159,8 @@ Kristian Stavåker.
   Multi-Core Architectures</em>.
  Doctoral thesis No 1666, Linköping University, Department of
   Computer and Information Science, 2015.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Stavaker:phd:2015">bib</a>&nbsp;| 
-<a href="http://dx.doi.org/10.3384/diss.diva-116338">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Stavaker:phd:2015">bib</a>&nbsp;|
+<a href="https://dx.doi.org/10.3384/diss.diva-116338">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -178,8 +178,8 @@ Martin Sjölund.
   Improvement of Equation-Based Models</em>.
  Licentiate thesis No 1592, Linköping University, Department of
   Computer and Information Science, 2013.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:sjoelund:lic:2013">bib</a>&nbsp;| 
-<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-90096">http</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:sjoelund:lic:2013">bib</a>&nbsp;|
+<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-90096">https</a>&nbsp;]
 
 </td>
 </tr>
@@ -195,8 +195,8 @@ Wladimir Schamai.
   Requirements: Method, Language, and Tool</em>.
  Doctoral thesis No 1547, Linköping University, Department of
   Computer and Information Science, 2013.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Wladimir:phd:2013">bib</a>&nbsp;| 
-<a href="http://dx.doi.org/10.3384/diss.diva-98107">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Wladimir:phd:2013">bib</a>&nbsp;|
+<a href="https://dx.doi.org/10.3384/diss.diva-98107">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -214,8 +214,8 @@ Kristian Stavåker.
   on Graphics Processing Units</em>.
  Licentiate thesis No 1507, Linköping University, Department of
   Computer and Information Science, 2011.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:stavaker:lic:2011">bib</a>&nbsp;| 
-<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-71270">http</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:stavaker:lic:2011">bib</a>&nbsp;|
+<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-71270">https</a>&nbsp;]
 
 </td>
 </tr>
@@ -233,8 +233,8 @@ David Broman.
   Simulation</em>.
  Doctoral thesis No 1333, Department of Computer and Information
   Science, Linköping University, Sweden, October 2010.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:broman:phd:2010">bib</a>&nbsp;| 
-<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-58743">http</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:broman:phd:2010">bib</a>&nbsp;|
+<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-58743">https</a>&nbsp;]
 
 </td>
 </tr>
@@ -268,8 +268,8 @@ Håkan Lundvall.
   Simulation Languages</em>.
  Licentiate thesis No 1381, Linköping University, Department of
   Computer and Information Science, 2008.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:lundvall:lic:2008">bib</a>&nbsp;| 
-<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-12504">http</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:lundvall:lic:2008">bib</a>&nbsp;|
+<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-12504">https</a>&nbsp;]
 
 </td>
 </tr>
@@ -287,8 +287,8 @@ Peter Aronsson.
   Programs</em>.
  Doctoral thesis No 1022, Linköping University, Department of
   Computer and Information Science, June 2006.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:aronsson:phd:2006">bib</a>&nbsp;| 
-<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-7446">http</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:aronsson:phd:2006">bib</a>&nbsp;|
+<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-7446">https</a>&nbsp;]
 
 </td>
 </tr>
@@ -304,8 +304,8 @@ Levon Saldamli.
   Differential Equations</em>.
  Doctoral thesis No 1016, Department of Computer and Information
   Science, Linköping University, Sweden, May 2006.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:saldamli:phd:2006">bib</a>&nbsp;| 
-<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-7281">http</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:saldamli:phd:2006">bib</a>&nbsp;|
+<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-7281">https</a>&nbsp;]
 
 </td>
 </tr>
@@ -322,8 +322,8 @@ Peter Bunus.
  <em>Debugging techniques for Equation-Based languages</em>.
  Doctoral thesis No 873, Linköping University, Department of
   Computer and Information Science, 2004.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:bunus:phd:2004">bib</a>&nbsp;| 
-<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-35555">http</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:bunus:phd:2004">bib</a>&nbsp;|
+<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-35555">https</a>&nbsp;]
 
 </td>
 </tr>
@@ -341,8 +341,8 @@ Peter Bunus.
   Equation-Based Languages</em>.
  Licentiate thesis No 964, Linköping University, Department of
   Computer and Information Science, 2002.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:bunus:lic:2002">bib</a>&nbsp;| 
-<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-5727">http</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:bunus:lic:2002">bib</a>&nbsp;|
+<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-5727">https</a>&nbsp;]
 
 </td>
 </tr>
@@ -360,8 +360,8 @@ Vadim Engelson.
   Object-Oriented models in scientific computing</em>.
  Doctoral thesis No 627, Linköping University, Department of
   Computer and Information Science, 2000.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:engelson:phd:2000">bib</a>&nbsp;| 
-<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-35606">http</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:engelson:phd:2000">bib</a>&nbsp;|
+<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-35606">https</a>&nbsp;]
 
 </td>
 </tr>
@@ -378,8 +378,8 @@ Mikael Pettersson.
  <em>Compiling Natural Semantics</em>, volume 1549 of <em>Lecture Notes
   in Computer Science</em>.
  Springer, 1999.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:pettersson:lncs:1999">bib</a>&nbsp;| 
-<a href="http://dx.doi.org/10.1007/b71652">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:pettersson:lncs:1999">bib</a>&nbsp;|
+<a href="https://dx.doi.org/10.1007/b71652">DOI</a>&nbsp;]
 
 </td>
 </tr>

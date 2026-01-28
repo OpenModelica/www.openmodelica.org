@@ -20,7 +20,7 @@ title: "April 20 : OpenModelica 1.7RC1 release"
 <p class="MsoBodyTextIndent" style="margin: 0cm 0cm 6pt 14.15pt;"><span lang="EN-US"><span style="font-family: Times New Roman; color: #000000; font-size: small;">&nbsp;</span></span></p>
 <p class="MsoBodyText" style="margin: 6pt 0cm 0pt;"><span lang="EN-US"><span style="font-family: Times New Roman; color: #000000; font-size: small;">Thanks to all who contributed and worked hard for this release!</span></span></p>
 <p><span style="color: red;"><strong>&nbsp;</strong></span></p>
-<p><strong>OpenModelica 1.7RC1 release can be downloaded&nbsp;<a style="color: #1b57b1; text-decoration: none; font-weight: normal;" href="http://build.openmodelica.org/omc/builds/windows/releases/1.7.0/rc1">here</a>.</strong></p>
+<p><strong>OpenModelica 1.7RC1 release can be downloaded&nbsp;<a style="color: #1b57b1; text-decoration: none; font-weight: normal;" href="https://build.openmodelica.org/omc/builds/windows/releases/1.7.0/rc1">here</a>.</strong></p>
 <p><strong>&nbsp;</strong></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>

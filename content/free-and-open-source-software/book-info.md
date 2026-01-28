@@ -2,7 +2,7 @@
 title: "Principles of Object-Oriented Modeling and Simulation with Modelica 2.1"
 ---
 <p>ISBN 0-471-471631</p>
-<p><img src="http://www.ida.liu.se/labs/pelab/modelica/OpenModelica/images/ModelicaBook.jpg" alt="Book Cover - Peter Fritzson.jpg" width="114" height="164" border="0" /></p>
+<p><img src="https://www.ida.liu.se/labs/pelab/modelica/OpenModelica/images/ModelicaBook.jpg" alt="Book Cover - Peter Fritzson.jpg" width="114" height="164" border="0" /></p>
 <p>As both a step-by-step tutorial for those new to the field and a practical reference to the Modelica language for professionals, this book will give you the grounding you need to take full advantage of <span class="product">MathModelica</span>.</p>
 <p>This comprehensive guide provides:&nbsp;</p>
 <ul>
@@ -31,14 +31,14 @@ title: "Principles of Object-Oriented Modeling and Simulation with Modelica 2.1"
 <tr>
 <td valign="top">
 <h5>About the author</h5>
-<p><em>The author <strong>Peter Fritzson</strong> is a professor at Linköping University (Sweden) and also director of the Open Source Modelica Consortium (<a href="../undefined/">www.openmodelica.org</a>), director of the MODPROD Center for Model-based development (<a href="http://www.modprod.liu.se">www.modprod.liu.se</a>), and Vice Chairman of the Modelica Association (<a href="http://www.modelica.org">www.modelica.org</a>).</em></p>
+<p><em>The author <strong>Peter Fritzson</strong> is a professor at Linköping University (Sweden) and also director of the Open Source Modelica Consortium (<a href="../undefined/">www.openmodelica.org</a>), director of the MODPROD Center for Model-based development (<a href="https://www.modprod.liu.se">www.modprod.liu.se</a>), and Vice Chairman of the Modelica Association (<a href="https://www.modelica.org">www.modelica.org</a>).</em></p>
 </td>
 <td valign="top" width="40%">
 <h5>Ordering Sites</h5>
 <ul>
-<li><a href="http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471471631.html" target="_BLANK">Wiley USA</a></li>
-<li><a href="http://www.wileyeurope.com/WileyCDA/WileyTitle/productCd-0471471631.html" target="_BLANK">Wiley Europe</a></li>
-<li><a href="http://www.amazon.com/exec/obidos/ASIN/0471471631" target="_BLANK">Amazon.com</a></li>
+<li><a href="https://www.wiley.com/WileyCDA/WileyTitle/productCd-0471471631.html" target="_BLANK">Wiley USA</a></li>
+<li><a href="https://www.wileyeurope.com/WileyCDA/WileyTitle/productCd-0471471631.html" target="_BLANK">Wiley Europe</a></li>
+<li><a href="https://www.amazon.com/exec/obidos/ASIN/0471471631" target="_BLANK">Amazon.com</a></li>
 </ul>
 </td>
 </tr>
