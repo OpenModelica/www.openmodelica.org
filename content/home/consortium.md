@@ -88,51 +88,51 @@ weight: 1
 <tr style="border: thin solid;">
 <td style="border: thin solid;">Org. - Large company, not an SME</td>
 <td style="border: thin solid;">&gt; 250</td>
-<td style="border: thin solid;">7300</td>
-<td style="border: thin solid;">8500</td>
-<td style="border: thin solid;">24 200</td>
+<td style="border: thin solid;">8000</td>
+<td style="border: thin solid;">9400</td>
+<td style="border: thin solid;">26 600</td>
 </tr>
 <tr style="border: thin solid;">
 <td style="border: thin solid;">Org. - Medium company, SME</td>
 <td style="border: thin solid;">&gt; 50, ≤ 250</td>
-<td style="border: thin solid;">3600</td>
-<td style="border: thin solid;">6000</td>
-<td style="border: thin solid;">12 100</td>
+<td style="border: thin solid;">4000</td>
+<td style="border: thin solid;">6600</td>
+<td style="border: thin solid;">13 300</td>
 </tr>
 <tr style="border: thin solid;">
 <td style="border: thin solid;">Org. - Small company, SME</td>
 <td style="border: thin solid;">&gt; 5, ≤ 50</td>
-<td style="border: thin solid;">2400</td>
-<td style="border: thin solid;">3600</td>
-<td style="border: thin solid;">6000</td>
+<td style="border: thin solid;">2600</td>
+<td style="border: thin solid;">4000</td>
+<td style="border: thin solid;">6600</td>
 </tr>
 <tr style="border: thin solid;">
 <td style="border: thin solid;">Org. - Very Small Company, SME</td>
 <td style="border: thin solid;">≤ 5</td>
 <td style="border: thin solid;">1200</td>
-<td style="border: thin solid;">2400</td>
-<td style="border: thin solid;">3600</td>
+<td style="border: thin solid;">2600</td>
+<td style="border: thin solid;">4000</td>
 </tr>
 <tr style="border: thin solid;">
 <td style="border: thin solid;">Org. - Large Non-profit</td>
 <td style="border: thin solid;">Group size &gt; 10</td>
 <td style="border: thin solid;">1200</td>
-<td style="border: thin solid;">3600</td>
-<td style="border: thin solid;">6000</td>
+<td style="border: thin solid;">4000</td>
+<td style="border: thin solid;">6600</td>
 </tr>
 <tr style="border: thin solid;">
 <td style="border: thin solid;">Org. - Small Non-profit</td>
 <td style="border: thin solid;">Group size ≤ 10</td>
 <td style="border: thin solid;">600</td>
-<td style="border: thin solid;">2400</td>
-<td style="border: thin solid;">3600</td>
+<td style="border: thin solid;">2600</td>
+<td style="border: thin solid;">4000</td>
 </tr>
 <tr style="border: thin solid;">
 <td style="border: thin solid;">Individual member</td>
 <td style="border: thin solid;">1</td>
 <td style="border: thin solid;">0</td>
-<td style="border: thin solid;">2400</td>
-<td style="border: thin solid;">3600</td>
+<td style="border: thin solid;">2600</td>
+<td style="border: thin solid;">4000</td>
 </tr>
 </tbody>
 </table>
@@ -211,7 +211,6 @@ weight: 1
 <li><a href="https://www.lbl.gov">Berkeley Lab, California, USA</a></li>
 <li><a href="https://www.boschrexroth.com">Bosch Rexroth AG, Germany</a></li>
 <li><a href="https://creativeconnections.cz">Creative Connections, Prague, Czech Republic</a><span style="mso-ansi-language: SV;" lang="SV"> </span></li>
-<li><a href="https://www.demxs.com">DEMXS Ltd, Shanghai, China</a></li>
 <li><a href="https://www.dhigroup.com/">DHI, Aarhus, Denmark</a></li>
 <li><a href="https://www.dynamica-it.com">Dynamica s.r.l., Cremona, Italy</a></li>
 <li><a href="https://www.edf.fr">EDF, Paris, France</a></li>
@@ -221,7 +220,6 @@ weight: 1
 <li><a href="https://www.fcc.chalmers.se/">Fraunhofer Chalmers (FCC), Gothenburg, Sweden</a></li>
 <li>GSIMX Beijing Technology, China</li>
 <li><a href="https://leitbetriebe.at/en/profiles/hoerbiger-wien-gmbh/">Hoerbiger Wien, Austria</a></li>
-<li>Hefei Taize Turbomachinery Technology, Hefei, China</li>
 <li><a href="https://www.isid.co.jp">ISID Dentsu, Tokyo, Japan</a></li>
 <li><a href="https://www.inria.fr/en/centre-inria-rennes-bretagne-atlantique">INRIA, Rennes, France</a></li>
 <li><a href="https://www.maplesoft.com">Maplesoft, Canada</a></li>
@@ -234,7 +232,6 @@ weight: 1
 <li><a href="https://www.saab.com">Saab, Linköping, Sweden</a></li>
 <li><a href="https://www.bloomberg.com/profile/company/1732547D:CH">Shanghai Duanyan Information Technology Co., Ltd., China</a></li>
 <li><a href="https://www.sil3x.fr">SIL3X, Paris, France</a></li>
-<li><a href="https://www.simtek.cc/">Simtek Ltd. Nanjing, China</a></li>
 <li><a href="https://smart.fluidpower.it/">SmartFluidPower, Modena, Italy</a></li>
 <li><a href="https://www.swegon.com/"> Swegon AB, Gothenburg, Sweden</a></li>
 <li><a href="https://www.tlk-thermo.com">TLK Thermo, Braunschweig, Germany</a></li>
