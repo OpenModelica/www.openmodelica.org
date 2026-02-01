@@ -17,8 +17,8 @@ Martin Sj&ouml;lund.
   number 181 in Link&ouml;ping Electronic Conference Proceedings, pages 529--537.
   Modelica Association and Link&ouml;ping University Electronic Press, September
   2021.
-[&nbsp;<a href="/research/openmodelica_bib#modelica.org:Sjolund:2021">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp21181529">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#modelica.org:Sjolund:2021">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp21181529">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -38,8 +38,8 @@ Daniel Bouskela, Audrey Jardin, Arunkumar Palanisamy, Lennart Ochel, and Adrian
   number 181 in Link&ouml;ping Electronic Conference Proceedings, pages 453--462.
   Modelica Association and Link&ouml;ping University Electronic Press, September
   2021.
-[&nbsp;<a href="/research/openmodelica_bib#modelica.org:Bouskela:2021">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp21181453">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#modelica.org:Bouskela:2021">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp21181453">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -58,8 +58,8 @@ John Tinnerholm, Adrian Pop, Andreas Heuermann, and Martin Sj&ouml;lund.
   number 181 in Link&ouml;ping Electronic Conference Proceedings, pages 109--117.
   Modelica Association and Link&ouml;ping University Electronic Press, September
   2021.
-[&nbsp;<a href="/research/openmodelica_bib#modelica.org:Tinnerholm:2021">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp21181109">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#modelica.org:Tinnerholm:2021">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp21181109">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -77,8 +77,8 @@ John Tinnerholm, Adrian Pop, Martin Sjölund, Andreas Heuermann, and Karim
  Towards an open-source modelica compiler in julia.
  In <em>Proceedings of Asian Modelica Conference Tokyo, Japan,
   October 08-09</em>, 2020.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:tinnerholm:modelica:2020">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp2020174143">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:tinnerholm:modelica:2020">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp2020174143">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -95,8 +95,8 @@ Willi Braun, Martin Schroschk, Vitalij Ruge, Andreas Heuermann, and Bernhard
   its application in openmodelica.
  In <em>Proceedings of the American Modelica Conference, Boulder,
   Colorado, USA, March 23-25</em>, 2020.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:braun:modelica:2020">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp20169159">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:braun:modelica:2020">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp20169159">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -116,8 +116,8 @@ John Tinnerholm, Martin Sjölund, and Adrian Pop.
   Equation-Based Object-Oriented Modeling Languages and Tools</em>, EOOLT '19, page
   11–19, New York, NY, USA, October 2019. Association for Computing
   Machinery.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:tinnerholm:eoolt:2019">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.1145/3365984.3365990">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:tinnerholm:eoolt:2019">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1145/3365984.3365990">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -133,8 +133,8 @@ Adrien&nbsp;Guironnet Andrea&nbsp;Bartolini, Francesco&nbsp;Casella.
   Principles and a Prototype for a Reference Power System Library.
  In <em>Proceedings of the 13th International Modelica Conference</em>.
   Modelica Association and Linköping University Electronic Press, March 2019.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Bartolini:modelica:2019">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp19157627">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Bartolini:modelica:2019">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp19157627">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -150,8 +150,8 @@ Giovanni Agosta, Emanuele Baldino, Francesco Casella, Stefano Cherubin, Alberto
  Towards a High-Performance Modelica Compiler.
  In <em>Proceedings of the 13th International Modelica Conference</em>.
   Modelica Association and Linköping University Electronic Press, March 2019.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Giovanni:modelica:2019">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp19157313">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Giovanni:modelica:2019">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp19157313">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -167,8 +167,8 @@ Bernt Lie, Arunkumar Palanisamy, Alachew Mengist, Lena Buffoni, Martin
  OMJulia: An OpenModelica API for Julia-Modelica Interaction.
  In <em>Proceedings of the 13th International Modelica Conference</em>.
   Modelica Association and Linköping University Electronic Press, March 2019.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:lie:modelica:2019">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp19157699">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:lie:modelica:2019">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp19157699">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -184,8 +184,8 @@ Adrian Pop, Per Östlund, Francesco Casella, Martin Sjölund, and Rüdiger
  A New OpenModelica Compiler High Performance Frontend.
  In <em>Proceedings of the 13th International Modelica Conference</em>.
   Modelica Association and Linköping University Electronic Press, March 2019.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:pop:modelica:2019">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp19157689">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:pop:modelica:2019">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp19157689">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -201,8 +201,8 @@ Bernhard Thiele, Bernt Lie, Martin Sjölund, Adrian Pop, and Peter Fritzson.
   Integration with the Julia Language.
  In <em>Proceedings of the 13th International Modelica Conference</em>.
   Modelica Association and Linköping University Electronic Press, March 2019.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:thiele:modelica:2019">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp19157303">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:thiele:modelica:2019">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp19157303">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -218,8 +218,8 @@ Peter Fritzson, Adrian Pop, Martin Sjölund, and Adeel Asghar.
   to Julia.
  In <em>Proceedings of the 13th International Modelica Conference</em>.
   Modelica Association and Linköping University Electronic Press, March 2019.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:fritzson:modelica:2019">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp19157289">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:fritzson:modelica:2019">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp19157289">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -237,8 +237,8 @@ Lennart Ochel, Robert Braun, Bernhard Thiele, Adeel Asghar, Lena Buffoni,
   Composite Model Editing and SSP.
  In <em>Proceedings of the 13th International Modelica Conference</em>.
   Modelica Association and Linköping University Electronic Press, March 2019.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:ochel:modelica:2019">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp1915769">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:ochel:modelica:2019">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp1915769">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -257,8 +257,8 @@ Tamas Kecskes, Patrik Meijer, Janos Sztipanovits, Peter Fritzson, Adrian Pop,
  In <em>Proceedings of the 1st American Modelica Conference</em>.
   Modelica Association and Linköping University Electronic Press, October
   2018.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:tamas:modelicaUS:2018">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp18154220">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:tamas:modelicaUS:2018">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp18154220">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -279,8 +279,8 @@ Peter Fritzson, Adrian Pop, Adeel Asghar, Bernhard Bachmann, Willi Braun,
  In <em>Proceedings of the 1st American Modelica Conference</em>.
   Modelica Association and Linköping University Electronic Press, October
   2018.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:fritzson:modelicaUS:2018">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp18154206">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:fritzson:modelicaUS:2018">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp18154206">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -297,8 +297,8 @@ Lena Buffoni, Adrian Pop, and Alachew Mengist.
  Traceability and impact analysis in requirement verification.
  In <em>8th International Workshop on Equation-Based
   Object-Oriented Modeling Languages and Tools</em>, December 2017.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:lena:eoolt:2017">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.1145/3158191.3158207">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:lena:eoolt:2017">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1145/3158191.3158207">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -315,8 +315,8 @@ Alejandro Danós, Willi Braun, Peter Fritzson, Adrian Pop, Hugo Scolnik, and
   Including Optimization-driven Strategies.
  In <em>8th International Workshop on Equation-Based
   Object-Oriented Modeling Languages and Tools</em>, December 2017.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:danos:eoolt:2017">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.1145/3158191.3158206">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:danos:eoolt:2017">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1145/3158191.3158206">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -331,8 +331,8 @@ Lutz Berger, Martin Sjölund, and Bernhard Thiele.
  Code Generation for STM32F4 Boards with Modelica Device Drivers.
  In <em>8th International Workshop on Equation-Based
   Object-Oriented Modeling Languages and Tools</em>, December 2017.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:berger:eoolt:2017">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.1145/3158191.3158204">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:berger:eoolt:2017">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1145/3158191.3158204">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -349,8 +349,8 @@ Bernhard Thiele, Thomas Beutlich, Volker Waurich, Martin Sjölund, and Tobias
   modelica device drivers library.
  In <em>Proceedings of the 12th International Modelica Conference</em>.
   Modelica Association and Linköping University Electronic Press, May 2017.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:thiele:modelica:2017">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp17132713">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:thiele:modelica:2017">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp17132713">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -367,8 +367,8 @@ Kannan Moudgalya, Bhargava Nemmaru, Kaushik Datta, Priyam Nayak, Peter
   openmodelica.
  In <em>Proceedings of the 12th International Modelica Conference</em>.
   Modelica Association and Linköping University Electronic Press, May 2017.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:kannan:modelica:2017">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp17132275">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:kannan:modelica:2017">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp17132275">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -383,8 +383,8 @@ Rahul Jain, Kannan Moudgalya, Peter Fritzson, and Adrian Pop.
  Development of a Thermodynamic Engine in OpenModelica.
  In <em>Proceedings of the 12th International Modelica Conference</em>.
   Modelica Association and Linköping University Electronic Press, May 2017.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:rahul:modelica:2017">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp1713289">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:rahul:modelica:2017">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp1713289">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -400,8 +400,8 @@ Alachew Mengist, Adrian Pop, Adeel Asghar, and Peter Fritzson.
   Lifecycle Collaboration (OSLC).
  In <em>Proceedings of the 12th International Modelica Conference</em>.
   Modelica Association and Linköping University Electronic Press, May 2017.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:alachew:modelica:2017">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp17132823">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:alachew:modelica:2017">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp17132823">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -421,8 +421,8 @@ Alfredo Garro, Andrea Tundis, Daniel Bouskela, Audrey Jardin, Nguyen Thuy,
   logic language and a Modelica-based solution.
  In <em>2016 IEEE International Symposium on Systems Engineering
   (ISSE)</em>, pages 1--8, October 2016.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:garro:isse:2016">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.1109/SysEng.2016.7753137">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:garro:isse:2016">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1109/SysEng.2016.7753137">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -454,8 +454,8 @@ Gustaf Thorslund, Mahder Gebremedhin, and Peter Fritzson.
   ParModelica.
  In <em>Proceedings of 9th EUROSIM Congress on Modelling and
   Simulation</em>, September 2016.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:thorslund:eurosim:2016">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp17142660">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:thorslund:eurosim:2016">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp17142660">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -489,8 +489,8 @@ Peter&nbsp;Gorm Larsen, John Fitzgerald, Jim Woodcock, Peter Fritzson, Jyrg Brau
   Systems: The INTO-CPS project.
  In <em>In Proceedings of the 2nd International Workshop on
   Modelling, Analysis, and Control of Complex CPS (CPS Data)</em>, April 2016.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Larsen:mas:2016">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.1109/CPSData.2016.7496424 ">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Larsen:mas:2016">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1109/CPSData.2016.7496424 ">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -520,8 +520,8 @@ Marc Bouissou, Lena Buffoni, and Bernhard Thiele.
  From design to dependability: A bridge between physical simulation
   and risk analysis.
  In <em>In Lambda-mu 20</em>, 2016.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Marc:Lambda:2016">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.4267/2042/61810 ">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Marc:Lambda:2016">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.4267/2042/61810 ">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -540,8 +540,8 @@ Bernhard Thiele, Adrian Pop, and Peter Fritzson.
  In Peter Fritzson and Hilding Elmqvist, editors, <em>Proceedings of
   the 11th International Modelica Conference</em>. Modelica Association and
   Linköping University Electronic Press, September 2015.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Thiele:modelica:2015">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp15118255">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Thiele:modelica:2015">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp15118255">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -559,8 +559,8 @@ Alachew Mengist, Adeel Asghar, Adrian Pop, Peter Fritzson, Willi Braun,
  In Peter Fritzson and Hilding Elmqvist, editors, <em>Proceedings of
   the 11th International Modelica Conference</em>. Modelica Association and
   Linköping University Electronic Press, September 2015.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:alachew:modelica:2015">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp15118181">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:alachew:modelica:2015">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp15118181">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -578,8 +578,8 @@ Martin Otter, Nguyen Thuy, Daniel Bouskela, Lena Buffoni, Hilding Elmqvist,
  In Peter Fritzson and Hilding Elmqvist, editors, <em>Proceedings of
   the 11th International Modelica Conference</em>. Modelica Association and
   Linköping University Electronic Press, September 2015.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:otter:modelica:2015">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp15118625">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:otter:modelica:2015">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp15118625">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -597,8 +597,8 @@ Wladimir Schamai, Lena Buffoni, Nicolas Albarello, Pablo Fontes&nbsp;De Miranda,
  In Peter Fritzson and Hilding Elmqvist, editors, <em>Proceedings of
   the 11th International Modelica Conference</em>. Modelica Association and
   Linköping University Electronic Press, September 2015.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:schamai:modelica:2015">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp15118911">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:schamai:modelica:2015">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp15118911">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -616,8 +616,8 @@ Adeel Asghar, Andreas Pfeiffer, Arunkumar Palanisamy, Alachew Mengist, Martin
  In Peter Fritzson and Hilding Elmqvist, editors, <em>Proceedings of
   the 11th International Modelica Conference</em>. Modelica Association and
   Linköping University Electronic Press, September 2015.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:asghar:modelica:2015">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp15118671">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:asghar:modelica:2015">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp15118671">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -651,8 +651,8 @@ Lena Buffoni and Peter Fritzson.
  Expressing Requirements in Modelica.
  In <em>Proceedings of the Scandinavian Conference on Modeling and
   Simulation</em>, October 2014.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Buffoni:sims:2014">bib</a>&nbsp;|
-<a href="https://dx.doi.org/">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Buffoni:sims:2014">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -669,8 +669,8 @@ Martin Sjölund, Francesco Casella, Adrian Pop, Adeel Asghar, Peter Fritzson,
  In Hubertus Tummescheit and Karl-Erik Årzén, editors, <em>
   Proceedings of the 10th International Modelica Conference</em>. Modelica
   Association and Linköping University Electronic Press, March 2014.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:sjoelund:modelica:2014">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp14096195">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:sjoelund:modelica:2014">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp14096195">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -686,8 +686,8 @@ Arunkumar Palanisamy, Adrian Pop, Martin Sjölund, and Peter Fritzson.
  In Hubertus Tummescheit and Karl-Erik Årzén, editors, <em>
   Proceedings of the 10th International Modelica Conference</em>. Modelica
   Association and Linköping University Electronic Press, March 2014.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:palanisamy:modelica:2014">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp14096567">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:palanisamy:modelica:2014">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp14096567">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -705,8 +705,8 @@ Rodrigo Castro, Peter Fritzson, François Cellier, Safa Motesharrei, and Jorge
  In Hubertus Tummescheit and Karl-Erik Årzén, editors, <em>
   Proceedings of the 10th International Modelica Conference</em>. Modelica
   Association and Linköping University Electronic Press, March 2014.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:castro:modelica:2014">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp14096549">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:castro:modelica:2014">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp14096549">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -722,8 +722,8 @@ Roland Samaus, Mareike Strach, and Peter Fritzson.
  In Hubertus Tummescheit and Karl-Erik Årzén, editors, <em>
   Proceedings of the 10th International Modelica Conference</em>. Modelica
   Association and Linköping University Electronic Press, March 2014.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:samlus:modelica:2014">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp14096549">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:samlus:modelica:2014">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp14096549">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -739,8 +739,8 @@ Mohammad Jahanzeb, Arunkumar Palanisamy, Martin Sjölund, and Peter Fritzson.
  In Hubertus Tummescheit and Karl-Erik Årzén, editors, <em>
   Proceedings of the 10th International Modelica Conference</em>. Modelica
   Association and Linköping University Electronic Press, March 2014.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Jahanzeb:modelica:2014">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ECP140961285">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Jahanzeb:modelica:2014">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ECP140961285">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -756,8 +756,8 @@ Mana Mirzaei, Lena Buffoni, and Peter Fritzson.
  In Hubertus Tummescheit and Karl-Erik Årzén, editors, <em>
   Proceedings of the 10th International Modelica Conference</em>. Modelica
   Association and Linköping University Electronic Press, March 2014.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Mirzaei:modelica:2014">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ECP140961247">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Mirzaei:modelica:2014">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ECP140961247">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -776,8 +776,8 @@ Zsolt Lattmann, Adrian Pop, Johan de&nbsp;Kleer, Peter Fritzson, Bill Janssen,
  In Hubertus Tummescheit and Karl-Erik Årzén, editors, <em>
   Proceedings of the 10th International Modelica Conference</em>. Modelica
   Association and Linköping University Electronic Press, March 2014.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Lattmann:modelica:2014">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ECP14096353">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Lattmann:modelica:2014">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ECP14096353">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -793,8 +793,8 @@ Arunkumar Palanisamy, Adrian Pop, Martin Sjölund, and Peter Fritzson.
  In Hubertus Tummescheit and Karl-Erik Årzén, editors, <em>
   Proceedings of the 10th International Modelica Conference</em>. Modelica
   Association and Linköping University Electronic Press, March 2014.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Palanisamy2:modelica:2014">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ECP14096567">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Palanisamy2:modelica:2014">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ECP14096567">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -810,8 +810,8 @@ Roland Samlaus, Mareike Strach, and Peter Fritzson.
  In Hubertus Tummescheit and Karl-Erik Årzén, editors, <em>
   Proceedings of the 10th International Modelica Conference</em>. Modelica
   Association and Linköping University Electronic Press, March 2014.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Samlaus2:modelica:2014">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ECP14096549">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Samlaus2:modelica:2014">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ECP14096549">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -828,8 +828,8 @@ Rodrigo Castro, Peter Fritzson, François Cellier, Safa Motesharrei, and Jorge
  In Hubertus Tummescheit and Karl-Erik Årzén, editors, <em>
   Proceedings of the 10th International Modelica Conference</em>. Modelica
   Association and Linköping University Electronic Press, March 2014.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Castro2:modelica:2014">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ECP14096477">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Castro2:modelica:2014">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ECP14096477">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -846,8 +846,8 @@ Mahder Gebremedhin and Peter Fritzson.
  In Henrik Nilsson, editor, <em>Proceedings of the 6th International
   Workshop on Equation-Based Object-Oriented Modeling Languages and
   Tools</em>, 2014.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Gebremedhin:modelica:2014">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.1145/2666202.2666210">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Gebremedhin:modelica:2014">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1145/2666202.2666210">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -932,8 +932,8 @@ Martin Sjölund, Mahder Gebremedhin, and Peter Fritzson.
   platforms by utilizing model structure.
  In Alain Darte, editor, <em>Proceedings of the 17th Workshop on
   Compilers for Parallel Computing</em>, July 2013.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:sjoelund:cpc:2013">bib</a>&nbsp;|
-<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-110322">https</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:sjoelund:cpc:2013">bib</a>&nbsp;| 
+<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-110322">http</a>&nbsp;]
 
 </td>
 </tr>
@@ -950,8 +950,8 @@ Francesco Casella.
  In Henrik Nilsson, editor, <em>Proceedings of the 5th International
   Workshop on Equation-Based Object-Oriented Modeling Languages and
   Tools</em>. Linköping University Electronic Press, April 2013.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:casella:eoolt:2013">bib</a>&nbsp;|
-<a href="https://www.ep.liu.se/ecp/084/006/ecp13084006.pdf">pdf</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:casella:eoolt:2013">bib</a>&nbsp;| 
+<a href="http://www.ep.liu.se/ecp/084/006/ecp13084006.pdf">pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -1022,9 +1022,9 @@ Niklas Worschech and Lars Mikelsons.
  In Martin Otter and Dirk Zimmer, editors, <em>Proceedings of the 9th
   International Modelica Conference</em>. Linköping University Electronic Press,
   September 2012.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:niklas:modelica:2012">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp12076839">DOI</a>&nbsp;|
-<a href="https://www.ep.liu.se/ecp/076/086/ecp12076086.pdf">pdf</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:niklas:modelica:2012">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp12076839">DOI</a>&nbsp;| 
+<a href="http://www.ep.liu.se/ecp/076/086/ecp12076086.pdf">pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -1041,9 +1041,9 @@ Christoph Höger, Alexandra Mehlhase, Christoph Nytsch-Geusen, Karsten
  In Martin Otter and Dirk Zimmer, editors, <em>Proceedings of the 9th
   International Modelica Conference</em>. Linköping University Electronic Press,
   September 2012.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:christoph:modelica:2012">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp12076485">DOI</a>&nbsp;|
-<a href="https://www.ep.liu.se/ecp/076/049/ecp12076049.pdf">pdf</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:christoph:modelica:2012">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp12076485">DOI</a>&nbsp;| 
+<a href="http://www.ep.liu.se/ecp/076/049/ecp12076049.pdf">pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -1061,9 +1061,9 @@ Roland Samlaus, Peter Fritzson, Adam Zuga, Michael Strobel, and Claudio
  In Martin Otter and Dirk Zimmer, editors, <em>Proceedings of the 9th
   International Modelica Conference</em>. Linköping University Electronic Press,
   September 2012.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:ronlad:modelica:2012">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp12076809">DOI</a>&nbsp;|
-<a href="https://www.ep.liu.se/ecp/076/083/ecp12076083.pdf">pdf</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:ronlad:modelica:2012">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp12076809">DOI</a>&nbsp;| 
+<a href="http://www.ep.liu.se/ecp/076/083/ecp12076083.pdf">pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -1080,9 +1080,9 @@ Anand Ganeson, Peter Fritzson, Olena Rogovchenko, Adeel Asghar, Martin
  In Martin Otter and Dirk Zimmer, editors, <em>Proceedings of the 9th
   International Modelica Conference</em>. Linköping University Electronic Press,
   September 2012.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:ganeson:modelica:2012">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp12076537">DOI</a>&nbsp;|
-<a href="https://www.ep.liu.se/ecp/076/054/ecp12076054.pdf">pdf</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:ganeson:modelica:2012">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp12076537">DOI</a>&nbsp;| 
+<a href="http://www.ep.liu.se/ecp/076/054/ecp12076054.pdf">pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -1099,9 +1099,9 @@ Jens Frenkel, Günter Kunze, and Peter Fritzson.
  In Martin Otter and Dirk Zimmer, editors, <em>Proceedings of the 9th
   International Modelica Conference</em>. Linköping University Electronic Press,
   September 2012.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:jens:modelica:2012">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp12076433">DOI</a>&nbsp;|
-<a href="https://www.ep.liu.se/ecp/076/045/ecp12076045.pdf">pdf</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:jens:modelica:2012">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp12076433">DOI</a>&nbsp;| 
+<a href="http://www.ep.liu.se/ecp/076/045/ecp12076045.pdf">pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -1118,9 +1118,9 @@ Feng Liang, Wladimir Schamai, Olena Rogovchenko, Sara Sadeghi, Mattias Nyberg,
  In Martin Otter and Dirk Zimmer, editors, <em>Proceedings of the 9th
   International Modelica Conference</em>. Linköping University Electronic Press,
   September 2012.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:feng:modelica:2012">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp12076385">DOI</a>&nbsp;|
-<a href="https://www.ep.liu.se/ecp/076/040/ecp12076040.pdf">pdf</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:feng:modelica:2012">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp12076385">DOI</a>&nbsp;| 
+<a href="http://www.ep.liu.se/ecp/076/040/ecp12076040.pdf">pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -1136,9 +1136,9 @@ Willi Braun, Stephanie&nbsp;Gallardo Yances, Kilian Link, and Bernhard Bachmann.
  In Martin Otter and Dirk Zimmer, editors, <em>Proceedings of the 9th
   International Modelica Conference</em>. Linköping University Electronic Press,
   September 2012.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:willi:modelica:2012">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp12076247">DOI</a>&nbsp;|
-<a href="https://www.ep.liu.se/ecp/076/024/ecp12076024.pdf">pdf</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:willi:modelica:2012">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp12076247">DOI</a>&nbsp;| 
+<a href="http://www.ep.liu.se/ecp/076/024/ecp12076024.pdf">pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -1155,9 +1155,9 @@ Johan Åkesson, Willi Braun, Petter Lindholm, and Bernhard Bachmann.
  In Martin Otter and Dirk Zimmer, editors, <em>Proceedings of the 9th
   International Modelica Conference</em>. Linköping University Electronic Press,
   September 2012.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:akesson:modelica:2012">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp12076185">DOI</a>&nbsp;|
-<a href="https://www.ep.liu.se/ecp/076/018/ecp12076018.pdf">pdf</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:akesson:modelica:2012">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp12076185">DOI</a>&nbsp;| 
+<a href="http://www.ep.liu.se/ecp/076/018/ecp12076018.pdf">pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -1173,9 +1173,9 @@ Sabrina Proß and Bernhard Bachmann.
  In Martin Otter and Dirk Zimmer, editors, <em>Proceedings of the 9th
   International Modelica Conference</em>. Linköping University Electronic Press,
   September 2012.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:sabrina:modelica:2012">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp1207647">DOI</a>&nbsp;|
-<a href="https://www.ep.liu.se/ecp/076/004/ecp12076004.pdf">pdf</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:sabrina:modelica:2012">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp1207647">DOI</a>&nbsp;| 
+<a href="http://www.ep.liu.se/ecp/076/004/ecp12076004.pdf">pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -1193,9 +1193,9 @@ Bernhard Bachmann, Lennart Ochel, Vitalij Ruge, Mahder Gebremedhin, Peter
  In Martin Otter and Dirk Zimmer, editors, <em>Proceedings of the 9th
   International Modelica Conference</em>. Linköping University Electronic Press,
   September 2012.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:bernhard:modelica:2012">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp12076659">DOI</a>&nbsp;|
-<a href="https://www.ep.liu.se/ecp/076/067/ecp12076067.pdf">pdf</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:bernhard:modelica:2012">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp12076659">DOI</a>&nbsp;| 
+<a href="http://www.ep.liu.se/ecp/076/067/ecp12076067.pdf">pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -1212,9 +1212,9 @@ Mahder Gebremedhin, Afshin Moghadam, Peter Fritzson, and Kristian Stavåker.
  In Martin Otter and Dirk Zimmer, editors, <em>Proceedings of the 9th
   International Modelica Conference</em>. Linköping University Electronic Press,
   September 2012.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:mahder:modelica:2012">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp12076393">DOI</a>&nbsp;|
-<a href="https://www.ep.liu.se/ecp/076/041/ecp12076041.pdf">pdf</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:mahder:modelica:2012">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp12076393">DOI</a>&nbsp;| 
+<a href="http://www.ep.liu.se/ecp/076/041/ecp12076041.pdf">pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -1231,9 +1231,9 @@ Adrian Pop, Martin Sjölund, Adeel Asghar, Peter Fritzson, and Francesco
  In Martin Otter and Dirk Zimmer, editors, <em>Proceedings of the 9th
   International Modelica Conference</em>. Linköping University Electronic Press,
   September 2012.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:pop:modelica:2012">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp12076443">DOI</a>&nbsp;|
-<a href="https://www.ep.liu.se/ecp/076/046/ecp12076046.pdf">pdf</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:pop:modelica:2012">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp12076443">DOI</a>&nbsp;| 
+<a href="http://www.ep.liu.se/ecp/076/046/ecp12076046.pdf">pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -1264,8 +1264,8 @@ David Broman, Peter Fritzson, Görel Hedin, and Johan Åkesson.
   complex domain-specific language.
  In <em>Proceedings of the 27th Annual ACM Symposium on Applied
   Computing - SAC '12</em>, March 2012.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:broman:SAC:2012">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.1145/2245276.2232092">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:broman:SAC:2012">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1145/2245276.2232092">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -1281,8 +1281,8 @@ Wladimir Schamai, Peter Fritzson, Christiaan Paredis, and Philipp Helle.
  In <em>Proceedings of the 2012 Symposium on Theory of Modeling and
   Simulation - DEVS Integrative M&amp;S Symposium</em>, pages 31:1--31:8. Society for
   Computer Simulation International, March 2012.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:wladimir:TMS/DEVS:2012">bib</a>&nbsp;|
-<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-110308">https</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:wladimir:TMS/DEVS:2012">bib</a>&nbsp;| 
+<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-110308">http</a>&nbsp;]
 
 </td>
 </tr>
@@ -1297,8 +1297,8 @@ Muhammed&nbsp;Zoheb Hossain, Mattias Nyberg, Olena Rogovchenko, and Peter Fritzs
  Computerized model based functional safety analysis.
  In <em>Proceedings of MATHMOD 2012 - 7th Vienna International
   Conference on Mathematical Modelling</em>, February 2012.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:muhammed:MATHMOD:2012">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3182/20120215-3-AT-3016.00011">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:muhammed:MATHMOD:2012">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3182/20120215-3-AT-3016.00011">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -1313,8 +1313,8 @@ Adeel Asghar, Adrian Pop, Martin Sjölund, and Peter Fritzson.
  Efficient debugging of large algorithmic Modelica applications.
  In <em>Proceedings of MATHMOD 2012 - 7th Vienna International
   Conference on Mathematical Modelling</em>, February 2012.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:asghar:MATHMOD:2012">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3182/20120215-3-AT-3016.00192">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:asghar:MATHMOD:2012">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3182/20120215-3-AT-3016.00192">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -1332,8 +1332,8 @@ Afshin Moghadam, Mahder Gebremedhin, Kristian Stavåker, and Peter Fritzson.
   architectures with explicit parallel algorithmic language extensions.
  In <em>Proceedings of MCC-2011 - 4th Swedish Workshop on Multi-Core
   Computing</em>, November 2011.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:afshin:MCC:2011">bib</a>&nbsp;|
-<a href="https://www.ida.liu.se/conferences/mcc2011/slides/MCC2011-MahderGebremedhin.pdf">pdf</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:afshin:MCC:2011">bib</a>&nbsp;| 
+<a href="http://www.ida.liu.se/conferences/mcc2011/slides/MCC2011-MahderGebremedhin.pdf">pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -1350,8 +1350,8 @@ Martin Sjölund and Peter Fritzson.
   Lee, editors, <em>Proceedings of the 4th International Workshop on
   Equation-Based Object-Oriented Modeling Languages and Tools</em>.
   Linköping University Electronic Press, September 2011.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:sjoelund:eoolt:2011">bib</a>&nbsp;|
-<a href="https://www.ep.liu.se/ecp/056/008/ecp1105608.pdf">pdf</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:sjoelund:eoolt:2011">bib</a>&nbsp;| 
+<a href="http://www.ep.liu.se/ecp/056/008/ecp1105608.pdf">pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -1368,8 +1368,8 @@ Toby Myers, Wladimir Schamai, and Peter Fritzson.
   Lee, editors, <em>Proceedings of the 4th International Workshop on
   Equation-Based Object-Oriented Modeling Languages and Tools</em>.
   Linköping University Electronic Press, September 2011.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:toby:eoolt:2011">bib</a>&nbsp;|
-<a href="https://www.ep.liu.se/ecp/056/011/ecp1105611.pdf">pdf</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:toby:eoolt:2011">bib</a>&nbsp;| 
+<a href="http://www.ep.liu.se/ecp/056/011/ecp1105611.pdf">pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -1386,8 +1386,8 @@ Wuzhu Chen, Michaela Huhn, and Peter Fritzson.
   Lee, editors, <em>Proceedings of the 4th International Workshop on
   Equation-Based Object-Oriented Modeling Languages and Tools</em>.
   Linköping University Electronic Press, September 2011.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:wuzhu:eoolt:2011">bib</a>&nbsp;|
-<a href="https://www.ep.liu.se/ecp/056/003/ecp1105603.pdf">pdf</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:wuzhu:eoolt:2011">bib</a>&nbsp;| 
+<a href="http://www.ep.liu.se/ecp/056/003/ecp1105603.pdf">pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -1405,7 +1405,7 @@ Mohsen Torabzadeh-Tari, Jhansi Remala, Martin Sjölund, Adrian Pop, and Peter
  In Peter Bunus, Dag Fritzson, and Claus Führer, editors, <em>
   Proceedings of the 52th Scandinavian Conference on Simulation and Modeling
   (SIMS)</em>, September 2011.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:mohsen:sims:2011">bib</a>&nbsp;|
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:mohsen:sims:2011">bib</a>&nbsp;| 
 <a href="https://www.scansims.org/media-files/sims2011/SIMS2011.pdf">pdf</a>&nbsp;]
 
 </td>
@@ -1423,7 +1423,7 @@ Jens Frenkel, Günter Kunze, Peter Fritzson, Martin Sjölund, Adrian Pop, and
  In Christoph Clauß, editor, <em>Proceedings of the 8th
   International Modelica Conference</em>. Linköping University Electronic Press,
   March 2011.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:jens:modelica:2011">bib</a>&nbsp;|
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:jens:modelica:2011">bib</a>&nbsp;| 
 <a href="https://2011.international.conference.modelica.org/proceedings/pages/papers/10_3_ID_110_a_fv.pdf">pdf</a>&nbsp;]
 
 </td>
@@ -1441,7 +1441,7 @@ Oscar Duarte.
  In Christoph Clauß, editor, <em>Proceedings of the 8th
   International Modelica Conference</em>. Linköping University Electronic Press,
   March 2011.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:oscar:modelica:2011">bib</a>&nbsp;|
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:oscar:modelica:2011">bib</a>&nbsp;| 
 <a href="https://2011.international.conference.modelica.org/proceedings/pages/papers/30_poster_ID__a_fv.pdf">pdf</a>&nbsp;]
 
 </td>
@@ -1459,7 +1459,7 @@ Willi Braun, Lennart Ochel, and Bernhard Bachmann.
  In Christoph Clauß, editor, <em>Proceedings of the 8th
   International Modelica Conference</em>. Linköping University Electronic Press,
   March 2011.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:willi:modelica:2011">bib</a>&nbsp;|
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:willi:modelica:2011">bib</a>&nbsp;| 
 <a href="https://2011.international.conference.modelica.org/proceedings/pages/papers/19_4_ID_159_a_fv.pdf">pdf</a>&nbsp;]
 
 </td>
@@ -1478,8 +1478,8 @@ Syed&nbsp;Adeel Asghar, Sonia Tariq, Mohsen Torabzadeh-Tari, Peter Fritzson, Adr
  In Christoph Clauß, editor, <em>Proceedings of the 8th
   International Modelica Conference</em>. Linköping University Electronic Press,
   March 2011.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:asghar:modelica:2011">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp11063739">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:asghar:modelica:2011">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp11063739">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -1496,8 +1496,8 @@ Michaela Huhn, Martin Sjölund, Wuzhu Chen, Christian Schulze, and Peter
  In Christoph Clauß, editor, <em>Proceedings of the 8th
   International Modelica Conference</em>. Linköping University Electronic Press,
   March 2011.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:huhn:modelica:2011">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp11063537">DOI</a>&nbsp;|
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:huhn:modelica:2011">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp11063537">DOI</a>&nbsp;| 
 <a href="https://2011.international.conference.modelica.org/proceedings/pages/papers/44_1_ID_163_a_fv.pdf">pdf</a>&nbsp;]
 
 </td>
@@ -1515,8 +1515,8 @@ Jens Frenkel, Christian Schubert, Günter Kunze, Peter Fritzson, Martin
  In Christoph Clauß, editor, <em>Proceedings of the 8th
   International Modelica Conference</em>. Linköping University Electronic Press,
   March 2011.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:frenkel:modelica:2011:benchmark">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp11063232">DOI</a>&nbsp;|
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:frenkel:modelica:2011:benchmark">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp11063232">DOI</a>&nbsp;| 
 <a href="https://2011.international.conference.modelica.org/proceedings/pages/papers/07_1_ID_183_a_fv.pdf">pdf</a>&nbsp;]
 
 </td>
@@ -1533,9 +1533,9 @@ Martin Sjölund, Peter Fritzson, and Adrian Pop.
  In Christoph Clauß, editor, <em>Proceedings of the 8th
   International Modelica Conference</em>. Linköping University Electronic Press,
   March 2011.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:sjoelund:modelica:2011">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp11063510">DOI</a>&nbsp;|
-<a href="https://www.ep.liu.se/ecp/063/058/ecp11063058.pdf">pdf</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:sjoelund:modelica:2011">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp11063510">DOI</a>&nbsp;| 
+<a href="http://www.ep.liu.se/ecp/063/058/ecp11063058.pdf">pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -1552,9 +1552,9 @@ Mohsen Torabzadeh-Tari, Martin Sjölund, Adrian Pop, and Peter Fritzson.
  In Christoph Clauß, editor, <em>Proceedings of the 8th
   International Modelica Conference</em>. Linköping University Electronic Press,
   March 2011.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:torabzadeh-tari:modelica:2011:drcontrol">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp11063801">DOI</a>&nbsp;|
-<a href="https://www.ep.liu.se/ecp/063/091/ecp11063091.pdf">pdf</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:torabzadeh-tari:modelica:2011:drcontrol">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp11063801">DOI</a>&nbsp;| 
+<a href="http://www.ep.liu.se/ecp/063/091/ecp11063091.pdf">pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -1572,9 +1572,9 @@ Hubert Thieriot, Maroun Nemera, Mohsen Torabzadeh-Tari, Peter Fritzson, Rajiv
  In Christoph Clauß, editor, <em>Proceedings of the 8th
   International Modelica Conference</em>. Linköping University Electronic Press,
   March 2011.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:thieriot:modelica:2011">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp11063756">DOI</a>&nbsp;|
-<a href="https://www.ep.liu.se/ecp/063/084/ecp11063084.pdf">pdf</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:thieriot:modelica:2011">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp11063756">DOI</a>&nbsp;| 
+<a href="http://www.ep.liu.se/ecp/063/084/ecp11063084.pdf">pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -1592,9 +1592,9 @@ Mohsen-Torabzadeh Tari, Muhammed&nbsp;Hossain Zoheb, Peter Fritzson, and Richter
  In Christoph Clauß, editor, <em>Proceedings of the 8th
   International Modelica Conference</em>. Linköping University Electronic Press,
   March 2011.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:torabzadeh-tari:modelica:2011:omweb">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp11063153">DOI</a>&nbsp;|
-<a href="https://www.ep.liu.se/ecp/063/018/ecp11063018.pdf">pdf</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:torabzadeh-tari:modelica:2011:omweb">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp11063153">DOI</a>&nbsp;| 
+<a href="http://www.ep.liu.se/ecp/063/018/ecp11063018.pdf">pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -1611,9 +1611,9 @@ Bouskela Daniel, Jardin Audrey, Benjelloun-Touimi Zakia, Aronsson Peter, and
  In Christoph Clauß, editor, <em>Proceedings of the 8th
   International Modelica Conference</em>. Linköping University Electronic Press,
   March 2011.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:bouskela:modelica:2011">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp11063673">DOI</a>&nbsp;|
-<a href="https://www.ep.liu.se/ecp/063/075/ecp11063075.pdf">pdf</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:bouskela:modelica:2011">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp11063673">DOI</a>&nbsp;| 
+<a href="http://www.ep.liu.se/ecp/063/075/ecp11063075.pdf">pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -1631,8 +1631,8 @@ Kristian Stavåker and Peter Fritzson.
   execution on cuda-enabled gpus.
  In <em>Proceedings of the 3rd Swedish Workshop on Multi-Core
   Computing</em>, November 2010.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:stavaker:MCC:2010">bib</a>&nbsp;|
-<a href="https://www.chalmers.se/cse/mcc10-en/program1026">https</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:stavaker:MCC:2010">bib</a>&nbsp;| 
+<a href="http://www.chalmers.se/cse/mcc10-en/program1026">http</a>&nbsp;]
 
 </td>
 </tr>
@@ -1651,8 +1651,8 @@ Kristian Stavåker, Daniel Rolls, Jing Guo, Peter Fritzson, and Sven-Bodo
   Broman, editors, <em>Proceedings of the 3rd International Workshop on
   Equation-Based Object-Oriented Modeling Languages and Tools</em>.
   Linköping University Electronic Press, October 2010.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:stavaker:EOOLT:2010">bib</a>&nbsp;|
-<a href="https://www.sac-home.org/publications/RollSchoJoslStav.pdf">pdf</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:stavaker:EOOLT:2010">bib</a>&nbsp;| 
+<a href="http://www.sac-home.org/publications/RollSchoJoslStav.pdf">pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -1670,8 +1670,8 @@ Martin Sjölund, Robert Braun, Peter Fritzson, and Petter Krus.
   Broman, editors, <em>Proceedings of the 3rd International Workshop on
   Equation-Based Object-Oriented Modeling Languages and Tools</em>, pages
   71--80. Linköping University Electronic Press, October 2010.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:sjoelund:EOOLT:2010">bib</a>&nbsp;|
-<a href="https://www.ep.liu.se/ecp/047/008/ecp4710008.pdf">pdf</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:sjoelund:EOOLT:2010">bib</a>&nbsp;| 
+<a href="http://www.ep.liu.se/ecp/047/008/ecp4710008.pdf">pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -1689,8 +1689,8 @@ Wladimir Schamai, Uwe Pohlmann, Peter Fritzson, Christiaan&nbsp;J.J. Paredis,
   Broman, editors, <em>Proceedings of the 3rd International Workshop on
   Equation-Based Object-Oriented Modeling Languages and Tools</em>.
   Linköping University Electronic Press, October 2010.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:wladimir:EOOLT:2010">bib</a>&nbsp;|
-<a href="https://www.ep.liu.se/ecp/047/001/ecp4710001.pdf">pdf</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:wladimir:EOOLT:2010">bib</a>&nbsp;| 
+<a href="http://www.ep.liu.se/ecp/047/001/ecp4710001.pdf">pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -1706,8 +1706,8 @@ Christjaan Paredis, Yves Bernard, Roger Burkhart, Hans-Peter de&nbsp;Koning, San
  An overview of the sysml-modelica transformation specification.
  In <em>Proceedings of International Workshop and Model-Based Systems
   Engineering (MBSE) Workshop</em>, July 2010.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Christjaan:INCOSE:2010">bib</a>&nbsp;|
-<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-110236">pdf</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Christjaan:INCOSE:2010">bib</a>&nbsp;| 
+<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-110236">pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -1739,8 +1739,8 @@ Mohsen Torabzadeh-Tari, Peter Fritzson, Adrian Pop, and Martin Sjölund.
   programming languages.
  In <em>Proceedings the 1st Annual Engineering Education Conference</em>,
   April 2010.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:mohsen:EDUCON:2010">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.1109/EDUCON.2010.5492457">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:mohsen:EDUCON:2010">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1109/EDUCON.2010.5492457">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -1755,8 +1755,8 @@ Christoph Kessler, Wladimir Schamai, and Peter Fritzson.
  Platform-independent modeling of explicitly parallel programs.
  In <em>Proceedings of the 23rd International Conference on
   Architecture of Computing Systems (ARCS)</em>, pages 83--94, February 2010.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:kessler:ARCS:2010">bib</a>&nbsp;|
-<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=5758990&amp;tag=1">https</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:kessler:ARCS:2010">bib</a>&nbsp;| 
+<a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=5758990&amp;tag=1">http</a>&nbsp;]
 
 </td>
 </tr>
@@ -1774,8 +1774,8 @@ Peter Fritzson.
  In <em>Proceedings of the 2nd International Conference on
   Simulation, Modeling, and Programming for Automotive Robotics</em>. Springer
   Berlin Heidelberg, 2010.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:fritzson:SIMPAR:2010">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.1007/978-3-642-17319-6_4">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:fritzson:SIMPAR:2010">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1007/978-3-642-17319-6_4">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -1790,8 +1790,8 @@ Per Östlund, Kristian Stavåker, and Peter Fritzson.
  Parallel simulation of equation-based models on cuda-enabled gpus.
  In <em>Proceedings of the 9th Workshop on Parallel/High-Performance
   Object-Oriented Scientific Computing</em>, New York, NY, USA, 2010. ACM.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:ostlund:POOSC:2010">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.1145/2039312.2039317">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:ostlund:POOSC:2010">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1145/2039312.2039317">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -1807,9 +1807,9 @@ Wladimir Schamai, Philipp Helle, Peter Fritzson, and Christiaan Paredis.
  In <em>Proceedings of the 2010 international conference on Models in
   software engineering</em>, pages 75--89, Berlin, Heidelberg, 2010.
   Springer-Verlag.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:wladimir:ACES:2010">bib</a>&nbsp;|
-<a href="https://ceur-ws.org/Vol-644/paper05.pdf">pdf</a>&nbsp;|
-<a href="https://dl.acm.org/citation.cfm?id=2008503.2008514">https</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:wladimir:ACES:2010">bib</a>&nbsp;| 
+<a href="http://ceur-ws.org/Vol-644/paper05.pdf">pdf</a>&nbsp;| 
+<a href="http://dl.acm.org/citation.cfm?id=2008503.2008514">http</a>&nbsp;]
 
 </td>
 </tr>
@@ -1828,8 +1828,8 @@ Martin Sjölund and Peter Fritzson.
  In Francesco Casella, editor, <em>Proceedings of the 7th
   International Modelica Conference</em>. Linköping University Electronic Press,
   September 2009.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:sjoelund:modelica:2009">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp09430121">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:sjoelund:modelica:2009">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp09430121">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -1846,8 +1846,8 @@ Francesco Casella, Filippo Donida, and Johan Åkesson.
  In Francesco Casella, editor, <em>Proceedings of the 7th
   International Modelica Conference</em>. Linköping University Electronic Press,
   September 2009.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:casella:modelica:2009">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp09430073">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:casella:modelica:2009">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp09430073">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -1864,8 +1864,8 @@ Wladimir Schamai, Peter Fritzson, Chris Paredis, and Adrian Pop.
  In Francesco Casella, editor, <em>Proceedings of the 7th
   International Modelica Conference</em>. Linköping University Electronic Press,
   September 2009.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:wladimir:modelica:2009">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp09430081">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:wladimir:modelica:2009">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp09430081">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -1882,8 +1882,8 @@ Peter Aronsson and David Broman.
  In Francesco Casella, editor, <em>Proceedings of the 7th
   International Modelica Conference</em>. Linköping University Electronic Press,
   September 2009.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:aronsson:modelica:2009">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp09430027">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:aronsson:modelica:2009">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp09430027">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -1899,8 +1899,8 @@ Peter Fritzson, Pavol Privitzer, Martin Sjölund, and Adrian Pop.
  In Francesco Casella, editor, <em>Proceedings of the 7th
   International Modelica Conference</em>, pages 193--207. Linköping University
   Electronic Press, September 2009.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:fritzson:modelica:2009:template">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.3384/ecp09430124">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:fritzson:modelica:2009:template">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/ecp09430124">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -1917,8 +1917,8 @@ Mohsen Torabzadeh-Tari, Peter Fritzson, Martin Sjölund, and Adrian Pop.
  In Francesco Casella, editor, <em>Proceedings of the 7th
   International Modelica Conference</em>. Linköping University Electronic Press,
   September 2009.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:mohsen:sims:2009">bib</a>&nbsp;|
-<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-50804">https</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:mohsen:sims:2009">bib</a>&nbsp;| 
+<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-50804">http</a>&nbsp;]
 
 </td>
 </tr>
@@ -1951,8 +1951,8 @@ Peter Fritzson, Adrian Pop, David Broman, and Peter Aronsson.
  In Colin Fidge, editor, <em>Proceedings of the 2009 Australian
   Software Engineering Conference</em>, pages 256--266, Washington, DC, USA, 2009.
   IEEE Computer Society.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:fritzson:aswec:2009">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.1109/ASWEC.2009.46">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:fritzson:aswec:2009">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1109/ASWEC.2009.46">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -1968,8 +1968,8 @@ Håkan Lundvall and Peter Fritzson.
   simulation languages.
  In <em>Proceedings of CPC 2009 - 14th Workshop on Compilers for
   Parallel Computing</em>, January 2009.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:lundvall:CPC:2009">bib</a>&nbsp;|
-<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-12504">https</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:lundvall:CPC:2009">bib</a>&nbsp;| 
+<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-12504">http</a>&nbsp;]
 
 </td>
 </tr>
@@ -1987,8 +1987,8 @@ Håkan Lundvall, Kristian Stavåker, Peter Fritzson, and Christoph Kessler.
   models with software pipelining and measurements on three platforms.
  In <em>Proceedings of MCC-2008 - 1st Swedish Workshop on Multi-Core
   Computing</em>. ACM, November 2008.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:lundvall:MCC:2008">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.1145/1556444.1556451">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:lundvall:MCC:2008">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1145/1556444.1556451">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -2004,8 +2004,8 @@ Ericsson Magnusson, Peter Fritzson, and Adian Pop.
   simulations in openmodelica.
  In <em>In Proceedings of the 49th Scandinavian Conference on
   Simulation and Modeling</em>, October 2008.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:magnusson:sims:2008">bib</a>&nbsp;|
-<a href="https://www.scansims.org/media-files/sims2008/23.pdf">pdf</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:magnusson:sims:2008">bib</a>&nbsp;| 
+<a href="http://www.scansims.org/media-files/sims2008/23.pdf">pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -2020,8 +2020,8 @@ David Broman and Peter Fritzson.
  Higher-order acausal models.
  In <em>In Proceedings of the 2nd International Workshop on
   Equation-Based Object-Oriented Languages and Tools</em>, July 2008.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:broman:eoolt:2008">bib</a>&nbsp;|
-<a href="https://www.ep.liu.se/ecp/029/007/ecp08029007.pdf">pdf</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:broman:eoolt:2008">bib</a>&nbsp;| 
+<a href="http://www.ep.liu.se/ecp/029/007/ecp08029007.pdf">pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -2036,8 +2036,8 @@ Jörn&nbsp;Guy Süß, Peter Fritzson, and Adrian Pop.
  The impreciseness of uml and implications for modelicaml.
  In <em>In Proceedings of the 2nd International Workshop on
   Equation-Based Object-Oriented Languages and Tools</em>, July 2008.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:guy:eoolt:2008">bib</a>&nbsp;|
-<a href="https://www.ep.liu.se/ecp/029/003/ecp08029003.pdf">pdf</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:guy:eoolt:2008">bib</a>&nbsp;| 
+<a href="http://www.ep.liu.se/ecp/029/003/ecp08029003.pdf">pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -2085,7 +2085,7 @@ Francesco Casella, Filippo Donida, Bernhard Bachmann, and Peter Aronsson.
   object-oriented fluid system models.
  In Bernhard Bachmann, editor, <em>Proceedings of the 6th
   International Modelica Conference</em>. Modelica Association, March 2008.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:casella:modelica:2008">bib</a>&nbsp;|
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:casella:modelica:2008">bib</a>&nbsp;| 
 <a href="https://www.modelica.org/events/modelica2008/Proceedings/sessions/session3b4.pdf">pdf</a>&nbsp;]
 
 </td>
@@ -2102,8 +2102,8 @@ Jörn&nbsp;Guy Süss, Peter Fritzson, Adrian Pop, and Luke Wildman.
   eclipse modeling framework and modelica.
  In <em>Proceedings of the 19th Australian Conference on Software
   Engineering</em>, pages 149 --159, March 2008.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:guy:aswec:2008">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.1109/ASWEC.2008.4483203">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:guy:aswec:2008">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1109/ASWEC.2008.4483203">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -2121,8 +2121,8 @@ Håkan Lundvall and Peter Fritzson.
   inlined runge-kutta solvers.
  In <em>Proceedings of the 48th Scandinavian Conference on Simulation
   and Modeling (SIMS)</em>, October 2007.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:lundvall:sims:2007">bib</a>&nbsp;|
-<a href="https://www.ep.liu.se/ecp/027/001/ecp072701.pdf">pdf</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:lundvall:sims:2007">bib</a>&nbsp;| 
+<a href="http://www.ep.liu.se/ecp/027/001/ecp072701.pdf">pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -2138,8 +2138,8 @@ Kristoffer Norling, David Broman, Peter Fritzson, Alexander Siemers, and Dag
  Secure distributed co-simulation over wide area networks.
  In <em>Proceedings of the 48th Scandinavian Conference on Simulation
   and Modeling (SIMS)</em>, October 2007.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:norling:sims:2007">bib</a>&nbsp;|
-<a href="https://ep.liu.se/en/conference-article.aspx?series=ecp&amp;issue=27&amp;Article_No=3">https</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:norling:sims:2007">bib</a>&nbsp;| 
+<a href="https://ep.liu.se/en/conference-article.aspx?series=ecp&amp;issue=27&amp;Article_No=3">http</a>&nbsp;]
 
 </td>
 </tr>
@@ -2155,8 +2155,8 @@ Adrian Pop, David Akhvlediani, and Peter Fritzson.
   languages.
  In <em>Proceedings of the 48th Scandinavian Conference on Simulation
   and Modeling (SIMS)</em>, October 2007.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:pop:sims:2007">bib</a>&nbsp;|
-<a href="https://www.ep.liu.se/ecp/027/016/ecp072716.pdf">pdf</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:pop:sims:2007">bib</a>&nbsp;| 
+<a href="http://www.ep.liu.se/ecp/027/016/ecp072716.pdf">pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -2172,8 +2172,8 @@ Håkan Lundvall and Peter Fritzson.
   inline solvers.
  In <em>In Proceedings of the 14th European PVM/MPI User’s Group
   Meeting</em>, pages 365--372. Springer Berlin Heidelberg, September 2007.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:lundvall:europvm:2007">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.1007/978-3-540-75416-9_49">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:lundvall:europvm:2007">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1007/978-3-540-75416-9_49">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -2190,8 +2190,8 @@ Bernhard Bachmann, Peter Aronsson, and Peter Fritzson.
   editors, <em>Proceedings of the 1st International Workshop on
   Equation-Based Object-Oriented Modeling Languages and Tools</em>.
   Linköping University Electronic Press, July 2007.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:bachmann:eoolt:2007">bib</a>&nbsp;|
-<a href="https://www.ep.liu.se/ecp/024/014/ecp2407014.pdf">pdf</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:bachmann:eoolt:2007">bib</a>&nbsp;| 
+<a href="http://www.ep.liu.se/ecp/024/014/ecp2407014.pdf">pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -2208,8 +2208,8 @@ David Broman and Peter Fritzson.
   editors, <em>Proceedings of the 1st International Workshop on
   Equation-Based Object-Oriented Modeling Languages and Tools</em>.
   Linköping University Electronic Press, July 2007.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:broman:eoolt:2007">bib</a>&nbsp;|
-<a href="https://www.ep.liu.se/ecp/024/010/ecp2407010.pdf">pdf</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:broman:eoolt:2007">bib</a>&nbsp;| 
+<a href="http://www.ep.liu.se/ecp/024/010/ecp2407010.pdf">pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -2226,8 +2226,8 @@ Adrian Pop, David Akhvlediani, and Peter Fritzson.
   editors, <em>Proceedings of the 1st International Workshop on
   Equation-Based Object-Oriented Modeling Languages and Tools</em>.
   Linköping University Electronic Press, July 2007.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:pop:eoolt:2007">bib</a>&nbsp;|
-<a href="https://www.ep.liu.se/ecp/024/002/ecp2407002.pdf">pdf</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:pop:eoolt:2007">bib</a>&nbsp;| 
+<a href="http://www.ep.liu.se/ecp/024/002/ecp2407002.pdf">pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -2243,8 +2243,8 @@ Peter Fritzson, Erik Ulfhielm, Ales Belic, Martin Fransson, and Henrik Gréen.
   library.
  In <em>In Proceedings of the 6th International conference
   Aplimat'2007</em>, February 2007.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:fritzson:aplimat:2007">bib</a>&nbsp;|
-<a href="https://archiv.aplimat.com/2007/Proceedings/Part_III/06_Modeling/114_Fritzson,Ulfhelm,Belic,Fransson,Green.pdf">pdf</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:fritzson:aplimat:2007">bib</a>&nbsp;| 
+<a href="http://archiv.aplimat.com/2007/Proceedings/Part_III/06_Modeling/114_Fritzson,Ulfhelm,Belic,Fransson,Green.pdf">pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -2259,8 +2259,8 @@ Håkan Lundvall and Peter Fritzson.
  Automatic parallelization of object oriented models across method and
   system.
  In <em>In Proceedings of the 6th Eurosim Congress</em>, 2007.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:lundvall:eurosim:2007">bib</a>&nbsp;|
-<a href="https://www.ida.liu.se/~petfr/paperlinks/2007-09-Lundvall-Fritzson-eurosim-parallelModelica.pdf">pdf</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:lundvall:eurosim:2007">bib</a>&nbsp;| 
+<a href="http://www.ida.liu.se/~petfr/paperlinks/2007-09-Lundvall-Fritzson-eurosim-parallelModelica.pdf">pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -2296,8 +2296,8 @@ Peter Fritzson, Peter Aronsson, Håkan Lundvall, Kaj Nyström, Adrian Pop,
  In <em>Computer Aided Control System Design, 2006 IEEE International
   Conference on Control Applications, 2006 IEEE International Symposium on
   Intelligent Control, 2006 IEEE</em>, pages 1588--1595, October 2006.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:fritzson:cacsd:2006">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.1109/CACSD-CCA-ISIC.2006.4776878">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:fritzson:cacsd:2006">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1109/CACSD-CCA-ISIC.2006.4776878">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -2328,8 +2328,8 @@ David Broman, Kaj Nyström, and Peter Fritzson.
   structural constraint delta.
  In <em>In Proceedings of the 4th Int. Conf. on Generative
   Programming and Component Engineering (GPCE2006)</em>, October 2006.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:broman:gpce:2006">bib</a>&nbsp;|
-<a href="https://www.bromans.com/david/publ/gpce2006-constraint-delta-final-corrected.pdf">pdf</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:broman:gpce:2006">bib</a>&nbsp;| 
+<a href="http://www.bromans.com/david/publ/gpce2006-constraint-delta-final-corrected.pdf">pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -2362,7 +2362,7 @@ Anders Sandholm, Peter Fritzson, Gunilla Nilsson, and Göran Petersson.
   modelica.
  In <em>Proceedings of the 47th Scandinavian Conference on Simulation
   and Modeling(SIMS)</em>, September 2006.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:sandholm:sims:2006">bib</a>&nbsp;|
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:sandholm:sims:2006">bib</a>&nbsp;| 
 <a href="https://www.modelica.org/publications/papers/2006-09-30-Sandholm-Fritzson-etal-SIMS06-training-sim.pdf">pdf</a>&nbsp;]
 
 </td>
@@ -2379,7 +2379,7 @@ Martin Fransson, Peter Fritzson, Malin Lindqvist, and Curt Peterson.
   dosage - azathioprine on inflammatory bowel disease.
  In <em>Proceedings of the 47th Scandinavian Conference on Simulation
   and Modeling(SIMS)</em>, September 2006.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:fransson:sims:2006">bib</a>&nbsp;|
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:fransson:sims:2006">bib</a>&nbsp;| 
 <a href="https://www.modelica.org/publications/papers/2006-09-Fransson-Fritzson-Lindqvist-Peterson-SIMS06-drugdosage.pdf">pdf</a>&nbsp;]
 
 </td>
@@ -2396,7 +2396,7 @@ Elmir Jagudin, Andreas Remar, Adrian Pop, and Peter Fritzson.
   browsing, and simulation.
  In <em>Proceedings of the 47th Scandinavian Conference on Simulation
   and Modeling(SIMS)</em>, September 2006.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:jagudin:sims:2006">bib</a>&nbsp;|
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:jagudin:sims:2006">bib</a>&nbsp;| 
 <a href="https://www.modelica.org/publications/papers/2006-09-Jagudin-Remar-Pop-Fritzson-SIMS06-MDTEclipse.pdf">pdf</a>&nbsp;]
 
 </td>
@@ -2414,7 +2414,7 @@ Anders Fernström, Ingemar Axelsson, Peter Fritzson, Anders Sandholm, and
   Programming.
  In <em>In Proc. of the Workshop on Developing Computer Science
   Education – How Can It Be Done?, Linkoping, Sweden</em>, March 2006.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:pop:Anders:DCSE:2006">bib</a>&nbsp;|
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:pop:Anders:DCSE:2006">bib</a>&nbsp;| 
 <a href="https://modelica.org/publications/papers/2006-03-10-Fernstrom-etal-TeachingWorkshop-NotebookTeaching.pdf">.pdf</a>&nbsp;]
 
 </td>
@@ -2432,8 +2432,8 @@ Adrian Pop and Peter Fritzson.
  In <em>7th Joint Modular Languages Conference, JMLC 2006 Oxford, UK,
   September 13-15, 2006 Proceedings</em>, pages 211--229. Springer Berlin
   Heidelberg, 2006.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:pop:jmlc:2006">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.1007/11860990_14">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:pop:jmlc:2006">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1007/11860990_14">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -2450,8 +2450,8 @@ Håkan Lundvall and Peter Fritzson.
  Event handling in the openmodelica compiler and run-time system.
  In <em>Proceedings of the 46th Scandinavian Conference on Simulation
   and Modeling (SIMS)</em>, October 2005.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:lundvall:sims:2005">bib</a>&nbsp;|
-<a href="https://www.scansims.org/media-files/sims2005/SIMS2005_57.pdf">pdf</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:lundvall:sims:2005">bib</a>&nbsp;| 
+<a href="http://www.scansims.org/media-files/sims2005/SIMS2005_57.pdf">pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -2467,8 +2467,8 @@ Peter Fritzson, Peter Aronsson, Håkan Lundvall, Kaj Nyström, Adrian Pop,
  The openmodelica modeling, simulation, and development environment.
  In <em>Proceedings of the 46th Scandinavian Conference on Simulation
   and Modeling (SIMS)</em>, October 2005.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:fritzson:sims:2005">bib</a>&nbsp;|
-<a href="https://scansims.org/media-files/sims2005/SIMS2005_58.pdf">pdf</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:fritzson:sims:2005">bib</a>&nbsp;| 
+<a href="http://scansims.org/media-files/sims2005/SIMS2005_58.pdf">pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -2484,8 +2484,8 @@ Stina Edelfeldt and Peter Fritzson.
   nitrogen processes in wetlands.
  In <em>Proceedings of the 46th Scandinavian Conference on Simulation
   and Modeling (SIMS)</em>, October 2005.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:edelfeldt:sims:2005">bib</a>&nbsp;|
-<a href="https://scansims.org/media-files/sims2005/SIMS2005_33.pdf">pdf</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:edelfeldt:sims:2005">bib</a>&nbsp;| 
+<a href="http://scansims.org/media-files/sims2005/SIMS2005_33.pdf">pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -2516,7 +2516,7 @@ Adrian Pop and Peter Fritzson.
  A portable debugger for algorithmic Modelica code.
  In Gerhard Schmitz, editor, <em>Proceedings of the 4th International
   Modelica Conference</em>, March 2005.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:pop:modelica:2005">bib</a>&nbsp;|
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:pop:modelica:2005">bib</a>&nbsp;| 
 <a href="https://modelica.org/events/Conference2005/online_proceedings/Session5/Session5c2.pdf">pdf</a>&nbsp;]
 
 </td>
@@ -2535,7 +2535,7 @@ Vadim Engelson, Peter Fritzson, and Ulf Sellgren.
   formats.
  In <em>Proceedings of 5th EUROSIM Congress on Modeling and
   Simulation</em>, September 2004.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:engelson:eurosim:2004">bib</a>&nbsp;|
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:engelson:eurosim:2004">bib</a>&nbsp;| 
 <a href="https://www.modelica.org/publications/papers/2004-09-Engelson-Fritzson-Sellgren-Eurosim-Configurator.pdf">pdf</a>&nbsp;]
 
 </td>
@@ -2551,7 +2551,7 @@ Andreas Idebrant and Peter Fritzson.
  Aircraft - a modelica library for aircraft dynamics simulation.
  In <em>Proceedings of 5th EUROSIM Congress on Modeling and
   Simulation</em>, September 2004.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:idebrant:eurosim:2004">bib</a>&nbsp;|
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:idebrant:eurosim:2004">bib</a>&nbsp;| 
 <a href="https://www.modelica.org/publications/papers/2004-09-Idebrant-Fritzson-AircraftLib-Eurosim.pdf">pdf</a>&nbsp;]
 
 </td>
@@ -2597,7 +2597,7 @@ Håkan Lundvall, Peter Bunus, and Peter Fritzson.
  Towards automatic generation of model checkable code from modelica.
  In <em>Proceedings of the 45th Scandinavian Conference on Simulation
   and Modeling (SIMS)</em>, September 2004.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:lundvall:sims:2004">bib</a>&nbsp;|
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:lundvall:sims:2004">bib</a>&nbsp;| 
 <a href="https://www.modelica.org/publications/papers/2004-09-Lundvall-sims2004-040812.pdf">pdf</a>&nbsp;]
 
 </td>
@@ -2614,7 +2614,7 @@ Adrian Pop, Olof Johansson, and Peter Fritzson.
   modelica.
  In <em>Proceedings of the 45th Scandinavian Conference on Simulation
   and Modeling (SIMS)</em>, September 2004.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:pop:sims:2004">bib</a>&nbsp;|
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:pop:sims:2004">bib</a>&nbsp;| 
 <a href="https://www.scansims.org/media-files/sims2004/SIMS2004proceedings.pdf">pdf</a>&nbsp;]
 
 </td>
@@ -2630,7 +2630,7 @@ Kaj Nyström, Peter Aronsson, and Peter Fritzson.
  Gridmodelica - a modeling and simulation framework for the grid.
  In <em>Proceedings of the 45th Scandinavian Conference on Simulation
   and Modeling (SIMS)</em>, September 2004.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:nystrom:sims:2004">bib</a>&nbsp;|
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:nystrom:sims:2004">bib</a>&nbsp;| 
 <a href="https://www.modelica.org/publications/papers/2004-09-Kaj-SIMS2004-GRIDMODELICA.pdf">pdf</a>&nbsp;]
 
 </td>
@@ -2647,7 +2647,7 @@ Peter Fritzson, Vadim Engelson, Andreas Idebrant, Peter Aronsson, Håkan
  Modelica - a strongly typed system specification language for safe
   engineering practices.
  In <em>In Proceedings of SIMSafe 2004 conference.</em>, June 2004.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:fritzson:simsafe:2004">bib</a>&nbsp;|
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:fritzson:simsafe:2004">bib</a>&nbsp;| 
 <a href="https://www.modelica.org/publications/papers/2004-05-Fritzson-Engelson-Idebrant-Aronsson-Simsafe-ModelicaSafety.pdf">pdf</a>&nbsp;]
 
 </td>
@@ -2665,7 +2665,7 @@ Eva-Lena Lengquist-Sandelin, Susanna Monemar, Peter Fritzson, and Peter Bunus.
  DrModelica An Interactive Tutoring Environment for Modelica.
  In Peter Fritzson, editor, <em>Proceedings of the 3nd International
   Modelica Conference</em>. Modelica Association, November 2003.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:evalena:modelica:2003">bib</a>&nbsp;|
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:evalena:modelica:2003">bib</a>&nbsp;| 
 <a href="https://modelica.org/events/Conference2003/papers/h27_Lengquist_Sandelin.pdf">.pdf</a>&nbsp;]
 
 </td>
@@ -2681,7 +2681,7 @@ Adrian Pop and Peter Fritzson.
  Modelicaxml:a modelica xml representation with applications.
  In Peter Fritzson, editor, <em>Proceedings of the 3nd International
   Modelica Conference</em>. Modelica Association, November 2003.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:pop:modelica:2003">bib</a>&nbsp;|
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:pop:modelica:2003">bib</a>&nbsp;| 
 <a href="https://modelica.org/events/Conference2003/papers/h39_Pop.pdf">pdf</a>&nbsp;]
 
 </td>
@@ -2697,8 +2697,8 @@ Eva-Lena Lengquist-Sandelin, Susanna Monemar, Peter Fritzson, and Peter Bunus.
  Drmodelica – a web-based teaching environment for modelica.
  In <em>Proceedings of the 44th Scandinavian Conference on Simulation
   and Modeling (SIMS)</em>, September 2003.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:evalena:sims:2003">bib</a>&nbsp;|
-<a href="https://scansims.org/media-files/sims2003/papers/SIMS2003_3.pdf">pdf</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:evalena:sims:2003">bib</a>&nbsp;| 
+<a href="http://scansims.org/media-files/sims2003/papers/SIMS2003_3.pdf">pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -2714,8 +2714,8 @@ Vadim Engelson, Peter Bunus, Lucian Popescu, and Peter Fritzson.
   simulation.
  In <em>Proceedings of the 44th Scandinavian Conference on Simulation
   and Modeling (SIMS)</em>, September 2003.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:engelson:sims:2003">bib</a>&nbsp;|
-<a href="https://scansims.org/media-files/sims2003/papers/SIMS2003_34.pdf">pdf</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:engelson:sims:2003">bib</a>&nbsp;| 
+<a href="http://scansims.org/media-files/sims2003/papers/SIMS2003_34.pdf">pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -2730,8 +2730,8 @@ Håkan Lundvall and Peter Fritzson.
  Modeling concurrent activities and resource sharing in modelica.
  In <em>Proceedings of the 44th Scandinavian Conference on Simulation
   and Modeling (SIMS)</em>, September 2003.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:lundvall:sims:2003">bib</a>&nbsp;|
-<a href="https://scansims.org/media-files/sims2003/papers/SIMS2003_14.pdf">pdf</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:lundvall:sims:2003">bib</a>&nbsp;| 
+<a href="http://scansims.org/media-files/sims2003/papers/SIMS2003_14.pdf">pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -2749,7 +2749,7 @@ Vadim Engelson and Peter Fritzson.
   clusters.
  In <em>Proceedings of the 43th Scandinavian Conference on Simulation
   and Modeling (SIMS)</em>, September 2002.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:endelson:sims:2002">bib</a>&nbsp;|
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:endelson:sims:2002">bib</a>&nbsp;| 
 <a href="https://www.modelica.org/publications/papers/2002-09_engelson_sims-distrsimulationenvironment.pdf">pdf</a>&nbsp;]
 
 </td>
@@ -2765,7 +2765,7 @@ Peter Aronsson, Peter Fritzson, Levon Saldamli, and Peter Bunus.
  Incremental declaration handling in open source modelica.
  In <em>Proceedings of the 43th Scandinavian Conference on Simulation
   and Modeling (SIMS)</em>, September 2002.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:aronsson:sims:2002">bib</a>&nbsp;|
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:aronsson:sims:2002">bib</a>&nbsp;| 
 <a href="https://www.modelica.org/publications/papers/2002-09_aronsson_sims-incrdeclhandlingmodelica.pdf">pdf</a>&nbsp;]
 
 </td>
@@ -2782,8 +2782,8 @@ Peter Bunus and Peter Fritzson.
  In <em>Proceedings of the 4th International Symposium on Practical
   Aspects of Declarative Languages</em>, pages 280--298. Springer-Verlag, January
   2002.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:bunus:PADL:2002">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.1007/3-540-45587-6_18">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:bunus:PADL:2002">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1007/3-540-45587-6_18">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -2833,8 +2833,8 @@ Vadim Engelson, Dag Fritzson, and Peter Fritzson.
  Lossless compression of high-volume numerical data for simulations.
  In <em>In Proceedings of The 2000 IEEE Data Compression Conference</em>,
   March 2000.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:engelson:dcc:2000">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.1109/DCC.2000.838221">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:engelson:dcc:2000">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1109/DCC.2000.838221">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -2851,8 +2851,8 @@ Andreas Wrangsjö, Peter Fritzson, and Sheshadri Krishnamurthy.
  Transforming systems of pdes for efficient numerical solution.
  In <em>In Proceedings of the Third International Mathematica
   Symposium(IMS)</em>, August 1999.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:wrangsjo:ims:1999">bib</a>&nbsp;|
-<a href="https://www.internationalmathematicasymposium.org/IMS99/paper7/Transformations.pdf">pdf</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:wrangsjo:ims:1999">bib</a>&nbsp;| 
+<a href="http://www.internationalmathematicasymposium.org/IMS99/paper7/Transformations.pdf">pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -2868,7 +2868,7 @@ Jirstrand Mats, Johan Gunnarsson, and Peter Fritzson.
   mathematica.
  In <em>In Proceedings of the Third International Mathematica
   Symposium(IMS)</em>, August 1999.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:mats:ims:1999">bib</a>&nbsp;|
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:mats:ims:1999">bib</a>&nbsp;| 
 <a href="https://www.internationalmathematicasymposium.org/IMS99/paper12/MathModelica-IMS99.nb">pdf</a>&nbsp;]
 
 </td>
@@ -2918,8 +2918,8 @@ Peter Fritzson and Vadim Engelson.
   modeling and simulation.
  In <em>In Proceedings of the 12th European Conference on
   Object-Oriented Programming(ECOOP)</em>, July 1998.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:fritzson:ecoop:1998">bib</a>&nbsp;|
-<a href="https://dx.doi.org/10.1007/BFb0054087">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:fritzson:ecoop:1998">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1007/BFb0054087">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -2936,7 +2936,7 @@ Peter Fritzson.
  In <em>In Proceedings of PARA’98 - Workshop on Applied Parallel
   Computing in Large Scale Scientific and Industrial Problems</em>. Springer
   Verlag, June 1998.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:fritzson:para:1998">bib</a>&nbsp;|
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:fritzson:para:1998">bib</a>&nbsp;| 
 <a href="https://www.modelica.org/publications/papers/1998-06-fritzson-para98LNCS1541-equationbasedmodelingandHighPerformance.pdf">pdf</a>&nbsp;]
 
 </td>

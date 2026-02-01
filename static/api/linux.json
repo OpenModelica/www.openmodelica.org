@@ -1,8 +1,8 @@
 {
     "version": {
         "release": "1.26.1",
-        "stable": "1.26.1",
-        "nightly": "1.27.0~dev-68-g41b9c26"
+        "stable": "1.26.1~2-g063ee18",
+        "nightly": "1.27.0~dev-81-g0d5ad53"
     },
     "deb": {
         "amd64": [
@@ -29,7 +29,23 @@
         ]
     },
     "rpm": {
-        
+        "amd64": {
+            "el10": [
+                "openmodelica-nightly"
+            ],
+            "el8": [
+                "openmodelica-nightly"
+            ],
+            "el9": [
+                "openmodelica-nightly"
+            ],
+            "fc42": [
+                "openmodelica-nightly"
+            ],
+            "fc43": [
+                "openmodelica-nightly"
+            ]
+        }
     },
     "eol": {
         "bookworm": "2026-06-10",
