@@ -10,7 +10,7 @@ title: "User Documentation"
 <li><a href="/doc/OpenModelicaUsersGuide">Older versions of the User's Guide</a></li>
 <li>FMI with OpenModelica OMSimulator tool documentation as <a href="/doc/OMSimulator/master/OMSimulator/UsersGuide/pdf/OMSimulator.pdf">pdf</a> and <a href="/doc/OMSimulator/master/OMSimulator/UsersGuide/html/">html</a></li>
 <li>Step-by-step interactive <a href="https://spoken-tutorial.org/tutorial-search/?search_foss=OpenModelica&amp;search_language=English">spokentutorial</a> of using OpenModelica</li>
-<li>Interactive <a href="https://omwebbook.openmodelica.org/">OMWebbook</a> with examples of Modelica textual modelling</li>
+<li>Interactive <a href="http://omwebbook.openmodelica.org/">OMWebbook</a> with examples of Modelica textual modelling</li>
 </ul>
 <p style="padding-left: 30px;">OpenModelica users guide, this document contains a complete guide on OpenModelica usage form the user point of view, OMEdit connection editor, MDT Eclipse Plugin, Dynamic Optimization, OMOptim, OMSens for sensitivity analysis and optimization, OMNotebook, Equation and algorithmic code Modelica debugger, Modelica, Python and Matlab scripting including description of the full API.</p>
 <ul style="padding-left: 30px;">
