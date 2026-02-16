@@ -8,7 +8,7 @@ title: "User Documentation"
 <li>OM overall&nbsp;<a href="/doc/OpenModelicaUsersGuide/OpenModelicaUsersGuide-{{< documentationpath "release" >}}.epub">User's Guide</a> (epub), 6 MB</li>
 <li>OM&nbsp;Japanese Translation <a href="https://www.opencae.or.jp/wp-content/uploads/2021/04/OpenModelicaUsersGuide.pdf">User's Guide</a>&nbsp;(PDF),&nbsp;6 MB</li>
 <li><a href="/doc/OpenModelicaUsersGuide">Older versions of the User's Guide</a></li>
-<li>FMI with OpenModelica OMSimulator tool documentation as <a href="/doc/OMSimulator/master/OMSimulator.pdf">pdf</a> and <a href="/doc/OMSimulator/master/html/">html</a></li>
+<li>FMI with OpenModelica OMSimulator tool documentation as <a href="/doc/OMSimulator/master/OMSimulator/UsersGuide/pdf/OMSimulator.pdf">pdf</a> and <a href="/doc/OMSimulator/master/OMSimulator/UsersGuide/html/">html</a></li>
 <li>Step-by-step interactive <a href="https://spoken-tutorial.org/tutorial-search/?search_foss=OpenModelica&amp;search_language=English">spokentutorial</a> of using OpenModelica</li>
 <li>Interactive <a href="https://omwebbook.openmodelica.org/">OMWebbook</a> with examples of Modelica textual modelling</li>
 </ul>
