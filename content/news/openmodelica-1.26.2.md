@@ -6,7 +6,7 @@ rss_ignore: false
 tags: ["news"]
 ---
 
-OpenModelica v1.26.2 is now released. This is a patch release for 1.26.1, we highly recommend to release it in place of 1.26.0 and 1.26.1.
+OpenModelica v1.26.2 is now released. This is a patch release for 1.26.1, we highly recommend to install it in place of 1.26.0 and 1.26.1.
 
 Download [Linux](/download/download-linux/), [Mac](/download/download-mac/), [Windows](/download/download-windows/). Report bugs in [GitHub]({{< param "bugreporting" >}}).
 
