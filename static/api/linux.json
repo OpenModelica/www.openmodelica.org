@@ -1,8 +1,8 @@
 {
     "version": {
-        "release": "1.26.3",
-        "stable": "1.26.3~1-g7583224",
-        "nightly": "1.27.0~dev-346-g292857e"
+        "release": "1.26.4",
+        "stable": "1.26.4",
+        "nightly": "1.27.0~dev-385-ga223854"
     },
     "deb": {
         "amd64": [
@@ -10,18 +10,21 @@
             "jammy",
             "noble",
             "questing",
+            "resolute",
             "trixie"
         ],
         "arm64": [
             "bookworm",
             "jammy",
             "noble",
+            "resolute",
             "trixie"
         ],
         "armhf": [
             "bookworm",
             "jammy",
             "noble",
+            "resolute",
             "trixie"
         ],
         "i386": [
@@ -57,6 +60,7 @@
         "jammy": "2027-04-01",
         "noble": "2029-05-31",
         "questing": "2026-07-01",
+        "resolute": "2031-05-31",
         "trixie": "2028-08-09"
     },
     "pkg": {
@@ -70,6 +74,7 @@
             "jammy": "14.0",
             "noble": "18.0",
             "questing": "20.0",
+            "resolute": "21.1.6",
             "trixie": "19.0"
         },
         "cmake": {
@@ -82,6 +87,7 @@
             "jammy": "3.22.1",
             "noble": "3.28.3",
             "questing": "3.31.6",
+            "resolute": "4.2.3",
             "trixie": "3.31.6"
         },
         "gcc": {
@@ -94,6 +100,7 @@
             "jammy": "11.2.0",
             "noble": "13.2.0",
             "questing": "15.2.0",
+            "resolute": "15.2.0",
             "trixie": "14.2.0"
         }
     }
