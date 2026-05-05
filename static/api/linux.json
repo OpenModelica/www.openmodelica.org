@@ -2,7 +2,7 @@
     "version": {
         "release": "1.26.7",
         "stable": "1.26.7~1-g2b913cc",
-        "nightly": "1.27.0~dev-411-g106ed2c"
+        "nightly": "1.27.0~dev-420-g424c406"
     },
     "deb": {
         "amd64": [
@@ -64,7 +64,7 @@
         "jammy": "2027-04-01",
         "noble": "2029-05-31",
         "questing": "2026-07-01",
-        "resolute": "2031-05-31",
+        "resolute": "2031-04-30",
         "trixie": "2028-08-09"
     },
     "pkg": {
