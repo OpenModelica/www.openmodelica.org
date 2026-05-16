@@ -17,6 +17,11 @@ There are several alternatives available to Mac users, each with its own pros an
 There is a [Linux docker container](/download/docker), which installs fast and easily.
 This runs on Apple Silicon and requires XQuartz for the OpenModelica GUI.
 
+### Conda
+
+There is a [conda package](https://anaconda.org/channels/conda-forge/packages/openmodelica/overview) available on conda-forge channel.
+The preferred way to get it is to setup conda from the [Miniforge](https://conda-forge.org/download/) installer.
+
 ### Virtual machine
 
 There is a [pre-built Linux virtual machine](/download/virtual-machine) that installs somewhat fast.
