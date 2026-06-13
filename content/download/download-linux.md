@@ -88,7 +88,12 @@ var selectedDebCodename = function() {
 };
 var selectedRpmCodename = function() {
   var codeNameValue=document.getElementById("rpm-codename-select").value;
-  var addRepoCommand=(codeNameValue=="fc41" ? "addrepo --from-repofile=" : "--add-repo ");
+  const match = codeNameValue.match(/\d+$/); 
+  const version = match ? parseInt(match[0], 10) : 0;
+  var addRepoCommand =
+  version >= 41
+    ? "addrepo --from-repofile="
+    : "--add-repo ";
   document.getElementById("rpm-os").innerHTML=codeNameValue;
   document.getElementById("rpm-os-add-repo-command").innerHTML=addRepoCommand;
   var codenameSelect = [];
