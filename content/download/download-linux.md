@@ -232,8 +232,10 @@ You can find the releases at https://build.openmodelica.org/omc/builds/linux/rel
 
 Starting with OpenModelica 1.9.4 you can use apt to download the packages using a deb-line such as the one below; make sure all existing OpenModelica packages have been uninstalled (so you do not end up with mismatching versions of dependencies):
 
-```text
-deb https://build.openmodelica.org/omc/builds/linux/releases/1.13.0/ bionic release
+```bash
+echo "deb [arch=amd64 signed-by=/usr/share/keyrings/openmodelica-keyring.gpg] https://build.openmodelica.org/omc/builds/linux/releases/1.25.5/ trixie release" > /etc/apt/sources.list.d/openmodelica.list
+sudo apt-get update
+sudo apt-get install omc
 ```
 
 ## RPM packages
