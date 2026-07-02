@@ -88,7 +88,7 @@ var selectedDebCodename = function() {
 };
 var selectedRpmCodename = function() {
   var codeNameValue=document.getElementById("rpm-codename-select").value;
-  var addRepoCommand=(codeNameValue=="fc41" ? "addrepo --from-repofile=" : "--add-repo ");
+  var addRepoCommand=(codeNameValue.startsWith("fc") && parseInt(codeNameValue.substring(2)) >= 41 ? "addrepo --from-repofile=" : "--add-repo ");
   document.getElementById("rpm-os").innerHTML=codeNameValue;
   document.getElementById("rpm-os-add-repo-command").innerHTML=addRepoCommand;
   var codenameSelect = [];
@@ -209,7 +209,6 @@ There is a package manager for Modelica libraries built into the scripting inter
 
 If you install OpenModelica from a USB stick in a place without Internet access, for example during a tutorial at a conference, it is still possible to install the Modelica Standard Library.
 
-
 ```bash
 sudo apt install omlibrary
 ```
@@ -232,8 +231,13 @@ You can find the releases at https://build.openmodelica.org/omc/builds/linux/rel
 
 Starting with OpenModelica 1.9.4 you can use apt to download the packages using a deb-line such as the one below; make sure all existing OpenModelica packages have been uninstalled (so you do not end up with mismatching versions of dependencies):
 
-```text
-deb https://build.openmodelica.org/omc/builds/linux/releases/1.13.0/ bionic release
+```bash
+echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/openmodelica-keyring.gpg] \
+  https://build.openmodelica.org/omc/builds/linux/releases/1.25.5/ \
+  $(cat /etc/os-release | grep "\(UBUNTU\|VERSION\)_CODENAME" | sort | cut -d= -f 2 | head -1) \
+  release" | sudo tee /etc/apt/sources.list.d/openmodelica.list
+sudo apt-get update
+sudo apt-get install omc
 ```
 
 ## RPM packages
