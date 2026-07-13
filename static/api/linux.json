@@ -2,25 +2,22 @@
     "version": {
         "release": "1.27.0",
         "stable": "1.27.0",
-        "nightly": "1.28.0~dev-157-g324c3bf"
+        "nightly": "1.28.0~dev-160-gdffc9f2"
     },
     "deb": {
         "amd64": [
-            "bookworm",
             "jammy",
             "noble",
             "resolute",
             "trixie"
         ],
         "arm64": [
-            "bookworm",
             "jammy",
             "noble",
             "resolute",
             "trixie"
         ],
         "armhf": [
-            "bookworm",
             "jammy",
             "noble",
             "resolute",
@@ -50,7 +47,6 @@
         }
     },
     "eol": {
-        "bookworm": "2026-07-11",
         "el10": "2035-05-31",
         "el8": "2029-05-31",
         "el9": "2032-05-31",
@@ -63,7 +59,6 @@
     },
     "pkg": {
         "clang": {
-            "bookworm": "14.0",
             "el10": "-",
             "el8": "-",
             "el9": "-",
@@ -75,7 +70,6 @@
             "trixie": "19.0"
         },
         "cmake": {
-            "bookworm": "3.25.1",
             "el10": "3.30.5",
             "el8": "3.26.5",
             "el9": "3.26.5",
@@ -87,7 +81,6 @@
             "trixie": "3.31.6"
         },
         "gcc": {
-            "bookworm": "12.2.0",
             "el10": "14.3.1",
             "el8": "8.5.0",
             "el9": "11.5.0",
