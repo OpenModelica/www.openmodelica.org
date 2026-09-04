@@ -1,8 +1,8 @@
 {
     "version": {
         "release": "1.27.0",
-        "stable": "1.27.0~5-ga0783c0",
-        "nightly": "1.28.0~dev-545-g8ccc942"
+        "stable": "1.27.0~7-gb1f625c",
+        "nightly": "1.28.0~dev-594-gfd7e322"
     },
     "deb": {
         "amd64": [
@@ -28,23 +28,7 @@
         ]
     },
     "rpm": {
-        "amd64": {
-            "el10": [
-                "openmodelica-nightly"
-            ],
-            "el8": [
-                "openmodelica-nightly"
-            ],
-            "el9": [
-                "openmodelica-nightly"
-            ],
-            "fc43": [
-                "openmodelica-nightly"
-            ],
-            "fc44": [
-                "openmodelica-nightly"
-            ]
-        }
+        
     },
     "eol": {
         "el10": "2035-05-31",
