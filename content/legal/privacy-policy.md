@@ -9,8 +9,15 @@ _Last updated: 2026-09-17_
 ## Short version
 
 The OpenModelica tools run on your own computer. We do not operate a cloud
-service for them, we have no user accounts, and we collect no telemetry. Your
-models, simulation results and files never pass through our servers.
+service for them, we have no user accounts, and nothing is reported back to us
+in the background. Your models, simulation results and files never pass through
+our servers unless you deliberately send them.
+
+There is one way to send them deliberately, and it is worth understanding
+before you use it: OMEdit's crash and issue report. It runs only when you ask
+it to, but the log files it offers to attach are detailed enough to reconstruct
+the model you were working on. [Crash and issue reports in
+OMEdit](#crash-and-issue-reports-in-omedit) says exactly what is in them.
 
 When you connect OMEdit to a cloud storage provider such as Google Drive or
 Microsoft OneDrive, OMEdit talks to that provider **directly from your
@@ -38,8 +45,11 @@ the other tools distributed as part of the OpenModelica Environment.
 * All modelling, compilation and simulation happens locally on your own
   computer.
 * There is no account, no registration and no licence server.
-* There is no usage tracking, analytics or crash reporting that reports back to
-  us.
+* There is no usage tracking and no analytics, and nothing is sent to us
+  automatically — in particular, a crash does not report itself. OMEdit can
+  send a crash or issue report, but only after you fill in the dialog and press
+  **Send Report**; see [Crash and issue reports in
+  OMEdit](#crash-and-issue-reports-in-omedit) below.
 * Your models, parameters, simulation results and file names stay on your
   machine unless you deliberately send them somewhere.
 
@@ -48,6 +58,49 @@ installing a Modelica library through the package manager, which downloads an
 index and packages from `libraries.openmodelica.org`, or following a
 documentation link. Those requests reach our web servers and are recorded in the
 server logs described below, exactly like a page visit.
+
+## Crash and issue reports in OMEdit
+
+OMEdit shows a report dialog in two situations: when it has crashed, and when
+you choose to report an issue yourself from the Help menu. **Nothing leaves
+your computer until you press "Send Report."** Closing the dialog sends
+nothing.
+
+If you do send a report, it is uploaded over HTTPS to a server operated by OSMC
+and read by OpenModelica developers to work out what went wrong. It is not used
+for statistics, not published, and not passed on to anyone else. The legal
+basis is your consent, which you give by sending the report.
+
+What a report contains:
+
+* **Your e-mail address**, if you enter one. It is optional — the dialog offers
+  to send the report without it — and it is used only to contact you about this
+  particular issue.
+* **The description you write**, plus a pre-filled line naming your
+  OpenModelica version, operating system and processor architecture.
+* **Log files, each with its own tick box.** Every file is listed with its full
+  path and is ticked by default. Untick one and it is not sent. The files sit
+  in your temporary directory, so you can read them first.
+
+Those log files deserve a closer look, because they hold a good deal more than
+a stack trace:
+
+* `omeditcommunication.log` — a transcript of every command OMEdit sent to the
+  OpenModelica Compiler during the session, and every answer it got back.
+  **This is usually enough to reconstruct the model you were working on.**
+  Ordinary editing passes model source text to the compiler, so the transcript
+  can contain your Modelica code, class and component names, parameter values,
+  the paths of the files you opened, and compiler error messages.
+* `omeditcommands.mos` — the same commands written out as a replayable script,
+  so it carries the same content.
+* `openmodelica.stacktrace.OMEdit` — the backtrace of the crashed process:
+  function names, addresses, and the paths of the binaries and sources
+  involved. This one is mostly about our code, but it can contain paths from
+  your machine.
+
+If the session involved something you would rather not share, untick the log
+files and describe the problem in the text box instead. A report with only a
+backtrace, or only a description, is still useful to us.
 
 ## Cloud storage connections in OMEdit
 
