@@ -9,3 +9,4 @@ OSMC Technical Coordinator: Adrian Pop, Adrian.Pop [at] liu.se<br />
 Contact us: OpenModelica [at] ida.liu.se<br />
 Webmaster: OpenModelica [at] ida.liu.se
 </p>
+<p><a href="/privacy-policy">Privacy Policy</a> &mdash; <a href="/terms-of-service">Terms of Service</a></p>
