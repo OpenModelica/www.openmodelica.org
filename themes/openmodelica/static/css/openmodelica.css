@@ -158,6 +158,10 @@ li > a:only-child:after { content: ''; }
     color: #888888;
 }
 
+#ja-footer .footer2 a {
+    color: #aaaaaa;
+}
+
 figure {
     display: inline-block;
     margin-left: 20px;
