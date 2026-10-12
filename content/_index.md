@@ -17,7 +17,7 @@ Help us: get the latest [source code or nightly-build](/developersresources/sour
 To learn about Modelica, read a [book](/research/booksproceedings) or a [tutorial](images/M_images/250908-ModelicaTutorial-PeterFritzson-2025.pdf) about [Modelica](https://www.modelica.org).
 
 Interactive step-by-step beginners Modelica [on-line spoken tutorials](https://spoken-tutorial.org/tutorial-search/?search_foss=OpenModelica&search_language=English)
-Interactive [OMWebbook](https://omwebbook.openmodelica.org/) with examples of Modelica textual modeling and [textbook companions](https://om.fossee.in/textbook-companion/completed-books) with application OpenModelica exercises.
+Interactive [OMWebbook](http://omwebbook.openmodelica.org/) with examples of Modelica textual modeling and [textbook companions](https://om.fossee.in/textbook-companion/completed-books) with application OpenModelica exercises.
 A [Jupyter notebook](https://github.com/OpenModelica/jupyter-openmodelica) Modelica mode, available in OpenModelica.
 
 To get advice how to make existing Modelica libraries work in OpenModelica, see [Porting.](doc/OpenModelicaUsersGuide/latest/porting.html)

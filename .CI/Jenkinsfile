@@ -57,7 +57,7 @@ pipeline {
         --ignore-url=https://openmodelica.org/svn \
         --ignore-url=https://lists.liu.se/mailman/listinfo \
         --ignore-url=https://openmodelica.org/git-readonly/ \
-        --ignore-url=https://omwebbook.openmodelica.org/ \
+        --ignore-url=http://omwebbook.openmodelica.org/ \
         --ignore-url=https://openmodelica.org/git/ \
         --ignore-url=https://dx.doi.org/10. \
         --ignore-url=https://www.sj.se \
