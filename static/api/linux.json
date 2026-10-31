@@ -2,7 +2,7 @@
     "version": {
         "release": "1.27.2",
         "stable": "1.27.2",
-        "nightly": "1.28.0~dev-1604-g426151f"
+        "nightly": "1.28.0~dev-1615-ge5168fd"
     },
     "deb": {
         "amd64": [
