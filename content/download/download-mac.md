@@ -2,8 +2,33 @@
 title: "Download Mac"
 ---
 
-## The Mac binary builds of OpenModelica were discontinued after version 1.16
+## Experimental build
 
+There is a new experimental build of OpenModelica for macOS 13 (Ventura) or newer. It is a universal build that runs on Apple Silicon and Intel Macs.
+
+ - download **[OpenModelica-latest-macos-universal.dmg](https://build.openmodelica.org/omc/rust/latest/OpenModelica-latest-macos-universal.dmg)** ([all experimental builds](https://build.openmodelica.org/omc/rust/latest/))
+ - built from the latest development version with the new Rust version of the OpenModelica compiler, which is not yet used in the official releases
+ - intended for testing, not for productive usage; please [report the bugs]({{< param "bugreporting" >}}) that you find
+ - contains only OMEdit (no OMNotebook, OMShell or OMPlot)
+ - the omc command-line compiler is inside the application: `/Applications/OMEdit.app/Contents/MacOS/omc`
+
+### Installation
+
+1. Open the .dmg file and drag OMEdit.app to the Applications folder.
+2. The package is not signed. Thus macOS does not let you open it after a download (it tells you that the application is damaged or that Apple cannot verify it). To let it run, open the Terminal and remove the quarantine flag that macOS put on the downloaded application:
+   ```bash
+   xattr -dr com.apple.quarantine /Applications/OMEdit.app
+   ```
+   Do this again each time you install a new version.
+3. To simulate with the default target language (C), you need a C compiler. Install the Xcode command-line tools:
+   ```bash
+   xcode-select --install
+   ```
+   Alternatively, set *Tools > Options > Simulation > Target Language* to `wasm-jit`. This target does not use a C compiler.
+
+## Official releases
+
+The official Mac binary builds of OpenModelica were discontinued after version 1.16.
 The reason for that is that maintaining the MacOS version of OpenModelica requires much greater effort than the Windows and Linux versions. Newer MacOS versions are often incompatible with older ones, for example requiring new C++ standard library implementation, which is a problem for us because we rely on many open-source libraries and not all of them are readily updated, so we often end up in deadlock situations where we cannot actually compile OpenModelica for newer versions of MacOS.
 
 Considering our limited resources, and the much lower number of downloads of MacOS builds, we had to take this decision, because the MacOS version kept breaking all the time and we simply do not have the resource to keep it fully functional.
