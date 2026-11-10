@@ -164,6 +164,7 @@ sudo apt-get update
 sudo apt-get install ca-certificates curl gnupg
 curl -fsSL https://build.openmodelica.org/apt/openmodelica.asc | \
   sudo gpg --dearmor -o /usr/share/keyrings/openmodelica-keyring.gpg
+sudo chmod a+r /usr/share/keyrings/openmodelica-keyring.gpg
 ```
 
 Then update your sources.list using the lines below.
