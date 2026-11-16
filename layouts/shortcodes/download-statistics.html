@@ -1,0 +1,51 @@
+{{- /* Table of the monthly numbers in /api/statistics.json, which scripts/statistics.py generates. */ -}}
+<table id="download-statistics" class="download-statistics">
+  <thead>
+    <tr><th>Month</th><th>Windows</th><th>Linux</th><th>Playground</th></tr>
+  </thead>
+  <tbody>
+    <tr><td colspan="4">Loading the statistics...</td></tr>
+  </tbody>
+</table>
+<p id="download-statistics-updated"></p>
+<style>
+.download-statistics th, .download-statistics td { padding: 2px 12px; text-align: right; }
+.download-statistics th:first-child, .download-statistics td:first-child { text-align: left; }
+.download-statistics td[colspan] { text-align: left; }
+</style>
+<script>
+(function () {
+  var body = document.querySelector('#download-statistics tbody');
+  function message(text) {
+    body.innerHTML = '';
+    var cell = body.insertRow().insertCell();
+    cell.colSpan = 4;
+    cell.textContent = text;
+  }
+  function number(value) {
+    return typeof value === 'number' ? value.toLocaleString('en-US') : '–';
+  }
+  fetch('/api/statistics.json')
+    .then(function (response) {
+      if (!response.ok) { throw new Error(response.status); }
+      return response.json();
+    })
+    .then(function (stats) {
+      var months = (stats.months || []).slice().reverse();
+      if (!months.length) { message('The statistics are not available.'); return; }
+      var current = (stats.updated || '').substring(0, 7);
+      body.innerHTML = '';
+      months.forEach(function (m) {
+        var row = body.insertRow();
+        row.insertCell().textContent = m.month + (m.month === current ? ' (so far)' : '');
+        ['exe', 'deb', 'playground'].forEach(function (key) {
+          row.insertCell().textContent = number(m[key]);
+        });
+      });
+      if (stats.updated) {
+        document.getElementById('download-statistics-updated').textContent = 'Last updated ' + stats.updated + '.';
+      }
+    })
+    .catch(function () { message('The statistics are not available.'); });
+})();
+</script>

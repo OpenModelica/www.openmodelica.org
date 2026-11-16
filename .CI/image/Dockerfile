@@ -5,6 +5,6 @@ FROM ubuntu
 RUN export DEBIAN_FRONTEND=noninteractive && \
   mkdir -p /cache/hugo && chmod ugo+rwx /cache/hugo && \
   apt-get update && \
-  apt-get install -qyy ca-certificates hugo zip linkchecker && \
+  apt-get install -qyy ca-certificates hugo zip linkchecker python3 && \
   rm -rf /var/lib/apt/lists/* && \
   apt-get clean
