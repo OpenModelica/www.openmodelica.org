@@ -13,3 +13,7 @@ Number of downloads per month from [build.openmodelica.org](https://build.openmo
   loaded the compiler in a web browser.
 
 Downloads from mirrors, the [Docker images](/download/docker) and the packages provided by Linux distributions are not included.
+
+<p><span style="color: red;"><strong>Note:</strong> the numbers are raw request counts from the web server log.
+They include everything: scrapers, bots, automated builds (CI) and humans, so the number of actual
+installations is considerably lower.</span></p>
