@@ -230,12 +230,13 @@ sudo apt install libomccpp
 Older releases are stored for some stable Debian/Ubuntu versions along with the libraries that existed at the time of the release.
 You can find the releases at https://build.openmodelica.org/omc/builds/linux/releases.
 
-Starting with OpenModelica 1.9.4 you can use apt to download the packages using a deb-line such as the one below; make sure all existing OpenModelica packages have been uninstalled (so you do not end up with mismatching versions of dependencies):
+Starting with OpenModelica 1.9.4 you can use apt to download the packages using a deb-line such as the one below (replace 1.25.5 with the release you want); make sure all existing OpenModelica packages have been uninstalled (so you do not end up with mismatching versions of dependencies).
+Older release directories do not contain the Contents files that apt-file uses, so the line tells apt not to download them:
 
 ```bash
-echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/openmodelica-keyring.gpg] \
+echo "deb [arch=$(dpkg --print-architecture) target-=Contents-deb,Contents-deb-legacy signed-by=/usr/share/keyrings/openmodelica-keyring.gpg] \
   https://build.openmodelica.org/omc/builds/linux/releases/1.25.5/ \
-  $(cat /etc/os-release | grep "\(UBUNTU\|VERSION\)_CODENAME" | sort | cut -d= -f 2 | head -1) \
+  $(cat /etc/os-release | grep "\(UBUNTU\|DEBIAN\|VERSION\)_CODENAME" | sort | cut -d= -f 2 | head -1) \
   release" | sudo tee /etc/apt/sources.list.d/openmodelica.list
 sudo apt-get update
 sudo apt-get install omc
