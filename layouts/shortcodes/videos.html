@@ -1,0 +1,5 @@
+<div class="videos">
+{{- range .Params }}
+  <iframe src="https://www.youtube-nocookie.com/embed/{{ . }}" title="Video" loading="lazy" allowfullscreen></iframe>
+{{- end }}
+</div>
