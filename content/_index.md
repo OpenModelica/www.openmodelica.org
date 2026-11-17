@@ -1,33 +1,42 @@
 ---
-title: "Introduction"
+title: "OpenModelica"
 ---
-OPENMODELICA is an open-source Modelica-based[^1] modeling and simulation environment intended for industrial and academic usage.
-Its long-term development is supported by a non-profit organization – the [Open Source Modelica Consortium (OSMC)](/home/consortium).
-An overview journal [paper](/research/the-openmodelica-integrated-environment-for-modeling-simulation-and-model-based-development) is available and [slides](images/M_images/Modelica-OpenModelica-slides.pdf) about Modelica and OpenModelica.
+{{< hero title="Open-source Modelica-based modeling and simulation" >}}
+OpenModelica is a complete Modelica® modeling, compilation and simulation environment based on free software distributed in source code and executable form intended for research, teaching, and industrial usage.
+It supports most of the Modelica language, including equations, algorithms, event-handling, functions, and packages.
+Also included are a graphical user interface for modeling and simulation, and an electronic notebook interface for teaching.
+{{< /hero >}}
 
-The goal with the OpenModelica effort is to create a comprehensive Open Source Modelica modeling, compilation and simulation environment based on free software distributed in binary and source code form for research, teaching, and industrial usage.
-We invite researchers and students, or any interested developer to participate in the project and cooperate around OpenModelica, tools, and applications.
+{{< cards >}}
+{{< card title="Learn Modelica" >}}
+- A [Modelica tutorial](/images/M_images/250908-ModelicaTutorial-PeterFritzson-2025.pdf) and [slides](/images/M_images/Modelica-OpenModelica-slides.pdf) about Modelica and OpenModelica
+- [Books](/research/books) about [Modelica](https://modelica.org)
+- Step-by-step [spoken tutorials](https://spoken-tutorial.org/tutorial-search/?search_foss=OpenModelica&search_language=English) for beginners
+- The interactive [OMWebbook](http://omwebbook.openmodelica.org/) and [textbook companions](https://om.fossee.in/textbook-companion/completed-books) with exercises
+{{< /card >}}
+{{< card title="Use OpenModelica" >}}
+- The [user documentation](/useresresources/userdocumentation)
+- How to [port existing Modelica libraries](/doc/OpenModelicaUsersGuide/latest/porting.html) to OpenModelica
+- [Library coverage reports](https://github.com/OpenModelica/OpenModelica/wiki/Library-Coverage-Testing) show which open-source libraries work well
+- [Documentation of the Modelica libraries](https://build.openmodelica.org/Documentation/)
+- A [Jupyter notebook](https://github.com/OpenModelica/jupyter-openmodelica) Modelica mode
+{{< /card >}}
+{{< card title="Development" >}}
+Improving the compiler, a general solver interface, FMI 3.0 and SSP support, DAE mode, enhanced graphics, a web-based version, and a scalable backend for very large systems are examples of ongoing development activities.
 
-<img width="300" style="float: left; margin-right: 10px" src="/images/om.jpg" />
+- Get the [source code and nightly builds](/developersresources/sourcecode)
+- [Report bugs]({{< param "bugreporting" >}}) and see the [roadmap]({{< param "roadmap" >}})
+{{< /card >}}
+{{< card title="Community" >}}
+The long-term development is supported by a non-profit organization, the [Open Source Modelica Consortium (OSMC)](/home/consortium).
 
-Join the OpenModelicaInterest [mailing list](/useresresources/mailing-list) to get information about new releases.
+- Join the [mailing list](/useresresources/mailing-list) to hear about new releases
+- Ask questions in [GitHub Discussions](https://github.com/OpenModelica/OpenModelica/discussions)
+- Read the [overview paper](/research/the-openmodelica-integrated-environment-for-modeling-simulation-and-model-based-development) and other [research](/research)
+{{< /card >}}
+{{< news count=15 >}}
+{{< /cards >}}
 
-Help us: get the latest [source code or nightly-build](/developersresources/sourcecode) and report [bugs]({{< param "bugreporting" >}}).
+## Videos
 
-To learn about Modelica, read a [book](/research/booksproceedings) or a [tutorial](images/M_images/250908-ModelicaTutorial-PeterFritzson-2025.pdf) about [Modelica](https://www.modelica.org).
-
-Interactive step-by-step beginners Modelica [on-line spoken tutorials](https://spoken-tutorial.org/tutorial-search/?search_foss=OpenModelica&search_language=English)
-Interactive [OMWebbook](http://omwebbook.openmodelica.org/) with examples of Modelica textual modeling and [textbook companions](https://om.fossee.in/textbook-companion/completed-books) with application OpenModelica exercises.
-A [Jupyter notebook](https://github.com/OpenModelica/jupyter-openmodelica) Modelica mode, available in OpenModelica.
-
-To get advice how to make existing Modelica libraries work in OpenModelica, see [Porting.](doc/OpenModelicaUsersGuide/latest/porting.html)
-
-For systems engineering with requirement traceability and verification, see [ModelicaML](/free-and-open-source-software/modelicaml/).
-
-OpenModelica provides [library coverage reports](https://github.com/OpenModelica/OpenModelica/wiki/Library-Coverage-Testing) of open-source Modelica libraries showing which libraries work well with OpenModelica and how the support improved over time.
-
-<iframe width="30%" height="128" src="https://www.youtube-nocookie.com/embed/OCTAeLYtClI" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="30%" height="128" src="https://www.youtube-nocookie.com/embed/v7YEd_Ow624" frameborder="0" allowfullscreen></iframe>
-
-[^1]: This page references Modelica®, which is a registered trademark of [Modelica Association](https://modelica.org).
+{{< videos "OCTAeLYtClI" "v7YEd_Ow624" >}}

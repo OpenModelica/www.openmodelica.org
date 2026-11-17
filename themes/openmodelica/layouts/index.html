@@ -1,26 +1,7 @@
 {{ define "main" }}
-<div id="frontpagecolumns">
-
-<div id="maincontent">
-<h1>{{ .Title }}</h1>
+<div class="frontpage">
 {{ .Content }}
-</div>
-
-<div id="latestnews">
-<div id="latestnewsinternal">
-<h3>Latest news and events <a href="/tags/news/index.xml"><img class="rss-image" alt="rss feed" src="/images/rss.svg" /></a></h3>
-<ul id="newslist">
-{{ range first 20 (where .Site.Taxonomies.tags.news ".Params.rss_ignore" "!=" true)}}
-  <li class="newsitem">{{ .Page.Date.Format "2006-01-02" }}{{ with .Params.conference_end_date }}–{{ dateFormat "2006-01-02" . }}{{ end }}
-    {{ if (isset .Params "external_url") }}
-    <a href="{{ .Page.Params.external_url }}">{{ .Page.Title }}</a>
-    {{ else }}
-    <a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a>
-    {{ end }}
-  </li>
-{{ end }}
-</ul>
-</div>
-</div>
+<p class="fineprint">Modelica® is a registered trademark of the <a href="https://modelica.org">Modelica Association</a>.</p>
 </div>
 {{ end }}
+{{ define "space-right" }} space-right{{ end }}
