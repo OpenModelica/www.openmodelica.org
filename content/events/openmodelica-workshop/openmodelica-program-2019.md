@@ -2,75 +2,98 @@
 title: "OpenModelica 2019"
 date: 2019-02-04
 ---
-<p class="MsoBodyText" style="margin-right: 266.3pt; line-height: 158%; padding-left: 180px; text-align: center;"><span style="color: #993366; font-size: 12pt;"><strong>Preliminary Program</strong></span></p>
-<p class="MsoBodyText" style="margin-right: 266.3pt; line-height: 158%; padding-left: 180px; text-align: center;"><span style="color: #993366; font-size: 12pt;"><strong>OpenModelica Annual Workshop February 4, 2019</strong></span></p>
-<p class="MsoBodyText" style="margin-right: 266.3pt; line-height: 158%; padding-left: 180px; text-align: center;"><span style="font-size: 12pt;"><span lang="EN-US"></span>&nbsp;<span style="color: #993366;"><strong>Supported by</strong></span></span></p>
-<p class="MsoBodyText" style="margin-right: 266.3pt; line-height: 158%; padding-left: 180px; text-align: center;"><span style="color: #993366; font-size: 12pt;"><strong>Open Source Modelica Consortium (OSMC) and Linköping University (LIU)</strong></span></p>
-<p style="text-align: justify;">&nbsp;</p>
-<p><span style="font-size: 11pt; font-family: Verdana, sans-serif; color: #3553a4;"></span><strong><span lang="EN-US" style="color: #621012;">Session Chair: Bernhard Bachmann</span></strong></p>
-<div>
-<p class="MsoBodyText" style="margin-top: 0cm; line-height: 10.25pt;"><strong><span lang="EN-US" style="color: #621012;">08.30-08.40&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lena Buffoni<span style="letter-spacing: -1.1pt;">&nbsp;&nbsp;</span>and<span style="letter-spacing: -1.05pt;">&nbsp;&nbsp;</span>Lennart Ochel<span style="letter-spacing: -1.05pt;"></span>(Linköping<span style="letter-spacing: -1.1pt;"></span>University and RISE SICSEast, Sweden)</span></strong></p>
-<p class="MsoBodyText" style="margin-top: 0cm; line-height: 10.25pt; text-align: left;"><span lang="EN-US"></span><span lang="EN-US" style="font-size: 8.5pt; font-family: Symbol; color: #231f20;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>Workshop Opening<span lang="EN-US" style="font-size: 8.5pt;"><br /></span></p>
-<p><strong><span lang="EN-US" style="color: #621012;">08.40-09.00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Peter<span style="letter-spacing: -1pt;"></span>Fritzson,<span style="letter-spacing: -1pt;"></span>Director of<span style="letter-spacing: -0.95pt;">&nbsp;&nbsp;</span>OSMC<span style="letter-spacing: 1.2pt;"></span>(Linköping<span style="letter-spacing: -1pt;"></span>University, Sweden)</span></strong><span lang="EN-US"></span></p>
-<p style="text-align: left;"><span lang="EN-US"></span><span lang="EN-US" style="font-size: 8.5pt; font-family: Symbol; color: #231f20;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';"><span face="Symbol" style="font-family: Symbol;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></span><a href="/images/M_images/OpenModelicaWorkshop_2019/OpenModelica2019-talk01-Peter-Fritzson-OpenModelica-Workshop-StatusDirections-uploaded.pdf">Status and Directions of OpenModelica</a><span lang="EN-US" style="font-size: 8.5pt;"></span></p>
-<p class="MsoBodyText"><strong><span lang="EN-US" style="color: #621012;">09.00-09.45&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Francesco Casella,<span style="letter-spacing: -0.95pt;"></span>Vice Director of OSMC<span style="letter-spacing: -1pt;"></span>(Politecnico<span style="letter-spacing: -1pt;"></span>di<span style="letter-spacing: -0.9pt;"></span>Milano, Italy)</span></strong><span lang="EN-US"></span></p>
-<p class="MsoBodyText" style="text-align: left;"><span lang="EN-US"></span><span lang="EN-US" style="font-size: 8.5pt; font-family: Symbol; color: #231f20;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></span><span style="color: #231f20; font-family: Symbol; font-size: 11.3333px;"></span><span style="color: #231f20; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">&nbsp; &nbsp; &nbsp;&nbsp;</span><a href="/images/M_images/OpenModelicaWorkshop_2019/Presentation_Casella-_Animations.pdf">The OpenModelica New Front-End: a Quantum Leap from a User's Perspective</a></p>
-<p class="MsoBodyText" style="margin-top: 6.15pt;"><strong><span lang="EN-US" style="color: #621012;">09.45-10.10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rüdiger Franke, Chairman of OSMC (ABB AG, Germany)</span></strong><span lang="EN-US"></span></p>
-<p class="MsoBodyText" style="margin-top: 6.15pt; text-align: left;"><span style="text-indent: -13.8pt; color: #231f20; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><a href="/images/M_images/OpenModelicaWorkshop_2019/Vectorized_models_for_new_digital_applications.pdf">Vectorized Models for New Digital Applications</a></p>
-<p class="MsoBodyText"><strong><span lang="EN-US" style="color: #621012;">10.10-10.35&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Andreas Heuermann, Willi Braun, Niklas Worschech and Bernhard Bachmann</span></strong><span lang="EN-US"></span></p>
-<p style="text-align: left;"><span style="color: #231f20; font-size: 8.5pt; text-indent: -13.8pt;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href="/images/M_images/OpenModelicaWorkshop_2019/OMSI_OpenModelicWorkshop_2019_publish.pdf">Towards a Unified OpenModelica Simulation Interface</a></span></p>
-</div>
-<p><strong><span lang="EN-US" style="font-size: 11pt; font-family: Verdana, sans-serif; color: #3553a4;">10.35-11.05 Coffee and Poster Session</span></strong></p>
-<p class="MsoBodyText" style="margin-top: 0cm;"><strong><span lang="EN-US" style="color: #621012;">11.05-11.30&nbsp; &nbsp; &nbsp; Adam Lange (Lange Turbo, USA)</span></strong><span lang="EN-US"></span></p>
-<p class="MsoBodyText" style="margin-top: 0cm;"><span lang="EN-US" style="text-indent: -18.4px; font-size: 8.5pt; font-family: Symbol; color: #231f20;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span></span><a href="/images/M_images/OpenModelicaWorkshop_2019/coupled_fpga_sim.pdf">An Open Source Tool for Performing Coupled OpenModelica - FPGA Simulations</a></p>
-<p class="MsoBodyText"><strong><span lang="EN-US" style="color: #621012;">11.30-11.55&nbsp; &nbsp; &nbsp; Karim Abdelhak and Bernhard Bachmann (FH Bielefeld, Germany)</span></strong><span lang="EN-US"></span></p>
-<p class="MsoBodyText"><span lang="EN-US"></span><span lang="EN-US" style="font-size: 8.5pt; font-family: Symbol; color: #231f20;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></span><a href="/images/M_images/OpenModelicaWorkshop_2019/Abdelhak_Model_Initialisation.pdf">Initialisation of Models with Dynamic State-Selection</a></p>
-<p class="MsoBodyText"><span lang="EN-US" style="color: #621012;"><strong>11.55-12.20&nbsp; &nbsp; &nbsp; </strong></span><span style="text-indent: -13.8pt;"><span lang="EN-US" style="color: #621012;"><span color="#621012" style="color: #621012;"><b>Henk van Weers and Shubham Vyase (SRON Institute, Netherlands)</b></span></span> </span></p>
-<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href="/images/M_images/OpenModelicaWorkshop_2019/Thermal_Simulation_with_OpenModelica_for_XIFU_FPA_HvW_SRON_v1_.pdf">Thermal Simulation with OpenModelica of the X-IFU Focal Plane in the Athena X-ray Space Observatory</a></p>
-<p><strong><span lang="EN-US" style="font-size: 11pt; font-family: Verdana, sans-serif; color: #3553a4;">12.20-13.30 Lunch at Kårallen</span></strong></p>
-<p><span lang="EN-US" style="font-size: 11pt; font-family: Verdana, sans-serif; color: #3553a4;"></span><strong><span lang="EN-US" style="color: #621012;">Session Chair: Francesco Casella</span></strong></p>
-<p class="MsoBodyText" style="margin-top: 0cm;"><strong><span lang="EN-US" style="color: #621012;">13.30-13.55&nbsp; &nbsp; &nbsp;</span></strong><strong><span lang="EN-US" style="color: #621012;">Adrian<span style="letter-spacing: -1.25pt;"></span>Pop,<span style="letter-spacing: -1.25pt;">&nbsp;&nbsp;</span>OSMC<span style="letter-spacing: -1.25pt;"></span>Technical<span style="letter-spacing: -1.2pt;"></span>Coordinator<span style="letter-spacing: -1.25pt;"></span>(Linköping<span style="letter-spacing: -1.25pt;"></span>University)</span></strong></p>
-<p class="MsoBodyText" style="margin-top: 0cm;"><strong><span lang="EN-US"></span></strong><span lang="EN-US" style="font-size: 8.5pt; font-family: Symbol; color: #231f20;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></span><span lang="EN-US" style="font-size: 8.5pt;"><a href="/images/M_images/OpenModelicaWorkshop_2019/adrpo-OpenModelica.pdf">Current Status and Technical Overview of OpenModelica and its Development Environment</a><span lang="EN-US" style="font-size: 8.5pt;"></span></span></p>
-<p class="MsoBodyText"><strong><span lang="EN-US" style="color: #621012;">13.55-14.20&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></strong><span lang="EN-US" style="color: #621012;"><strong>Atiyah Elsheikh (</strong></span><strong style="text-indent: -13.8pt;"><span lang="EN-US" style="font-size: 8pt; line-height: 102%; color: #621012;">National Coalition of Independent Scholars, Egypt</span><span lang="EN-US" style="color: #621012;">)</span></strong></p>
-<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="/images/M_images/OpenModelicaWorkshop_2019/AtiyahElsheikh_UnitTesting.pdf">Unit Testing of the GenKinetics Library with OpenModelica</a></p>
-<p class="MsoBodyText"><strong><span lang="EN-US" style="color: #621012;">14.20-14.45&nbsp; &nbsp; &nbsp;Per Östlund and Adrian Pop (Linköping University)</span><span lang="EN-US"></span></strong></p>
-<p class="MsoBodyText"><strong><span lang="EN-US"></span></strong><span lang="EN-US" style="font-size: 8.5pt; font-family: Symbol; color: #231f20;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span></span><a href="/images/M_images/OpenModelicaWorkshop_2019/adrpo-perost-NF.pdf">Design of the New OpenModelica Compiler High Performance Frontend</a><span lang="EN-US" style="font-size: 8.5pt;"></span></p>
-<p class="MsoBodyText" style="margin-right: 266.3pt; line-height: 158%;"><span lang="EN-US" style="color: #3553a4; font-family: verdana, geneva; font-size: 12pt;"><strong>14.45-15.05 Coffee and Poster Session</strong></span></p>
-<p class="MsoBodyText" style="margin-right: 266.3pt; line-height: 158%;"><strong><span lang="EN-US" style="color: #621012;">Session Chair: Willi Braun</span><span lang="EN-US"></span></strong></p>
-<p class="MsoBodyText" style="margin-top: 0cm;"><strong><span lang="EN-US" style="color: #621012;">15.05-15.30&nbsp; &nbsp; &nbsp;Lennart<span style="letter-spacing: -1.85pt;"></span>Ochel and Robert Braun (Linköping University)</span></strong></p>
-<p class="MsoBodyText" style="margin-top: 0cm;"><strong><span lang="EN-US"></span></strong><span lang="EN-US" style="font-size: 8.5pt; color: #231f20;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href="/images/M_images/OpenModelicaWorkshop_2019/OMW19_Ochel_OMSimulator.pdf">OMSimulator 2.0 with FMI Model Exchange, Co-Simulation, SSP, TLM, and Applications</a></span><span lang="EN-US" style="font-size: 8.5pt;"></span></p>
-<p class="MsoBodyText" style="margin-top: 6.05pt;"><strong><span lang="EN-US" style="color: #621012;">15.30-15.55&nbsp; &nbsp; &nbsp;Digvijay Gusain (TU Delft, the Netherlands)</span><span lang="EN-US"></span></strong></p>
-<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="/images/M_images/OpenModelicaWorkshop_2019/OpenModelica_for_Power_Systems_at_TU_Delft.pdf">OpenModelica for Teaching Power Systems Modeling at TU Delft</a></p>
-<p class="MsoBodyText" style="margin-top: 6.05pt;"><strong><span lang="EN-US" style="color: #611012;">15.55-16.20&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span lang="EN-US" style="color: #621012;">Konstantin Filonenko, Rema Ahmid, Henrik Midtiby, Jan Petersen, Ole Albrektsen and Christian Veje (University of Southern Denmark)</span><span lang="EN-US"></span></strong></p>
-<p class="MsoBodyText" style="margin-top: 6.1pt;"><strong><span lang="EN-US"></span></strong><span lang="EN-US" style="font-size: 8.5pt; font-family: Symbol; color: #231f20;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></span><a href="/images/M_images/OpenModelicaWorkshop_2019/TeachingOpenModelicaTo1stSemesterEngineeringStudents.pdf">Teaching Modelica to First Semester Engineering Students</a><span lang="EN-US" style="font-size: 8.5pt;"></span></p>
-<p class="MsoBodyText"><strong><span lang="EN-US" style="color: #621012;">16.20-16.50&nbsp; &nbsp; &nbsp;Panel Discussion Chairs:<span style="letter-spacing: -0.9pt;"></span>Lennart Ochel<span style="letter-spacing: -0.95pt;"></span>and Lena Buffoni</span><span lang="EN-US"></span></strong></p>
-<p class="MsoBodyText"><strong><span lang="EN-US"></span></strong><span lang="EN-US" style="color: #231f20;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-size: 11.3333px;"><span face="Symbol" style="font-family: Symbol;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></span> </span><span lang="EN-US" style="font-size: 8.5pt; color: #231f20;">Future&nbsp;<span style="letter-spacing: -1.2pt;"></span>Directions<span style="letter-spacing: -1.2pt;">&nbsp;&nbsp;</span>of&nbsp;<span style="letter-spacing: -1.2pt;"></span>OpenModelica</span><span lang="EN-US" style="font-size: 8.5pt;"></span></p>
-<p class="MsoBodyText"><strong><span lang="EN-US" style="color: #3553a4;">16.50-17.00&nbsp; Break</span><span lang="EN-US"></span></strong></p>
-<p class="MsoBodyText" style="margin-top: 6.05pt;"><strong><span lang="EN-US" style="color: #621012;">17.00-18.00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Open<span style="letter-spacing: -1.25pt;"></span>Source<span style="letter-spacing: -1.2pt;"></span>Modelica<span style="letter-spacing: -1.25pt;"></span>Consortium<span style="letter-spacing: -1.25pt;"></span>Annual<span style="letter-spacing: -1.1pt;"></span>Statutory<span style="letter-spacing: -1.2pt;"></span>Meeting</span><span lang="EN-US"></span></strong></p>
-<p><strong><span lang="EN-US" style="font-size: 11pt; font-family: Verdana, sans-serif; color: #3553a4;"><span style="font-family: Tahoma, Helvetica, Arial, sans-serif; font-size: 12.16px;">19.00</span><span style="font-family: Tahoma, Helvetica, Arial, sans-serif; font-size: 12.16px;">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-family: Tahoma, Helvetica, Arial, sans-serif; font-size: 12.16px;">Dinner</span>&nbsp;</span></strong></p>
-<p>&nbsp;</p>
+
+
+**Preliminary Program**
+
+**OpenModelica Annual Workshop February 4, 2019**
+
+**Supported by**
+
+**Open Source Modelica Consortium (OSMC) and Linköping University (LIU)**
+
+### Session Chair: Bernhard Bachmann
+
+| Time | Speakers | Talk |
+| --- | --- | --- |
+| 08.30-08.40 | Lena Buffoni and Lennart Ochel(LinköpingUniversity and RISE SICSEast, Sweden) | Workshop Opening |
+| 08.40-09.00 | PeterFritzson,Director of OSMC(LinköpingUniversity, Sweden) | [Status and Directions of OpenModelica](/images/M_images/OpenModelicaWorkshop_2019/OpenModelica2019-talk01-Peter-Fritzson-OpenModelica-Workshop-StatusDirections-uploaded.pdf) |
+| 09.00-09.45 | Francesco Casella,Vice Director of OSMC(PolitecnicodiMilano, Italy) | [The OpenModelica New Front-End: a Quantum Leap from a User\'s Perspective](/images/M_images/OpenModelicaWorkshop_2019/Presentation_Casella-_Animations.pdf) |
+| 09.45-10.10 | Rüdiger Franke, Chairman of OSMC (ABB AG, Germany) | [Vectorized Models for New Digital Applications](/images/M_images/OpenModelicaWorkshop_2019/Vectorized_models_for_new_digital_applications.pdf) |
+| 10.10-10.35 | Andreas Heuermann, Willi Braun, Niklas Worschech and Bernhard Bachmann | [Towards a Unified OpenModelica Simulation Interface](/images/M_images/OpenModelicaWorkshop_2019/OMSI_OpenModelicWorkshop_2019_publish.pdf) |
+| 10.35-11.05 | Coffee and Poster Session |  |
+| 11.05-11.30 | Adam Lange (Lange Turbo, USA) | [An Open Source Tool for Performing Coupled OpenModelica - FPGA Simulations](/images/M_images/OpenModelicaWorkshop_2019/coupled_fpga_sim.pdf) |
+| 11.30-11.55 | Karim Abdelhak and Bernhard Bachmann (FH Bielefeld, Germany) | [Initialisation of Models with Dynamic State-Selection](/images/M_images/OpenModelicaWorkshop_2019/Abdelhak_Model_Initialisation.pdf) |
+| 11.55-12.20 | Henk van Weers and Shubham Vyase (SRON Institute, Netherlands) | [Thermal Simulation with OpenModelica of the X-IFU Focal Plane in the Athena X-ray Space Observatory](/images/M_images/OpenModelicaWorkshop_2019/Thermal_Simulation_with_OpenModelica_for_XIFU_FPA_HvW_SRON_v1_.pdf) |
+| 12.20-13.30 | Lunch at Kårallen |  |
+
+### Session Chair: Francesco Casella
+
+| Time | Speakers | Talk |
+| --- | --- | --- |
+| 13.30-13.55 | AdrianPop, OSMCTechnicalCoordinator(LinköpingUniversity) | [Current Status and Technical Overview of OpenModelica and its Development Environment](/images/M_images/OpenModelicaWorkshop_2019/adrpo-OpenModelica.pdf) |
+| 13.55-14.20 | Atiyah Elsheikh (National Coalition of Independent Scholars, Egypt) | [Unit Testing of the GenKinetics Library with OpenModelica](/images/M_images/OpenModelicaWorkshop_2019/AtiyahElsheikh_UnitTesting.pdf) |
+| 14.20-14.45 | Per Östlund and Adrian Pop (Linköping University) | [Design of the New OpenModelica Compiler High Performance Frontend](/images/M_images/OpenModelicaWorkshop_2019/adrpo-perost-NF.pdf) |
+| 14.45-15.05 | Coffee and Poster Session |  |
+
+### Session Chair: Willi Braun
+
+| Time | Speakers | Talk |
+| --- | --- | --- |
+| 15.05-15.30 | LennartOchel and Robert Braun (Linköping University) | [OMSimulator 2.0 with FMI Model Exchange, Co-Simulation, SSP, TLM, and Applications](/images/M_images/OpenModelicaWorkshop_2019/OMW19_Ochel_OMSimulator.pdf) |
+| 15.30-15.55 | Digvijay Gusain (TU Delft, the Netherlands) | [OpenModelica for Teaching Power Systems Modeling at TU Delft](/images/M_images/OpenModelicaWorkshop_2019/OpenModelica_for_Power_Systems_at_TU_Delft.pdf) |
+| 15.55-16.20 | Konstantin Filonenko, Rema Ahmid, Henrik Midtiby, Jan Petersen, Ole Albrektsen and Christian Veje (University of Southern Denmark) | [Teaching Modelica to First Semester Engineering Students](/images/M_images/OpenModelicaWorkshop_2019/TeachingOpenModelicaTo1stSemesterEngineeringStudents.pdf) |
+| 16.20-16.50 | Panel Discussion Chairs:Lennart Ocheland Lena Buffoni | Future Directions of OpenModelica |
+| 16.50-17.00 | Break |  |
+| 17.00-18.00 | OpenSourceModelicaConsortiumAnnualStatutoryMeeting |  |
+| 19.00 | Dinner |  |
+
 <div id="_mcePaste" class="mcePaste" data-mce-bogus="1" style="position: absolute; left: 0px; top: -25px; width: 10px; height: 10px; overflow: hidden;">
-<p class="MsoBodyText" style="line-height: 160%; margin: 0cm 147pt 0.0001pt 5.75pt;"><span lang="EN-US" style="color: #621012;">Session Chair: Bernhard Bachmann</span><span lang="EN-US"></span></p>
-<p class="MsoBodyText" style="margin-top: 0cm; line-height: 10.25pt;"><span lang="EN-US" style="color: #621012;">08.30-08.40<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Lena Buffoni<span style="letter-spacing: -1.1pt;"></span>and<span style="letter-spacing: -1.05pt;"></span>Lennart Ochel<span style="letter-spacing: -1.05pt;"></span>(Linköping<span style="letter-spacing: -1.1pt;"></span>University and RISE SICSEast, Sweden)</span><span lang="EN-US"></span></p>
-<p class="MsoListParagraph" style="margin-top: 0.3pt;"><span lang="EN-US" style="font-size: 8.5pt; font-family: Symbol; color: #231f20;"><span>·<span style="font: 7pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span> </span><span lang="EN-US" style="font-size: 8.5pt; color: #231f20;">Workshop<span style="letter-spacing: -2pt;"></span>Opening</span><span lang="EN-US" style="font-size: 8.5pt;"></span></p>
-<p class="MsoBodyText"><span lang="EN-US" style="color: #621012;">08.40-09.00<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Peter<span style="letter-spacing: -1pt;"></span>Fritzson,<span style="letter-spacing: -1pt;"></span>Director<span style="letter-spacing: -1pt;"></span>of<span style="letter-spacing: -0.95pt;"></span>OSMC<span style="letter-spacing: 1.2pt;"></span>(Linköping<span style="letter-spacing: -1pt;"></span>University, Sweden)</span><span lang="EN-US"></span></p>
-<p class="MsoListParagraph"><span lang="EN-US" style="font-size: 8.5pt; font-family: Symbol; color: #231f20;"><span>·<span style="font: 7pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span> </span><span lang="EN-US" style="font-size: 8.5pt; color: #231f20;">Status<span style="letter-spacing: -1.05pt;"></span>and<span style="letter-spacing: -1pt;"></span>Directions<span style="letter-spacing: -1.05pt;"></span>of<span style="letter-spacing: -1.05pt;"></span>OpenModelica</span><span lang="EN-US" style="font-size: 8.5pt;"></span></p>
-<p class="MsoBodyText"><span lang="EN-US" style="color: #621012;">09.00-09.45<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Francesco<span style="letter-spacing: -1pt;"></span>Casella,<span style="letter-spacing: -0.95pt;"></span>Vice<span style="letter-spacing: -0.95pt;"></span>Director<span style="letter-spacing: -1pt;"></span>of<span style="letter-spacing: -0.85pt;"></span>OSMC<span style="letter-spacing: -1pt;"></span>(Politecnico<span style="letter-spacing: -1pt;"></span>di<span style="letter-spacing: -0.9pt;"></span>Milano, Italy)</span><span lang="EN-US"></span></p>
-<p class="MsoListParagraph" style="text-indent: -13.8pt;"><span lang="EN-US" style="font-size: 8.5pt; font-family: Symbol; color: #231f20;"><span>·<span style="font: 7pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span> </span><span lang="EN-US" style="font-size: 8.5pt; color: #231f20;">The OpenModelica New Front-End: a Quantum Leap from a User's Perspective</span><span lang="EN-US" style="font-size: 8.5pt;"></span></p>
-<p class="MsoBodyText" style="margin-top: 6.15pt;"><span lang="EN-US" style="color: #621012;">09.45-10.10<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Rüdiger Franke, Chairman of OSMC (ABB AG, Germany)</span><span lang="EN-US"></span></p>
-<p class="MsoListParagraph" style="text-indent: -13.8pt;"><span lang="EN-US" style="font-size: 8.5pt; font-family: Symbol; color: #231f20;"><span>·<span style="font: 7pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span> </span><span lang="EN-US" style="font-size: 8.5pt; color: #231f20;">Vectorized Models for New Digital Applications</span><span lang="EN-US" style="font-size: 8.5pt;"></span></p>
-<p class="MsoBodyText"><span lang="EN-US" style="color: #621012;">10.10-10.35<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Andreas Heuermann, Willi Braun, Niklas Worschech and Bernhard Bachmann</span><span lang="EN-US"></span></p>
-<p class="MsoListParagraph" style="text-indent: -13.8pt;"><span lang="EN-US" style="font-size: 8.5pt; font-family: Symbol; color: #231f20;"><span>·<span style="font: 7pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span> </span><span lang="EN-US" style="font-size: 8.5pt; color: #231f20;">Towards a Unified OpenModelica Simulation Interface</span><span lang="EN-US" style="font-size: 8.5pt;"><br /></span></p>
+
+Session Chair: Bernhard Bachmann
+
+08.30-08.40 Lena BuffoniandLennart Ochel(LinköpingUniversity and RISE SICSEast, Sweden)
+
+· WorkshopOpening
+
+08.40-09.00 PeterFritzson,DirectorofOSMC(LinköpingUniversity, Sweden)
+
+· StatusandDirectionsofOpenModelica
+
+09.00-09.45 FrancescoCasella,ViceDirectorofOSMC(PolitecnicodiMilano, Italy)
+
+· The OpenModelica New Front-End: a Quantum Leap from a User\'s Perspective
+
+09.45-10.10 Rüdiger Franke, Chairman of OSMC (ABB AG, Germany)
+
+· Vectorized Models for New Digital Applications
+
+10.10-10.35 Andreas Heuermann, Willi Braun, Niklas Worschech and Bernhard Bachmann
+
+· Towards a Unified OpenModelica Simulation Interface
+
 </div>
+
 <div id="_mcePaste" class="mcePaste" data-mce-bogus="1" style="position: absolute; left: 0px; top: -25px; width: 10px; height: 10px; overflow: hidden;">
-<p class="MsoBodyText" style="margin-top: 0cm; line-height: 10.25pt;"><span lang="EN-US" style="color: #621012;">08.30-08.40<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Lena Buffoni<span style="letter-spacing: -1.1pt;"></span>and<span style="letter-spacing: -1.05pt;"></span>Lennart Ochel<span style="letter-spacing: -1.05pt;"></span>(Linköping<span style="letter-spacing: -1.1pt;"></span>University and RISE SICSEast, Sweden)</span><span lang="EN-US"></span></p>
-<p class="MsoListParagraph" style="margin-top: 0.3pt;"><span lang="EN-US" style="font-size: 8.5pt; font-family: Symbol; color: #231f20;"><span>·<span style="font: 7pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span> </span><span lang="EN-US" style="font-size: 8.5pt; color: #231f20;">Workshop<span style="letter-spacing: -2pt;"></span>Opening</span><span lang="EN-US" style="font-size: 8.5pt;"></span></p>
-<p class="MsoBodyText"><span lang="EN-US" style="color: #621012;">08.40-09.00<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Peter<span style="letter-spacing: -1pt;"></span>Fritzson,<span style="letter-spacing: -1pt;"></span>Director<span style="letter-spacing: -1pt;"></span>of<span style="letter-spacing: -0.95pt;"></span>OSMC<span style="letter-spacing: 1.2pt;"></span>(Linköping<span style="letter-spacing: -1pt;"></span>University, Sweden)</span><span lang="EN-US"></span></p>
-<p class="MsoListParagraph"><span lang="EN-US" style="font-size: 8.5pt; font-family: Symbol; color: #231f20;"><span>·<span style="font: 7pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span> </span><span lang="EN-US" style="font-size: 8.5pt; color: #231f20;">Status<span style="letter-spacing: -1.05pt;"></span>and<span style="letter-spacing: -1pt;"></span>Directions<span style="letter-spacing: -1.05pt;"></span>of<span style="letter-spacing: -1.05pt;"></span>OpenModelica</span><span lang="EN-US" style="font-size: 8.5pt;"></span></p>
-<p class="MsoBodyText"><span lang="EN-US" style="color: #621012;">09.00-09.45<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Francesco<span style="letter-spacing: -1pt;"></span>Casella,<span style="letter-spacing: -0.95pt;"></span>Vice<span style="letter-spacing: -0.95pt;"></span>Director<span style="letter-spacing: -1pt;"></span>of<span style="letter-spacing: -0.85pt;"></span>OSMC<span style="letter-spacing: -1pt;"></span>(Politecnico<span style="letter-spacing: -1pt;"></span>di<span style="letter-spacing: -0.9pt;"></span>Milano, Italy)</span><span lang="EN-US"></span></p>
-<p class="MsoListParagraph" style="text-indent: -13.8pt;"><span lang="EN-US" style="font-size: 8.5pt; font-family: Symbol; color: #231f20;"><span>·<span style="font: 7pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span> </span><span lang="EN-US" style="font-size: 8.5pt; color: #231f20;">The OpenModelica New Front-End: a Quantum Leap from a User's Perspective</span><span lang="EN-US" style="font-size: 8.5pt;"></span></p>
-<p class="MsoBodyText" style="margin-top: 6.15pt;"><span lang="EN-US" style="color: #621012;">09.45-10.10<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Rüdiger Franke, Chairman of OSMC (ABB AG, Germany)</span><span lang="EN-US"></span></p>
-<p class="MsoListParagraph" style="text-indent: -13.8pt;"><span lang="EN-US" style="font-size: 8.5pt; font-family: Symbol; color: #231f20;"><span>·<span style="font: 7pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span> </span><span lang="EN-US" style="font-size: 8.5pt; color: #231f20;">Vectorized Models for New Digital Applications</span><span lang="EN-US" style="font-size: 8.5pt;"></span></p>
-<p class="MsoBodyText"><span lang="EN-US" style="color: #621012;">10.10-10.35<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Andreas Heuermann, Willi Braun, Niklas Worschech and Bernhard Bachmann</span><span lang="EN-US"></span></p>
-<p class="MsoListParagraph" style="text-indent: -13.8pt;"><span lang="EN-US" style="font-size: 8.5pt; font-family: Symbol; color: #231f20;"><span>·<span style="font: 7pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span> </span><span lang="EN-US" style="font-size: 8.5pt; color: #231f20;">Towards a Unified OpenModelica Simulation Interface</span><span lang="EN-US" style="font-size: 8.5pt;"></span></p>
+
+08.30-08.40 Lena BuffoniandLennart Ochel(LinköpingUniversity and RISE SICSEast, Sweden)
+
+· WorkshopOpening
+
+08.40-09.00 PeterFritzson,DirectorofOSMC(LinköpingUniversity, Sweden)
+
+· StatusandDirectionsofOpenModelica
+
+09.00-09.45 FrancescoCasella,ViceDirectorofOSMC(PolitecnicodiMilano, Italy)
+
+· The OpenModelica New Front-End: a Quantum Leap from a User\'s Perspective
+
+09.45-10.10 Rüdiger Franke, Chairman of OSMC (ABB AG, Germany)
+
+· Vectorized Models for New Digital Applications
+
+10.10-10.35 Andreas Heuermann, Willi Braun, Niklas Worschech and Bernhard Bachmann
+
+· Towards a Unified OpenModelica Simulation Interface
+
 </div>
