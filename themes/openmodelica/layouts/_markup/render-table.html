@@ -1,0 +1,23 @@
+{{- /* Markdown tables get the class "table", like the HTML tables in the pages,
+    so that table.table in the stylesheet styles both. */
+-}}
+<table class="table">
+    <thead>
+        {{- range .THead }}
+            <tr>
+                {{- range . }}
+                    <th style="text-align: {{ .Alignment | default "left" }}">{{- .Text -}}</th>
+                {{- end }}
+            </tr>
+        {{- end }}
+    </thead>
+    <tbody>
+        {{- range .TBody }}
+            <tr>
+                {{- range . }}
+                    <td style="text-align: {{ .Alignment | default "left" }}">{{- .Text -}}</td>
+                {{- end }}
+            </tr>
+        {{- end }}
+    </tbody>
+</table>
