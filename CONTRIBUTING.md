@@ -1,4 +1,4 @@
-# Contributing to www.openmodelica.org
+# Contributing to `www.openmodelica.org`
 
 The website is built with [Hugo](https://gohugo.io/) from the Markdown files in `content/`.
 The theme in `themes/openmodelica/` sets the look of all pages.

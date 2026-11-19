@@ -1,4 +1,4 @@
-# www.openmodelica.org
+# `www.openmodelica.org`
 
 In order to test the webpage locally:
 
