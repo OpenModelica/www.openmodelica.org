@@ -602,6 +602,11 @@ blockquote.alert-caution {
     align-items: flex-start;
     margin-bottom: 12pt;
 }
+/* the thumbnail (or its link) keeps its width next to long text */
+.tool > a,
+.tool > img {
+    flex: none;
+}
 .tool img {
     display: block;
     width: 120px;
