@@ -9,6 +9,8 @@ hugo serve
 This prints the URL at which you can preview the webpage (minus some files that are only on the server and not in Git).
 When files are modified, there is a JavaScript that will reload the browser window.
 
+See [CONTRIBUTING.md](CONTRIBUTING.md) for how to write pages.
+
 To create a new page:
 
 ```bash
