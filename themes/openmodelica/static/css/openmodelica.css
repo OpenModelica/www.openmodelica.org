@@ -6,10 +6,10 @@ html {
     display: block;
 }
 body {
-	background: #eeeeee;
-	color: #000000;
-	word-wrap:break-word !important;
-	font-family: 'Open Sans', sans-serif;
+    background: #eeeeee;
+    color: #000000;
+    word-wrap: break-word !important;
+    font-family: "Open Sans", sans-serif;
     margin: 0;
     font-size: 10pt;
     /* Keep the footer at the bottom of the window on short pages */
@@ -21,7 +21,10 @@ body {
     flex: 1 0 auto;
 }
 
-h1, h2, h3, h4 {
+h1,
+h2,
+h3,
+h4 {
     margin-block-start: 0.5em;
     margin-block-end: 0.5em;
 }
@@ -34,38 +37,49 @@ h2 {
 h3 {
     font-size: 13pt; /* default is 1.17em=14pt */
 }
-a:link { text-decoration: none; }
-a:visited { text-decoration: none; }
-a:hover { text-decoration: underline; }
-a:active { text-decoration: none; }
-a, a:visited {
-    color: #1B57B1;
+a:link {
+    text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+a:active {
+    text-decoration: none;
+}
+a,
+a:visited {
+    color: #1b57b1;
 }
 
-a.button, a.button:visited {
+a.button,
+a.button:visited {
     display: inline-flex;
     align-items: center;
     gap: 10pt;
     padding: 7pt 16pt;
-    border: 2px solid #1B57B1;
+    border: 2px solid #1b57b1;
     border-radius: 6px;
-    background-color: #1B57B1;
-    color: #FFFFFF;
+    background-color: #1b57b1;
+    color: #ffffff;
     font-size: 13pt;
     font-weight: bold;
     line-height: 1.2;
 }
 a.button:hover {
-    border-color: #123D7D;
-    background-color: #123D7D;
+    border-color: #123d7d;
+    background-color: #123d7d;
     text-decoration: none;
 }
-a.button.secondary, a.button.secondary:visited {
-    background-color: #FFFFFF;
-    color: #1B57B1;
+a.button.secondary,
+a.button.secondary:visited {
+    background-color: #ffffff;
+    color: #1b57b1;
 }
 a.button.secondary:hover {
-    background-color: #E8EFFA;
+    background-color: #e8effa;
 }
 a.button.big {
     padding: 10pt 22pt;
@@ -125,20 +139,21 @@ a.button small {
     box-sizing: border-box;
     height: 100%;
     padding: 0 10pt 0 14pt;
-    border: 2px solid #1B57B1;
+    border: 2px solid #1b57b1;
     border-right: 1px solid rgba(255, 255, 255, 0.4);
     border-radius: 6px 0 0 6px;
-    background-color: #1B57B1;
-    color: #FFFFFF;
+    background-color: #1b57b1;
+    color: #ffffff;
     list-style: none;
     cursor: pointer;
 }
 .os-toggle::-webkit-details-marker {
     display: none;
 }
-.os-toggle:hover, .os-menu[open] .os-toggle {
-    border-color: #123D7D;
-    background-color: #123D7D;
+.os-toggle:hover,
+.os-menu[open] .os-toggle {
+    border-color: #123d7d;
+    background-color: #123d7d;
 }
 .caret {
     border-top: 5pt solid currentColor;
@@ -153,13 +168,14 @@ a.button small {
     min-width: 170pt;
     margin: 0;
     padding: 4pt 0;
-    border: 1px solid #DDDDDD;
+    border: 1px solid #dddddd;
     border-radius: 6px;
-    background-color: #FFFFFF;
+    background-color: #ffffff;
     box-shadow: 0 4px 14px rgba(0, 0, 0, 0.15);
     list-style: none;
 }
-.os-menu ul a, .os-menu ul a:visited {
+.os-menu ul a,
+.os-menu ul a:visited {
     display: flex;
     align-items: center;
     gap: 8pt;
@@ -168,7 +184,7 @@ a.button small {
     font-size: 11pt;
 }
 .os-menu ul a:hover {
-    background-color: #E8EFFA;
+    background-color: #e8effa;
     text-decoration: none;
 }
 .os-menu ul .os-icon {
@@ -177,7 +193,7 @@ a.button small {
 }
 
 #nav-container {
-	margin: 0 auto;
+    margin: 0 auto;
     width: 100%;
     text-align: left;
 }
@@ -185,66 +201,66 @@ a.button small {
 #nav-container nav {
     display: block;
     margin: auto;
-	background-color: #333333;
+    background-color: #333333;
 }
 
 #nav-container nav ul {
-	padding: 0;
+    padding: 0;
     margin: 0;
-	list-style: none;
-	position: relative;
+    list-style: none;
+    position: relative;
 }
-	
+
 #nav-container nav ul li {
-	display:inline-block;
-	background-color: #333333;
+    display: inline-block;
+    background-color: #333333;
     text-align: left;
     z-index: 100;
 }
 
 #nav-container nav a {
-	display:block;
-	padding:0 8pt;	
-	color:#FFF;
-	font-size:15pt;
-	line-height: 30pt;
-	text-decoration:none;
+    display: block;
+    padding: 0 8pt;
+    color: #fff;
+    font-size: 15pt;
+    line-height: 30pt;
+    text-decoration: none;
 }
 
-#nav-container nav a:visited { 
-    color:#FFF;
+#nav-container nav a:visited {
+    color: #fff;
 }
 
-#nav-container nav a:hover { 
-	background-color: #000000; 
+#nav-container nav a:hover {
+    background-color: #000000;
 }
 
 /* Hide Dropdowns by Default */
 #nav-container nav ul ul {
-	display: none;
-	position: absolute; 
-	top: 30pt; /* the height of the main nav */
+    display: none;
+    position: absolute;
+    top: 30pt; /* the height of the main nav */
 }
-	
+
 /* Display Dropdowns on Hover */
 #nav-container nav ul li:hover > ul {
-	display:inherit;
+    display: inherit;
 }
-	
+
 /* First Tier Dropdown */
 #nav-container nav ul ul li {
-	width:280pt;
-	float:none;
-	display:list-item;
-	position: relative;
+    width: 280pt;
+    float: none;
+    display: list-item;
+    position: relative;
 }
 
 /* Second, Third and more Tiers	*/
 #nav-container nav ul ul ul li {
-	position: relative;
-    width:160pt;
-	top:-30pt; 
-	left:-160pt;
+    position: relative;
+    width: 160pt;
+    top: -30pt;
+    left: -160pt;
 }
 
 .toc-sidebar {
@@ -262,7 +278,7 @@ a.button small {
     padding: 0;
     margin: 0;
     margin-left: 5pt;
-	list-style: none;
+    list-style: none;
     position: relative;
     font-size: 12pt;
 }
@@ -277,10 +293,13 @@ a.button small {
     font-size: 8pt;
 }
 
-	
 /* Change this in order to change the Dropdown symbol */
-li > a:after { content:  ''; }
-li > a:only-child:after { content: ''; }
+li > a:after {
+    content: "";
+}
+li > a:only-child:after {
+    content: "";
+}
 
 #ja-header {
     background-image: url("/images/ice-cooling.jpg");
@@ -288,7 +307,7 @@ li > a:only-child:after { content: ''; }
     background-position: center center;
 }
 #om-logo img {
-    display:inline-block;
+    display: inline-block;
     height: 50pt;
 }
 
@@ -319,34 +338,34 @@ figure figcaption {
 }
 
 .rss-image {
-  height: 1em;
-  width: 1em;
+    height: 1em;
+    width: 1em;
 }
 
 .publishDate {
     font-size: 8pt;
 }
 
-section[role=doc-endnotes] {
+section[role="doc-endnotes"] {
     counter-reset: item;
     padding: 0;
     font-size: 10pt;
-    list-style:none;
+    list-style: none;
 }
 
-li[role=doc-endnote]:before {
+li[role="doc-endnote"]:before {
     content: counter(item) "";
     counter-increment: item;
     position: absolute;
-    vertical-align:super;
+    vertical-align: super;
     font-size: 7pt;
     left: 1em;
 }
 
-li[role=doc-endnote] {
+li[role="doc-endnote"] {
     position: relative;
     display: block;
-    padding: .0em .0em .0em 1.5em;
+    padding: 0em 0em 0em 1.5em;
 }
 
 .clearfix::after {
@@ -359,7 +378,7 @@ li[role=doc-endnote] {
     margin: auto;
     text-align: center;
     border: 1px dotted black;
-    width:25em;
+    width: 25em;
     margin-bottom: 5pt;
     padding: 3pt;
 }
@@ -385,9 +404,9 @@ li[role=doc-endnote] {
     align-items: center;
     margin-bottom: 14pt;
     padding: 16pt 24pt;
-    border: 1px solid #DDDDDD;
+    border: 1px solid #dddddd;
     border-radius: 8px;
-    background-color: #FFFFFF;
+    background-color: #ffffff;
 }
 .hero h1 {
     margin: 0 0 6pt;
@@ -418,9 +437,9 @@ li[role=doc-endnote] {
 }
 .card {
     padding: 10pt 14pt;
-    border: 1px solid #DDDDDD;
+    border: 1px solid #dddddd;
     border-radius: 8px;
-    background-color: #FFFFFF;
+    background-color: #ffffff;
     font-size: 10pt;
     line-height: 1.45;
 }
@@ -499,7 +518,7 @@ dl {
     width: 100%;
     overflow: hidden;
     padding: 0;
-    margin: 0
+    margin: 0;
 }
 dt {
     float: left;
@@ -540,70 +559,72 @@ th.headerSort {
 }
 
 @media screen and (max-width: 1100px) {
-  .hero {
-    grid-template-columns: minmax(0, 1fr);
-  }
-  .hero-image {
-    display: none;
-  }
-  .cards, .videos {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
-  .cards .news {
-    grid-column: 1 / -1;
-    grid-row: auto;
-    contain: none;
-  }
-  .news ul {
-    -webkit-mask-image: none;
-    mask-image: none;
-  }
-  .news li:nth-child(n+9) {
-    display: none;
-  }
+    .hero {
+        grid-template-columns: minmax(0, 1fr);
+    }
+    .hero-image {
+        display: none;
+    }
+    .cards,
+    .videos {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+    .cards .news {
+        grid-column: 1 / -1;
+        grid-row: auto;
+        contain: none;
+    }
+    .news ul {
+        -webkit-mask-image: none;
+        mask-image: none;
+    }
+    .news li:nth-child(n + 9) {
+        display: none;
+    }
 }
 
 @media screen and (max-width: 800px) {
-  .space-left {
-    padding-left: 0;
-  }
-  .frontpage {
-    padding-right: 0;
-  }
-  .hero {
-    padding: 14pt;
-  }
-  .hero h1 {
-    font-size: 18pt;
-  }
-  .hero-buttons > * {
-    flex: 1 1 100%;
-  }
-  .download-split a.button {
-    flex: 1;
-  }
-  .cards, .videos {
-    grid-template-columns: minmax(0, 1fr);
-  }
-  #om-logo img {
-    height: 20pt;
-  }
-  nav a {
-    font-size:12pt;
-	line-height: 18pt;
-  }
-  nav ul ul {
-	top: 18pt;
-  }
-  nav ul ul li {
-	width:200pt;
-  }
-  nav ul ul ul li {
-    width:130pt;
-	top:-18pt; 
-	left:-130pt;
-  }
-  #ja-header {
-    background-image: none;
-  }
+    .space-left {
+        padding-left: 0;
+    }
+    .frontpage {
+        padding-right: 0;
+    }
+    .hero {
+        padding: 14pt;
+    }
+    .hero h1 {
+        font-size: 18pt;
+    }
+    .hero-buttons > * {
+        flex: 1 1 100%;
+    }
+    .download-split a.button {
+        flex: 1;
+    }
+    .cards,
+    .videos {
+        grid-template-columns: minmax(0, 1fr);
+    }
+    #om-logo img {
+        height: 20pt;
+    }
+    nav a {
+        font-size: 12pt;
+        line-height: 18pt;
+    }
+    nav ul ul {
+        top: 18pt;
+    }
+    nav ul ul li {
+        width: 200pt;
+    }
+    nav ul ul ul li {
+        width: 130pt;
+        top: -18pt;
+        left: -130pt;
+    }
+    #ja-header {
+        background-image: none;
+    }
 }

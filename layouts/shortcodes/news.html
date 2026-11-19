@@ -1,9 +1,22 @@
 <div class="card news">
-<h2>Latest news and events <a href="/tags/news/index.xml"><img class="rss-image" alt="RSS feed" src="/images/rss.svg" /></a></h2>
-<ul>
-{{- range first (.Get "count" | default 10) (where site.Taxonomies.tags.news ".Params.rss_ignore" "!=" true) }}
-  <li><span class="news-date">{{ .Page.Date.Format "2006-01-02" }}{{ with .Params.conference_end_date }}–{{ dateFormat "2006-01-02" . }}{{ end }}</span>
-    <a href="{{ with .Params.external_url }}{{ . }}{{ else }}{{ .Page.RelPermalink }}{{ end }}">{{ .Page.Title }}</a></li>
-{{- end }}
-</ul>
+    <h2>
+        Latest news and events
+        <a href="/tags/news/index.xml"
+            ><img class="rss-image" alt="RSS feed" src="/images/rss.svg"
+        /></a>
+    </h2>
+    <ul>
+        {{- range first (.Get "count" | default 10) (where site.Taxonomies.tags.news ".Params.rss_ignore" "!=" true) }}
+            <li>
+                <span class="news-date"
+                    >{{ .Page.Date.Format "2006-01-02" }}{{ with .Params.conference_end_date }}
+                        –{{ dateFormat "2006-01-02" . }}
+                    {{ end }}</span
+                >
+                <a href="{{ .Params.external_url | default .Page.RelPermalink }}"
+                    >{{ .Page.Title }}</a
+                >
+            </li>
+        {{- end }}
+    </ul>
 </div>

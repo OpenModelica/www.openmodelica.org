@@ -1,0 +1,11 @@
+# Only the Hugo templates and the theme stylesheets are formatted.
+# Page content is exported from Joomla and kept as it is.
+/content/
+/include/
+/static/
+/public/
+/resources/
+/archetypes/
+/themes/openmodelica/static/js/
+*.md
+*.json
