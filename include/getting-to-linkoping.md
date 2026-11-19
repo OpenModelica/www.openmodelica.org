@@ -14,7 +14,8 @@ Linköping University is located about 3 kilometers from the city center.
   \
   Daily flights from München, operated by BMI/Star Alliance.
   \
-  Regular buses to Norrköping city. Continue to Linköping by bus or train.
+  Regular buses to Norrköping city.
+  Continue to Linköping by bus or train.
   \
   Or take a taxi to Linköping (about 1 hour).
 * [Stockholm/Skavsta](https://www.skavsta.se/en/) Airport + bus to Linköping
