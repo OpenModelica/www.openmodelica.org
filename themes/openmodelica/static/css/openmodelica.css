@@ -1,3 +1,45 @@
+/* Open Sans variable font (weights 300-800), served from /fonts so that no
+   request goes to Google. Files from @fontsource-variable/open-sans 5.2.5,
+   SIL Open Font License 1.1, see /fonts/OFL.txt. */
+@font-face {
+    font-family: "Open Sans";
+    font-style: normal;
+    font-display: swap;
+    font-weight: 300 800;
+    src: url(/fonts/open-sans-latin-wght-normal.woff2) format("woff2");
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304,
+        U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+    font-family: "Open Sans";
+    font-style: italic;
+    font-display: swap;
+    font-weight: 300 800;
+    src: url(/fonts/open-sans-latin-wght-italic.woff2) format("woff2");
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304,
+        U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+    font-family: "Open Sans";
+    font-style: normal;
+    font-display: swap;
+    font-weight: 300 800;
+    src: url(/fonts/open-sans-latin-ext-wght-normal.woff2) format("woff2");
+    unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308,
+        U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113,
+        U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+    font-family: "Open Sans";
+    font-style: italic;
+    font-display: swap;
+    font-weight: 300 800;
+    src: url(/fonts/open-sans-latin-ext-wght-italic.woff2) format("woff2");
+    unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308,
+        U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113,
+        U+2C60-2C7F, U+A720-A7FF;
+}
+
 html {
     margin: 0;
     padding: 0;
@@ -9,9 +51,10 @@ body {
     background: #eeeeee;
     color: #000000;
     word-wrap: break-word !important;
-    font-family: "Open Sans", sans-serif;
+    font-family: "Open Sans", Arial, sans-serif;
     margin: 0;
-    font-size: 10pt;
+    font-size: 11pt;
+    line-height: 1.5;
     /* Keep the footer at the bottom of the window on short pages */
     display: flex;
     flex-direction: column;
@@ -27,15 +70,19 @@ h3,
 h4 {
     margin-block-start: 0.5em;
     margin-block-end: 0.5em;
+    line-height: 1.25;
 }
 h1 {
-    font-size: 21pt; /* default is 2em=24pt */
+    font-size: 20pt;
 }
 h2 {
-    font-size: 17pt; /* default is 1.5em=18pt */
+    font-size: 15pt;
 }
 h3 {
-    font-size: 13pt; /* default is 1.17em=14pt */
+    font-size: 12.5pt;
+}
+h4 {
+    font-size: 11pt;
 }
 a:link {
     text-decoration: none;
@@ -280,7 +327,7 @@ a.button small {
     margin-left: 5pt;
     list-style: none;
     position: relative;
-    font-size: 12pt;
+    font-size: 11pt;
 }
 
 .toc-sidebar ul ul {
@@ -290,7 +337,7 @@ a.button small {
 
 .toc-sidebar ul ul ul {
     margin-left: 20pt;
-    font-size: 8pt;
+    font-size: 9pt;
 }
 
 /* Change this in order to change the Dropdown symbol */
@@ -343,7 +390,7 @@ figure figcaption {
 }
 
 .publishDate {
-    font-size: 8pt;
+    font-size: 9pt;
 }
 
 section[role="doc-endnotes"] {
@@ -358,7 +405,7 @@ li[role="doc-endnote"]:before {
     counter-increment: item;
     position: absolute;
     vertical-align: super;
-    font-size: 7pt;
+    font-size: 8pt;
     left: 1em;
 }
 
@@ -389,12 +436,11 @@ li[role="doc-endnote"] {
 }
 .frontpage > h2 {
     margin: 16pt 0 8pt;
-    font-size: 15pt;
 }
 .fineprint {
     margin-top: 16pt;
     color: #666666;
-    font-size: 8.5pt;
+    font-size: 9pt;
 }
 
 .hero {
@@ -410,12 +456,9 @@ li[role="doc-endnote"] {
 }
 .hero h1 {
     margin: 0 0 6pt;
-    font-size: 20pt;
-    line-height: 1.2;
 }
 .hero-text p {
-    font-size: 11.5pt;
-    line-height: 1.55;
+    font-size: 12pt;
 }
 .hero-buttons {
     display: flex;
@@ -440,12 +483,10 @@ li[role="doc-endnote"] {
     border: 1px solid #dddddd;
     border-radius: 8px;
     background-color: #ffffff;
-    font-size: 10pt;
-    line-height: 1.45;
 }
 .card h2 {
     margin: 0 0 4pt;
-    font-size: 12.5pt;
+    font-size: 12.5pt; /* the size of an h3 */
 }
 .card p {
     margin: 0 0 4pt;
@@ -481,8 +522,8 @@ li[role="doc-endnote"] {
 .news-date {
     flex: none;
     color: #666666;
-    font-size: 8.5pt;
-    line-height: 14.5pt;
+    font-size: 9pt;
+    line-height: inherit;
 }
 
 .videos {
