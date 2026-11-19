@@ -590,6 +590,22 @@ blockquote.alert-caution {
     background-color: #fdecea;
 }
 
+/* Tools with a thumbnail next to their description, see layouts/shortcodes/tool.html */
+.tool {
+    display: flex;
+    gap: 16pt;
+    align-items: flex-start;
+    margin-bottom: 12pt;
+}
+.tool img {
+    display: block;
+    width: 120px;
+    height: auto;
+}
+.tool-text > :first-child {
+    margin-top: 0;
+}
+
 dl {
     width: 100%;
     overflow: hidden;
