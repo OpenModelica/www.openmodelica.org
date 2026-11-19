@@ -2,21 +2,21 @@
 title: "Developer Documentation"
 ---
 
-* <a href="/documents/">OpenModelica Eclipse Developement Tool, setup and workspace</a>
-* <a href="https://github.com/OpenModelica/OpenModelica/blob/master/doc/OpenModelicaSystem.pdf">System Documentation</a>
-* <a href="https://github.com/OpenModelica/OpenModelica/blob/master/doc/OpenModelicaMetaProgramming.pdf">MetaModelica Users Guide</a>
-* <a href="https://build.openmodelica.org/Documentation/MetaModelica.html">MetaModelica language extension APIs</a>
-* <a href="https://www.openmodelica.org/doc/OpenModelicaUsersGuide/latest/scripting_api.html">OpenModelica Scripting APIs documentation</a>
-* <a href="https://build.openmodelica.org/Documentation/">Modelica functions documentation and implementation</a>
-* <a href="https://github.com/OpenModelica/OpenModelica/blob/master/doc/OpenModelicaTemplateProgramming.pdf">OpenModelica Template Programming</a>
-* <a href="https://trac.openmodelica.org/OpenModelica/wiki/WritingCompliantLibraries">Writing compliant libraries</a>
-* <a href="https://libraries.openmodelica.org/branches/">OpenModelica library testing current status</a>
-* <a href="https://github.com/OpenModelica/OpenModelica/tree/master/OMEdit/OMEditLIB/Resources/nls">OMEdit localizations, e.g. menus in different languages</a>
-* <a href="https://trac.openmodelica.org/OpenModelica/wiki/WritingEfficientMetaModelica">Writing efficient MetaModelica</a>
+* [OpenModelica Eclipse Developement Tool, setup and workspace](/documents/)
+* [System Documentation](https://github.com/OpenModelica/OpenModelica/blob/master/doc/OpenModelicaSystem.pdf)
+* [MetaModelica Users Guide](https://github.com/OpenModelica/OpenModelica/blob/master/doc/OpenModelicaMetaProgramming.pdf)
+* [MetaModelica language extension APIs](https://build.openmodelica.org/Documentation/MetaModelica.html)
+* [OpenModelica Scripting APIs documentation](https://www.openmodelica.org/doc/OpenModelicaUsersGuide/latest/scripting_api.html)
+* [Modelica functions documentation and implementation](https://build.openmodelica.org/Documentation/)
+* [OpenModelica Template Programming](https://github.com/OpenModelica/OpenModelica/blob/master/doc/OpenModelicaTemplateProgramming.pdf)
+* [Writing compliant libraries](https://trac.openmodelica.org/OpenModelica/wiki/WritingCompliantLibraries)
+* [OpenModelica library testing current status](https://libraries.openmodelica.org/branches/)
+* [OMEdit localizations, e.g. menus in different languages](https://github.com/OpenModelica/OpenModelica/tree/master/OMEdit/OMEditLIB/Resources/nls)
+* [Writing efficient MetaModelica](https://trac.openmodelica.org/OpenModelica/wiki/WritingEfficientMetaModelica)
 
-Courses on MetaModelica are available <a href="/developersresources/courses">here</a>
+Courses on MetaModelica are available [here](/developersresources/courses)
 
-OpenModelica is constantly evolving, especially from the developers point of view, developers are suggested to ask any question on <a href="https://github.com/OpenModelica/OpenModelica">GitHub</a>.
+OpenModelica is constantly evolving, especially from the developers point of view, developers are suggested to ask any question on [GitHub](https://github.com/OpenModelica/OpenModelica).
 
 ## Operating systems we support
 
