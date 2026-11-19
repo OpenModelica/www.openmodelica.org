@@ -19,11 +19,14 @@ Note that you can customize docker images to your own liking, either basing them
 
 The graphical clients need X forwarding enabled, which works differently for each OS (see below).
 Once the instructions below have been followed: from the terminal you can run the alias
+
 ```zsh
 docker-om
 ```
+
 without arguments, which gives you a Linux terminal.
 You can start `OMEdit` from that terminal or run if you prefer, you can launch `OMEdit` directly using:
+
 ```zsh
 docker-om OMEdit
 ```
@@ -32,7 +35,8 @@ docker-om OMEdit
 
 Pre-requisities:
 
-* [XQuartz](https://www.xquartz.org/) needs to be installed and running. Network connections need to be allowed in the settings.
+* [XQuartz](https://www.xquartz.org/) needs to be installed and running.
+  Network connections need to be allowed in the settings.
 * [Docker Desktop](https://docs.docker.com/desktop/install/mac-install/) needs to be installed and running.
 
 The following code when executed will add an alias to make launching OpenModelica easier.
@@ -47,7 +51,8 @@ What it does is create a command `docker-om` which will run a the given docker c
 
 Install either [Docker Desktop](https://docs.docker.com/desktop/install/linux-install/) or the docker client that comes with your Linux distribution.
 
-The following code when executed will add an alias to make launching OpenModelica easier. The alias will be activated after the next login.
+The following code when executed will add an alias to make launching OpenModelica easier.
+The alias will be activated after the next login.
 
 ```zsh
 echo $'alias docker-om=\'docker run -it --rm -v "$HOME:$HOME" -e "HOME=$HOME" -w "$PWD" -e "DISPLAY=$DISPLAY" --user $UID openmodelica/openmodelica:v{{< param "current_version.release" >}}-gui\'' >> "$HOME/.profile"
