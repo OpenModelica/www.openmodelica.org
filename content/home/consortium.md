@@ -2,391 +2,423 @@
 title: "Open Source Modelica Consortium"
 weight: 1
 ---
-<address>
-<p><a href="/home/consortium"><img src="/images/stories/modelica/consortium.jpg" alt="Consortium" width="136" height="71" border="0" align="left" /></a></p>
-</address><address>We invite all interested to participate in the work and join the consortium!</address>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<h3><a name="purpose"></a>Purpose of the Consortium</h3>
-<p>OSMC is a non-profit, non-governmental organization and research institute in the area of cyber-physical systems, with the aim of developing and promoting the development and usage of the OpenModelica open source implementation of the Modelica computer language (also named Modelica modeling language), and related standards including <a href="https://fmi-standard.org/">FMI</a>, <a href="https://ssp-standard.org">SSP</a>, <a href="https://dcp-standard.org/">DCP</a>, as well as OpenModelica associated <a href="/openmodelicaworld/tools">open-source tools and libraries</a>, collectively named the OpenModelica Environment, in the following referred to as OpenModelica.&nbsp;</p>
-<p style="text-align: justify;">OpenModelica is available for commercial and non-commercial usage under the <a href="https://www.gnu.org/licenses/agpl-3.0.html">AGPLv3</a> licences and under the conditions of the OSMC Public License, as defined in the <a href="/images/docs/OpenSourceModelicaConsortium-bylaws-260610-v29.pdf">OSMC Bylaws</a> and <a href="/images/docs/OpenSourceModelicaConsortium-bylaws-260610-v29-signed.pdf">OSMC Bylaws(signed)</a>. It is the aim of OSMC, within the imitations of its available resources, to provide support and maintenance of OpenModelica, to support to publication on the web, and to coordinate contributions to OpenModelica.&nbsp;</p>
-<p>It is intended for OMSC to have good cooperation with <a href="https://www.modelica.org/">Modelica Association</a>, the organization that develops and standardizes the Modelica Language and the Modelica Standard Library. [To clarify: the aim of OSMC is the further development of the OpenModelica implementation, not the Modelica Language or the Modelica standard library which are handled by the Modelica Association.]</p>
-<p>&nbsp;</p>
-<hr />
-<p>&nbsp;</p>
-<h2><a name="organization"></a>Organization</h2>
-<h3>Annual Meeting</h3>
-<p>The Annual Meeting is OSMC's highest governing body, and meets at least once per year. Only organizational members have voting rights at the Annual meeting. <a></a></p>
-<h3>Board</h3>
-<p>The board is responsible for making budget proposals and a plan of operation for each year. The Board also approves membership of organizations.</p>
-<p>The current board:</p>
-<ul>
-<li>Rüdiger Franke, Chairman, ABB AG, Germany</li>
-<li>Oliver Lenord, Vice Chairman, Robert Bosch GmbH, Germany</li>
-<li>Francesco Casella, Director, Politecnico di Milano, Italy</li>
-<li>Peter Fritzson, Vice Director, Linköping University, Sweden</li>
-<li>Bernhard Bachmann, Hochschule Bielefeld, Germany</li>
-<li>Audrey Jardin, EDF, Paris, France</li>
-<li>Adrien Guironnet,, RTE-France, Paris, France</li>
-<li>Juha Kortelainen, VTT, Finland</li>
-<li>Arne Speerforck, TuTech, Hamburg University of Technology, Germany</li>
-<li>Niklas Worschech, Bosch Rexroth, Germany</li>
-</ul>
-<h3>Director and Team</h3>
-<p>Between Board meetings and Annual Meetings, the Director is OSMC's main point of contact. The Director is responsible for the day-by-day work of OSMC between Board meetings and Annual Meetings, but also has the right to delegate appropriate parts the work to the technical coordinator and co-workers.</p>
-<ul>
-<li>Director: Francesco Casella</li>
-<li>Vice Director: Peter Fritzson</li>
-<li>Technical Coordinator: Adrian Pop</li>
-</ul>
-<h3>Gender Equality Plan</h3>
-<p>OSMC is committed to the promotion of equality of opportunity in respect of religious belief, political opinion, race, disability, age, sex, pregnancy and maternity, sexual orientation, married or civil partnership and gender reassignment. To this end, OSMC has developed and committed to a Gender Equality Plan, available <a href="/images/docs/OSMC-Gender-equality-plan.pdf">here</a>.</p>
-<p>&nbsp;</p>
-<hr />
-<p>&nbsp;</p>
-<h2><a name="membership"></a>Membership</h2>
-<p>&nbsp;</p>
-<h3>Why Become a Member</h3>
-<ul>
-<li>To support further development of OpenModelica</li>
-<li>To influence the development of OpenModelica to meet your needs.</li>
-<li>To cooperate with other users and contributors <a></a></li>
-</ul>
-<h3>How to Become a Member</h3>
-<p>There are two types of members: individual members and organizational members.</p>
-<p>An organization can become a member by submitting a membership application to the OSMC Board, and paying a membership fee according to their size and type of license conditions desired, see the table below.</p>
-<p>Individuals who made significant contributions to OpenModelica can become Level 1 members for free, after decision by the Director.</p>
-<h3>Membership Benefits</h3>
-<p>OpenModelica is open-source, and is available to anyone, including members, under the GPL option of the OSMC Public License as specified in Appendix A. However, for members the following shall additionally apply:</p>
-<ul>
-<li>Members have the additional option of using OpenModelica, in particular together with proprietary code according to the EPL options of the OSMC Public License.</li>
-<li>Organizational members have voting rights at Annual Meetings.</li>
-<li>Organizational members have the right to display their logos and have web links to their organizations at an appropriate place in the OSMC web site.</li>
-<li>Members can influence the future development of OpenModelica.</li>
-<li>Individual members and organizational member employees (or their organization in case individuals cannot/ should not be mentioned) who have made significant contributions have the right to be acknowledged as co-authors of common documents as specified in §7.4, and as co-authors in commentary text in the program modules they have contributed to. <em>[A program module may typically contain comments about main author, co-authors, and project manager f that module during different time periods].</em></li>
-<li>Members, organizational or individual, who have made significant contributions, should be acknowledged as contributors in appropriate documents associated with OpenModelica <em>[e.g. in the Users Guide or System Documentation].</em></li>
-</ul>
-<p>&nbsp;</p>
-<h3><a name="fees"></a>Membership Types and Annual Fees</h3>
-<p>There are two main kinds of members: <a href="/images/docs/OSMC-organizational-member-application-form.pdf">organizational members</a> (any legal person/business partnership) and individual members (for any natural person). The annual service fee varies according to the size of the organization, whether the organization chooses the honorary Gold or Silver sponsorship levels, and whether the member is allowed to redistribute OpenModelica in binary form for commercial purposes outside its own organization (Level 2 member) as specified by the OSMC Public License.</p>
-<p>For a non-profit organization such as a university, research institute, or similar, the engaged research group size (or sum of the sizes if several engaged groups) determines the annual fee.</p>
-<p>For an organization paying an annual fee corresponding to the size of the organization including all its affiliates, the membership benefits apply to all its affiliates.</p>
-<p>To further clarify:</p>
-<ul>
-<li>A Level 1 membership is a basic membership level that allows the member to combine OpenModelica with proprietary code for internal use according to the OSMC-Internal-EPL mode of the OSMC Public License.</li>
-<li>A Level 2 membership is a membership level that allows the member to combine OpenModelica with proprietary code for internal use and/or external distribution in binary form according to the OSMC-External-EPL mode of the OSMC Public License.</li>
-<li>Individual persons can become Level 1 individual members for free.</li>
-</ul>
-<p>Upon request in writing to the OSMC board ahead of the delivery of a contribution, instead of paying an annual fee, a small non-profit organization, a very small company, an individual member, and a small company, can do an annual in-kind contribution to OpenModelica, worth at least five times the annual fee amount. Such an in-kind based membership must but approved by the OSMC Board once a year.</p>
-<p>Moreover, an organization having a Directly Funded Development (DFD) or Maintenance and support agreement (MSA) with OSMC can use part of the DFD or MSA payment for the annual fee if the DFD or MSA amount is at least twice the annual fee. This needs OSMC Board approval in each case, following a written application to the OSMC Board.</p>
-<p>The table below shows the current annual fee. The fee covers support, and the&nbsp;<span style="color: black; font-family: Arial, sans-serif; font-size: 9pt;">additional usage rights of OpenModelica according to the OSMC-PL license.</span>The levels of the annual fee are determined once a year by the Annual Meeting. If the fees are changed after such a decision, this table in the OSMC Bylaws can be updated directly, without the <a href="/images/docs/OpenSourceModelicaConsortium-bylaws-260610-v29.pdf">Bylaws</a> update procedure specified in §7.6.</p>
-<table style="border: medium solid; width: 100%;" cellpadding="2" border="1">
-<tbody>
-<tr style="border: thin solid;"><th style="border: thin solid;">Member Type</th><th style="border: thin solid;">Number of Employees</th><th style="border: thin solid;">Level 1&nbsp;<br /> Annual Fee in €</th><th style="border: thin solid;" colspan="2">Level 2&nbsp;<br /> Annual Fee in €</th></tr>
-<tr style="border: thin solid;"><th style="border: thin solid;" colspan="3">&nbsp;</th><th style="border: thin solid;">Limited</th><th style="border: thin solid;">Unlimited</th></tr>
-<tr style="border: thin solid;">
-<td style="border: thin solid;">Org. - Large company, not an SME</td>
-<td style="border: thin solid;">&gt; 250</td>
-<td style="border: thin solid;">8000</td>
-<td style="border: thin solid;">9400</td>
-<td style="border: thin solid;">26 600</td>
-</tr>
-<tr style="border: thin solid;">
-<td style="border: thin solid;">Org. - Medium company, SME</td>
-<td style="border: thin solid;">&gt; 50, ≤ 250</td>
-<td style="border: thin solid;">4000</td>
-<td style="border: thin solid;">6600</td>
-<td style="border: thin solid;">13 300</td>
-</tr>
-<tr style="border: thin solid;">
-<td style="border: thin solid;">Org. - Small company, SME</td>
-<td style="border: thin solid;">&gt; 5, ≤ 50</td>
-<td style="border: thin solid;">2600</td>
-<td style="border: thin solid;">4000</td>
-<td style="border: thin solid;">6600</td>
-</tr>
-<tr style="border: thin solid;">
-<td style="border: thin solid;">Org. - Very Small Company, SME</td>
-<td style="border: thin solid;">≤ 5</td>
-<td style="border: thin solid;">1200</td>
-<td style="border: thin solid;">2600</td>
-<td style="border: thin solid;">4000</td>
-</tr>
-<tr style="border: thin solid;">
-<td style="border: thin solid;">Org. - Large Non-profit</td>
-<td style="border: thin solid;">Group size &gt; 10</td>
-<td style="border: thin solid;">1200</td>
-<td style="border: thin solid;">4000</td>
-<td style="border: thin solid;">6600</td>
-</tr>
-<tr style="border: thin solid;">
-<td style="border: thin solid;">Org. - Small Non-profit</td>
-<td style="border: thin solid;">Group size ≤ 10</td>
-<td style="border: thin solid;">600</td>
-<td style="border: thin solid;">2600</td>
-<td style="border: thin solid;">4000</td>
-</tr>
-<tr style="border: thin solid;">
-<td style="border: thin solid;">Individual member</td>
-<td style="border: thin solid;">1</td>
-<td style="border: thin solid;">0</td>
-<td style="border: thin solid;">2600</td>
-<td style="border: thin solid;">4000</td>
-</tr>
-</tbody>
+
+[![Consortium](/images/stories/modelica/consortium.jpg)](/home/consortium)
+
+We invite all interested to participate in the work and join the consortium!
+
+## Purpose of the Consortium {#purpose}
+
+OSMC is a non-profit, non-governmental organization and research institute in the area of cyber-physical systems, with the aim of developing and promoting the development and usage of the OpenModelica open source implementation of the Modelica computer language (also named Modelica modeling language), and related standards including [FMI](https://fmi-standard.org/), [SSP](https://ssp-standard.org), [DCP](https://dcp-standard.org/), as well as OpenModelica associated [open-source tools and libraries](/openmodelicaworld/tools), collectively named the OpenModelica Environment, in the following referred to as OpenModelica.
+
+OpenModelica is available for commercial and non-commercial usage under the [AGPLv3](https://www.gnu.org/licenses/agpl-3.0.html) licences and under the conditions of the OSMC Public License, as defined in the [OSMC Bylaws](/images/docs/OpenSourceModelicaConsortium-bylaws-260610-v29.pdf) and [OSMC Bylaws(signed)](/images/docs/OpenSourceModelicaConsortium-bylaws-260610-v29-signed.pdf).
+It is the aim of OSMC, within the imitations of its available resources, to provide support and maintenance of OpenModelica, to support to publication on the web, and to coordinate contributions to OpenModelica.
+
+It is intended for OMSC to have good cooperation with [Modelica Association](https://www.modelica.org/), the organization that develops and standardizes the Modelica Language and the Modelica Standard Library.
+[To clarify: the aim of OSMC is the further development of the OpenModelica implementation, not the Modelica Language or the Modelica standard library which are handled by the Modelica Association.]
+
+---
+
+## Organization {#organization}
+
+### Annual Meeting
+
+The Annual Meeting is OSMC's highest governing body, and meets at least once per year.
+Only organizational members have voting rights at the Annual meeting.
+
+### Board
+
+The board is responsible for making budget proposals and a plan of operation for each year.
+The Board also approves membership of organizations.
+
+The current board:
+
+- Rüdiger Franke, Chairman, ABB AG, Germany
+- Oliver Lenord, Vice Chairman, Robert Bosch GmbH, Germany
+- Francesco Casella, Director, Politecnico di Milano, Italy
+- Peter Fritzson, Vice Director, Linköping University, Sweden
+- Bernhard Bachmann, Hochschule Bielefeld, Germany
+- Audrey Jardin, EDF, Paris, France
+- Adrien Guironnet,, RTE-France, Paris, France
+- Juha Kortelainen, VTT, Finland
+- Arne Speerforck, TuTech, Hamburg University of Technology, Germany
+- Niklas Worschech, Bosch Rexroth, Germany
+
+### Director and Team
+
+Between Board meetings and Annual Meetings, the Director is OSMC's main point of contact.
+The Director is responsible for the day-by-day work of OSMC between Board meetings and Annual Meetings, but also has the right to delegate appropriate parts the work to the technical coordinator and co-workers.
+
+- Director: Francesco Casella
+- Vice Director: Peter Fritzson
+- Technical Coordinator: Adrian Pop
+
+### Gender Equality Plan
+
+OSMC is committed to the promotion of equality of opportunity in respect of religious belief, political opinion, race, disability, age, sex, pregnancy and maternity, sexual orientation, married or civil partnership and gender reassignment.
+To this end, OSMC has developed and committed to a Gender Equality Plan, available [here](/images/docs/OSMC-Gender-equality-plan.pdf).
+
+---
+
+## Membership {#membership}
+
+### Why Become a Member
+
+- To support further development of OpenModelica
+- To influence the development of OpenModelica to meet your needs.
+- To cooperate with other users and contributors
+
+### How to Become a Member
+
+There are two types of members: individual members and organizational members.
+
+An organization can become a member by submitting a membership application to the OSMC Board, and paying a membership fee according to their size and type of license conditions desired, see the table below.
+
+Individuals who made significant contributions to OpenModelica can become Level 1 members for free, after decision by the Director.
+
+### Membership Benefits
+
+OpenModelica is open-source, and is available to anyone, including members, under the GPL option of the OSMC Public License as specified in Appendix A.
+However, for members the following shall additionally apply:
+
+- Members have the additional option of using OpenModelica, in particular together with proprietary code according to the EPL options of the OSMC Public License.
+- Organizational members have voting rights at Annual Meetings.
+- Organizational members have the right to display their logos and have web links to their organizations at an appropriate place in the OSMC web site.
+- Members can influence the future development of OpenModelica.
+- Individual members and organizational member employees (or their organization in case individuals cannot/ should not be mentioned) who have made significant contributions have the right to be acknowledged as co-authors of common documents as specified in §7.4, and as co-authors in commentary text in the program modules they have contributed to.
+  *[A program module may typically contain comments about main author, co-authors, and project manager f that module during different time periods].*
+- Members, organizational or individual, who have made significant contributions, should be acknowledged as contributors in appropriate documents associated with OpenModelica *[e.g. in the Users Guide or System Documentation].*
+
+### Membership Types and Annual Fees {#fees}
+
+There are two main kinds of members: [organizational members](/images/docs/OSMC-organizational-member-application-form.pdf) (any legal person/business partnership) and individual members (for any natural person).
+The annual service fee varies according to the size of the organization, whether the organization chooses the honorary Gold or Silver sponsorship levels, and whether the member is allowed to redistribute OpenModelica in binary form for commercial purposes outside its own organization (Level 2 member) as specified by the OSMC Public License.
+
+For a non-profit organization such as a university, research institute, or similar, the engaged research group size (or sum of the sizes if several engaged groups) determines the annual fee.
+
+For an organization paying an annual fee corresponding to the size of the organization including all its affiliates, the membership benefits apply to all its affiliates.
+
+To further clarify:
+
+- A Level 1 membership is a basic membership level that allows the member to combine OpenModelica with proprietary code for internal use according to the OSMC-Internal-EPL mode of the OSMC Public License.
+- A Level 2 membership is a membership level that allows the member to combine OpenModelica with proprietary code for internal use and/or external distribution in binary form according to the OSMC-External-EPL mode of the OSMC Public License.
+- Individual persons can become Level 1 individual members for free.
+
+Upon request in writing to the OSMC board ahead of the delivery of a contribution, instead of paying an annual fee, a small non-profit organization, a very small company, an individual member, and a small company, can do an annual in-kind contribution to OpenModelica, worth at least five times the annual fee amount.
+Such an in-kind based membership must but approved by the OSMC Board once a year.
+
+Moreover, an organization having a Directly Funded Development (DFD) or Maintenance and support agreement (MSA) with OSMC can use part of the DFD or MSA payment for the annual fee if the DFD or MSA amount is at least twice the annual fee.
+This needs OSMC Board approval in each case, following a written application to the OSMC Board.
+
+The table below shows the current annual fee.
+The fee covers support, and the additional usage rights of OpenModelica according to the OSMC-PL license.
+The levels of the annual fee are determined once a year by the Annual Meeting.
+If the fees are changed after such a decision, this table in the OSMC Bylaws can be updated directly, without the [Bylaws](/images/docs/OpenSourceModelicaConsortium-bylaws-260610-v29.pdf) update procedure specified in §7.6.
+
+<table class="table">
+    <thead>
+        <tr>
+            <th rowspan="2">Member Type</th>
+            <th rowspan="2">Number of Employees</th>
+            <th rowspan="2">Level 1<br />Annual Fee in €</th>
+            <th colspan="2">Level 2<br />Annual Fee in €</th>
+        </tr>
+        <tr><th>Limited</th><th>Unlimited</th></tr>
+    </thead>
+    <tbody>
+        <tr><td>Org. - Large company, not an SME</td><td>&gt; 250</td><td>8000</td><td>9400</td><td>26 600</td></tr>
+        <tr><td>Org. - Medium company, SME</td><td>&gt; 50, ≤ 250</td><td>4000</td><td>6600</td><td>13 300</td></tr>
+        <tr><td>Org. - Small company, SME</td><td>&gt; 5, ≤ 50</td><td>2600</td><td>4000</td><td>6600</td></tr>
+        <tr><td>Org. - Very Small Company, SME</td><td>≤ 5</td><td>1200</td><td>2600</td><td>4000</td></tr>
+        <tr><td>Org. - Large Non-profit</td><td>Group size &gt; 10</td><td>1200</td><td>4000</td><td>6600</td></tr>
+        <tr><td>Org. - Small Non-profit</td><td>Group size ≤ 10</td><td>600</td><td>2600</td><td>4000</td></tr>
+        <tr><td>Individual member</td><td>1</td><td>0</td><td>2600</td><td>4000</td></tr>
+    </tbody>
 </table>
-<p>Note: A limited Level 2 membership allows a total of at most ten active external licenses/distributions under OSMC-External-EPL at any given point in time. The Unlimited version has no limitation.</p>
-<h3>Gold or Silver Sponsorship Levels</h3>
-<p>Gold or Silver sponsorships are honorary membership levels which shows that the member is providing significant or very significant support to the OpenModelica effort, either in economic value or development/maintenance/support/management effort. <em>[Such an organization may use this fact, e.g. in its marketing, and may get additional space on the SMC web page or similar promotion. Gold members should also be given some preference when electing board members.]</em> Thus, there are two ways for a member to become Gold or Silver member:</p>
-<ul>
-<li>The member pays the Gold or Silver sponsorship fee in addition to the ordinary membership fee.</li>
-<li>The member has made Gold or Silver level contributions to OpenModelica during the previous year, approved by the Board, following a written application from the member to the Board for Gold or Silver membership.</li>
-</ul>
-<p>A Gold or Silver level contribution to OpenModelica must be of general interest to OSMC members, and must be evident in version handling, bug handling, or other documentation. The levels of the sponsorship annual fees are determined once a year by the Annual Meeting.</p>
-<table style="border: medium solid; width: 100%;" cellpadding="2" border="1">
-<tbody>
-<tr style="border: thin solid;"><th style="border: thin solid;">Sponsor level</th><th style="border: thin solid;" colspan="2">Sponsorship Annual Fee</th></tr>
-<tr style="border: thin solid;">
-<td style="border: thin solid;">&nbsp;</td>
-<td style="border: thin solid;">€</td>
-<td style="border: thin solid;">"person year contribution"</td>
-</tr>
-<tr style="border: thin solid;">
-<td style="border: thin solid;">Gold</td>
-<td style="border: thin solid;">≥ 20 000 €</td>
-<td style="border: thin solid;">≥ 1.0</td>
-</tr>
-<tr style="border: thin solid;">
-<td style="border: thin solid;">Silver</td>
-<td style="border: thin solid;">≥ 10 000, &lt; 20 000 €</td>
-<td style="border: thin solid;">&gt; 1/2, &lt; 1.0</td>
-</tr>
-</tbody>
+
+Note: A limited Level 2 membership allows a total of at most ten active external licenses/distributions under OSMC-External-EPL at any given point in time.
+The Unlimited version has no limitation.
+
+### Gold or Silver Sponsorship Levels
+
+Gold or Silver sponsorships are honorary membership levels which shows that the member is providing significant or very significant support to the OpenModelica effort, either in economic value or development/maintenance/support/management effort.
+*[Such an organization may use this fact, e.g. in its marketing, and may get additional space on the SMC web page or similar promotion.
+Gold members should also be given some preference when electing board members.]*
+Thus, there are two ways for a member to become Gold or Silver member:
+
+- The member pays the Gold or Silver sponsorship fee in addition to the ordinary membership fee.
+- The member has made Gold or Silver level contributions to OpenModelica during the previous year, approved by the Board, following a written application from the member to the Board for Gold or Silver membership.
+
+A Gold or Silver level contribution to OpenModelica must be of general interest to OSMC members, and must be evident in version handling, bug handling, or other documentation.
+The levels of the sponsorship annual fees are determined once a year by the Annual Meeting.
+
+<table class="table">
+    <thead>
+        <tr>
+            <th rowspan="2">Sponsor level</th>
+            <th colspan="2">Sponsorship Annual Fee</th>
+        </tr>
+        <tr><th>€</th><th>"person year contribution"</th></tr>
+    </thead>
+    <tbody>
+        <tr><td>Gold</td><td>≥ 20 000 €</td><td>≥ 1.0</td></tr>
+        <tr><td>Silver</td><td>≥ 10 000, &lt; 20 000 €</td><td>&gt; 1/2, &lt; 1.0</td></tr>
+    </tbody>
 </table>
-<h3>Individual Membership</h3>
-<p>An individual who so wishes, and who has made a significant contribution to OpenModelica during he previous two years or the current year, can get a Level 1 individual membership for the current ear for free, after decision by the Director, and after having signed a <a href="/images/docs/OSMC-individual-member-application-form.pdf">membership application form</a>. Individuals who are Level 1 members but have not made any further contribution to OpenModelica<br /> during the previous two years or current year, should automatically lose their membership, if they do not decide to become Level 2 members and pay the Level 2 membership fee for individual members. Notification message should be sent to such members before they lose their membership <em>[to give them a chance to respond and possibly make a contribution to keep their membership].</em></p>
-<hr />
-<h3 style="font-size: 13.75px;">Administration</h3>
-<p>From an administrative point of view, OSMC is an independent non-profit organization in close collaboration primarily with <a href="https://www.liu.se/">Linköping University</a> but also with other organizations which typically are members of the OSMC consortium.</p>
-<p>During spring 2021 OSMC decided to create a research institute owned by OSMC, named Santa Anna IT Research Institute. The purpose is to be able to explore new research topics outside the current main focus of OSMC relevant for the future and for collaborative efforts possibly involving OpenModelica. The institute form will enable flexible, efficient and low overhead operations open for collaboration with new research, industry and societal partners.</p>
-<p>&nbsp;</p>
-<hr />
-<p>&nbsp;</p>
-<h3 style="font-size: 13.75px;"><a name="DFD"></a>Directly Funded Development (DFD)</h3>
-<p>The OSMC members and non-members shall have the opportunity to request specific enhancements or accelerate the development of a certain functionality and/or industrial grade quality aspects (e.g. robustness, performance, documentation, etc.) by providing additional funding based on a development contract with the OSMC, according to the following conditions (minor deviations are allowed):</p>
-<p>When a DFD is requested the OSMC Director shall provide an estimate of the development effort to the OSMC board. The majority of the OSMC board needs to agree to respond to the requester with an offering by considering that:</p>
-<ul style="list-style-type: circle;">
-<li>The required additional development resources are available,</li>
-<li>The requested development is not against the long-term development goals of the OSMC,</li>
-<li>The risk is manageable.</li>
-</ul>
-<p>The offering shall be the basis for the development contract defining:</p>
-<ul style="list-style-type: circle;">
-<li>The deliverable (a specified functionality or specific interface)</li>
-<li>The acceptance criteria.</li>
-<li>The delivery date.</li>
-<li>The development cost.</li>
-</ul>
-<p style="text-align: justify;">The standard contribution amount for a DFD (however, might be more for large functionality enhancements) may be similar to Consortium membership Level 2 fees. Contributors may either fund specific improvements, or be regular contributors (with yearly meeting and development plan).&nbsp;Several stake-holders can collaborate in proposing a DFD, and share the costs.</p>
-<p style="text-align: justify;">It is proposed that a percentage (e.g. 30%), of all DFD funding is reserved for ensuring that the software fulfils industry-grade quality standards, i.e., work on maintenance, testing, optimization, and documentation, which will ensure the long-term viability of OpenModelica. For example, this can include:&nbsp; bug fixing (with priority for bugs spotted by contributors), scaled-up testing and validation, development administration and support (servers, coding standards, and development rules), code optimization, documentation, APIs (creating and maintaining clear well-defined APIs to facilitate software usage and integration).</p>
-<p style="text-align: justify;">A development contract for a DFD shall be signed by the OSMC director, or the OSMC vice director, or the OSMC Chairman, on behalf of the OSMC board.The developed functionality is delivered as contribution to the OpenModelica environment.</p>
-<p style="text-align: justify;"><span style="color: #222222; font-size: 13.75px; font-weight: bold;"><a name="MSA"></a>Maintenance and Support Agreement (MSA)</span></p>
-<p style="text-align: justify;">OSMC members shall have the opportunity to subscribe to an enhanced Maintenance and Support Agreement (MSA) in addition to the support included in their membership. The conditions are approximately as follows. The exact conditions are specified in a contract between the OSMC member and OSMC.&nbsp;</p>
-<p style="text-align: justify;">Such an agreement allows the subscribed member to ask for bug fixes (with priority) in the latest release branch. These requests will be handled with high priority and the subscriber shall be notified frequently about the status of work. The MSA fee shall be a percentage of the membership fee but not less than 6000€/year.</p>
-<p style="text-align: justify;">The MSA shall define:</p>
-<ul>
-<li style="text-align: justify;">The supported versions of the MSL.</li>
-<li style="text-align: justify;">The supported Modelica libraries.</li>
-<li style="text-align: justify;">The supported OpenModelica releases (start and end date).</li>
-</ul>
-<div style="text-align: justify;">
-<div>The OSMC board may decide to extend the scope of the MSA with respect to library coverage.</div>
-</div>
-<div>&nbsp;</div>
-<h2><a name="list"></a>List of Consortium Members</h2>
-<h3>Companies and Institutes</h3>
-<ul>
-<li><a href="https://www.abb.com">ABB AB, Sweden</a></li>
-<li><a href="https://www.lbl.gov">Berkeley Lab, California, USA</a></li>
-<li><a href="https://www.boschrexroth.com">Bosch Rexroth AG, Germany</a></li>
-<li><a href="https://creativeconnections.cz">Creative Connections, Prague, Czech Republic</a><span style="mso-ansi-language: SV;" lang="SV"> </span></li>
-<li><a href="https://www.dhigroup.com/">DHI, Aarhus, Denmark</a></li>
-<li><a href="https://www.dynamica-it.com">Dynamica s.r.l., Cremona, Italy</a></li>
-<li><a href="https://www.edf.fr">EDF, Paris, France</a></li>
-<li><a href="https://www.equa.se">Equa Simulation AB, Sweden</a></li>
-<li><a href="https://www.festo.com/de/en/">Festo, Esslingen, Germany</a></li>
-<li><a href="https://www.iwes.fraunhofer.de">Fraunhofer IWES, Bremerhaven, Germany</a></li>
-<li><a href="https://www.fcc.chalmers.se/">Fraunhofer Chalmers (FCC), Gothenburg, Sweden</a></li>
-<li>GSIMX Beijing Technology, China</li>
-<li><a href="https://leitbetriebe.at/en/profiles/hoerbiger-wien-gmbh/">Hoerbiger Wien, Austria</a></li>
-<li><a href="https://www.isid.co.jp">ISID Dentsu, Tokyo, Japan</a></li>
-<li><a href="https://www.inria.fr/en/centre-inria-rennes-bretagne-atlantique">INRIA, Rennes, France</a></li>
-<li><a href="https://www.maplesoft.com">Maplesoft, Canada</a></li>
-<li><a href="https://www.modelicon.in/">ModeliCon InfoTech, Bangalore, India</a></li>
-<li><a href="https://plus.orthogonal.dev/">Orthogonal Super Systems, Munich, Germany</a></li>
-<!-- inactive member
-<li><a href="https://www.reusecompany.com/office-spain">REUSE company, Madrid, Spain</a></li>
+
+### Individual Membership
+
+An individual who so wishes, and who has made a significant contribution to OpenModelica during he previous two years or the current year, can get a Level 1 individual membership for the current ear for free, after decision by the Director, and after having signed a [membership application form](/images/docs/OSMC-individual-member-application-form.pdf).
+Individuals who are Level 1 members but have not made any further contribution to OpenModelica during the previous two years or current year, should automatically lose their membership, if they do not decide to become Level 2 members and pay the Level 2 membership fee for individual members.
+Notification message should be sent to such members before they lose their membership *[to give them a chance to respond and possibly make a contribution to keep their membership].*
+
+---
+
+## Administration
+
+From an administrative point of view, OSMC is an independent non-profit organization in close collaboration primarily with [Linköping University](https://www.liu.se/) but also with other organizations which typically are members of the OSMC consortium.
+
+During spring 2021 OSMC decided to create a research institute owned by OSMC, named Santa Anna IT Research Institute.
+The purpose is to be able to explore new research topics outside the current main focus of OSMC relevant for the future and for collaborative efforts possibly involving OpenModelica.
+The institute form will enable flexible, efficient and low overhead operations open for collaboration with new research, industry and societal partners.
+
+---
+
+## Directly Funded Development (DFD) {#DFD}
+
+The OSMC members and non-members shall have the opportunity to request specific enhancements or accelerate the development of a certain functionality and/or industrial grade quality aspects (e.g. robustness, performance, documentation, etc.) by providing additional funding based on a development contract with the OSMC, according to the following conditions (minor deviations are allowed):
+
+When a DFD is requested the OSMC Director shall provide an estimate of the development effort to the OSMC board.
+The majority of the OSMC board needs to agree to respond to the requester with an offering by considering that:
+
+- The required additional development resources are available,
+- The requested development is not against the long-term development goals of the OSMC,
+- The risk is manageable.
+
+The offering shall be the basis for the development contract defining:
+
+- The deliverable (a specified functionality or specific interface)
+- The acceptance criteria.
+- The delivery date.
+- The development cost.
+
+The standard contribution amount for a DFD (however, might be more for large functionality enhancements) may be similar to Consortium membership Level 2 fees.
+Contributors may either fund specific improvements, or be regular contributors (with yearly meeting and development plan).
+Several stake-holders can collaborate in proposing a DFD, and share the costs.
+
+It is proposed that a percentage (e.g.
+30%), of all DFD funding is reserved for ensuring that the software fulfils industry-grade quality standards, i.e., work on maintenance, testing, optimization, and documentation, which will ensure the long-term viability of OpenModelica.
+For example, this can include: bug fixing (with priority for bugs spotted by contributors), scaled-up testing and validation, development administration and support (servers, coding standards, and development rules), code optimization, documentation, APIs (creating and maintaining clear well-defined APIs to facilitate software usage and integration).
+
+A development contract for a DFD shall be signed by the OSMC director, or the OSMC vice director, or the OSMC Chairman, on behalf of the OSMC board.The developed functionality is delivered as contribution to the OpenModelica environment.
+
+---
+
+## Maintenance and Support Agreement (MSA) {#MSA}
+
+OSMC members shall have the opportunity to subscribe to an enhanced Maintenance and Support Agreement (MSA) in addition to the support included in their membership.
+The conditions are approximately as follows.
+The exact conditions are specified in a contract between the OSMC member and OSMC.
+
+Such an agreement allows the subscribed member to ask for bug fixes (with priority) in the latest release branch.
+These requests will be handled with high priority and the subscriber shall be notified frequently about the status of work.
+The MSA fee shall be a percentage of the membership fee but not less than 6000€/year.
+
+The MSA shall define:
+
+- The supported versions of the MSL.
+- The supported Modelica libraries.
+- The supported OpenModelica releases (start and end date).
+
+The OSMC board may decide to extend the scope of the MSA with respect to library coverage.
+
+---
+
+## List of Consortium Members {#list}
+
+### Companies and Institutes
+
+- [ABB AB, Sweden](https://www.abb.com)
+- [Berkeley Lab, California, USA](https://www.lbl.gov)
+- [Bosch Rexroth AG, Germany](https://www.boschrexroth.com)
+- [Creative Connections, Prague, Czech Republic](https://creativeconnections.cz)
+- [DHI, Aarhus, Denmark](https://www.dhigroup.com/)
+- [Dynamica s.r.l., Cremona, Italy](https://www.dynamica-it.com)
+- [EDF, Paris, France](https://www.edf.fr)
+- [Equa Simulation AB, Sweden](https://www.equa.se)
+- [Festo, Esslingen, Germany](https://www.festo.com/de/en/)
+- [Fraunhofer IWES, Bremerhaven, Germany](https://www.iwes.fraunhofer.de)
+- [Fraunhofer Chalmers (FCC), Gothenburg, Sweden](https://www.fcc.chalmers.se/)
+- GSIMX Beijing Technology, China
+- [Hoerbiger Wien, Austria](https://leitbetriebe.at/en/profiles/hoerbiger-wien-gmbh/)
+- [ISID Dentsu, Tokyo, Japan](https://www.isid.co.jp)
+- [INRIA, Rennes, France](https://www.inria.fr/en/centre-inria-rennes-bretagne-atlantique)
+- [Maplesoft, Canada](https://www.maplesoft.com)
+- [ModeliCon InfoTech, Bangalore, India](https://www.modelicon.in/)
+- [Orthogonal Super Systems, Munich, Germany](https://plus.orthogonal.dev/)
+- [RTE France, Paris, France](https://www.rte-france.com)
+- [Saab, Linköping, Sweden](https://www.saab.com)
+- [Shanghai Duanyan Information Technology Co., Ltd., China](https://www.bloomberg.com/profile/company/1732547D:CH)
+- [SIL3X, Paris, France](https://www.sil3x.fr)
+- [SmartFluidPower, Modena, Italy](https://smart.fluidpower.it/)
+- [Swegon AB, Gothenburg, Sweden](https://www.swegon.com/)
+- [TLK Thermo, Braunschweig, Germany](https://www.tlk-thermo.com)
+- [VTI, Linköping, Sweden](https://www.vti.se)
+- [XRG Simulation, Hamburg, Germany](https://www.xrg-simulation.de/)
+
+<!-- Inactive members:
+- [REUSE company, Madrid, Spain](https://www.reusecompany.com/office-spain)
+- [Volvo Cars, Göteborg, Sweden](https://www.volvocars.com/se)
 -->
-<li><a href="https://www.rte-france.com">RTE France, Paris, France</a></li>
-<li><a href="https://www.saab.com">Saab, Linköping, Sweden</a></li>
-<li><a href="https://www.bloomberg.com/profile/company/1732547D:CH">Shanghai Duanyan Information Technology Co., Ltd., China</a></li>
-<li><a href="https://www.sil3x.fr">SIL3X, Paris, France</a></li>
-<li><a href="https://smart.fluidpower.it/">SmartFluidPower, Modena, Italy</a></li>
-<li><a href="https://www.swegon.com/"> Swegon AB, Gothenburg, Sweden</a></li>
-<li><a href="https://www.tlk-thermo.com">TLK Thermo, Braunschweig, Germany</a></li>
-<!-- inactive member
-<li><a href="https://www.volvocars.com/se">Volvo Cars, Göteborg, Sweden</a></li>
--->
-<li><a href="https://www.vti.se"><span style="mso-ansi-language: SV;" lang="SV">VTI, Linköping, Sweden</span></a></li>
-<li><a href="https://www.xrg-simulation.de/">XRG Simulation, Hamburg, Germany</a></li>
-</ul>
-<ul></ul>
-<h3>Universities</h3>
-<ul>
-<li>Australian National University, Acton, Australia</li>
-<li>University of Augsburg, Augsburg, Germany&nbsp;</li>
-<li>Hochschule Bielefeld, Germany</li>
-<li>Huazhong University (HUST), NCDC Center, Wuhan, China </li>
-<li>University of Bolivar, Colombia</li>
-<li>University of Buenos Aires, Discrete Simulation Lab, Argentina</li>
-<li>Technical University of Braunschweig, Germany</li>
-<li>University of Catalunya (CITCEA-UPC),&nbsp; Spain</li>
-<li>Chalmers University, Control, Sweden</li>
-<li>Chalmers University, Machine, Sweden</li>
-<li>Technical University&nbsp;Delft, The Netherlands</li>
-<li>Technical University&nbsp;Dresden, Germany</li>
-<li>Université Laval, Canada</li>
-<li>Technical University&nbsp;Hamburg, Germany</li>
-<li>IIT Bombay, Mumbai, India</li>
-<li>Linköping University, Sweden</li>
-<li>Linnaeus University, Sweden</li>
-<li>University of Leuven, SySi group, Heverlee, Belgium</li>
-<li>University of Maryland, System Enginerring, USA</li>
-<li>University of Maryland, CEEE, USA&nbsp;</li>
-<li>Politecnico di Milano, Italy&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</li>
-<li>Mälardalen University, Sweden</li>
-<li>University of Pisa, Pisa, Italy</li>
-<li>University of South-Eastern Norway, Norway</li>
-<li>Rensselaer Polytechnic Institute, Troy, NY, USA</li>
-<li>Vanderbilt University, Nashville, USA</li>
-</ul>
-<h3 style="font-weight: bold; font-family: Arial, Helvetica, sans-serif; font-size: 15px; color: #222222; outline-width: 0px; outline-style: initial; outline-color: initial; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; line-height: 1.2; background-position: initial initial; background-repeat: initial initial; padding: 0px; border: 0px initial initial; margin: 10px 0px 10px 0px;">Individual Members</h3>
-<ul>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Andersson Anders&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Asghar Adeel&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Axin Mikael&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Bachmann Bernhard&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Baras John&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Bartolini Andrea&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Beaude Francois</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Ben Gaid Mongi&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Bouskela Daniel&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Braun Robert&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Braun Willi&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Broman David&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Buffoni Lena&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Campillo Javier&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Casella Francesco&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Castro Rodrigo&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Ceraolo Massimo</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Combel Sebastien&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Dahlquist Erik&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Elsheikh Atiyah&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Eriksson Björn&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Eriksson Henrik&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Fernström Anders&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Ferretti Gianni&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Franke Rüdiger</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Frenkel Jens</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Fritzson Dag&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Fritzson Peter&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Gebremedhin Mahder&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Grozman Pavel&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Gubsch Ines&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Hao Hong
-&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Heuveline Vincent&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Horkeby Sune&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Hossain Muhammed Zoheb&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Isaksson Alf&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Jacobson Bengt</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Jansson Jonas&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Jardin Audrey&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Jonströmer Ulf&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Kanth Daniel</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Karhela Tommi</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Kiel Henning&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Klinghed Joel&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Kofranek Jiri&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Kortelainen Juha&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Krus Petter&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Lebedev Alexey&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Leksell Magnus&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Lennartsson Bengt&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Lenord Oliver&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Leva Alberto&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Lie Bernt&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Liebman Ariel&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Lindberg Rickard&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Link Kilian</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Lundvall Håkan&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Lv Hong
-&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Magnusson Henrik&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Mavris Dimitri</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Metkar Abhir Raj&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Meyers Eric</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Moudgalya Kannan&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Nemer Maroun&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Niemistö Hannu</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Nordin Peter&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Norling Kristoffer&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Novack Jim&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Ochel Lennart&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Östlund Per&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;">Padubidri Pavan&nbsp;</span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Palanisamy Arunkumar&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Paredis Chris&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Pettersson Karl&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Pop Adrian&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Privitzer Pavol&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Ruge Vitalij</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Ruusu Reino&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Sahlin Per</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Samlaus Roland&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Schamai Wladimir&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Schmitz Gerhard&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;">Shah Sunil&nbsp;</span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Sjölund Martin&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Staack Ingo&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Stavåker Kristian</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Tariq Sonia&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Täuber Patrick&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Thiele Bernhard&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Thieriot Hubert</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Thorslund Gustaf&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Torabzadeh-Tari Mohsen&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Valsalam Rominus&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Vanfretti Luigi&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Vanrolleghem Peter&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa" style="color: #000000;"><span style="font-size: 12px;">Villa Jose&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa"><span style="font-size: 12px;">Watson Bruce&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa"><span style="font-size: 12px;">Waurich Volker</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa"><span style="font-size: 12px;">Winkler Dietmar&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa"><span style="font-size: 12px;">Worschech Niklas&nbsp;</span></span></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><span color="#2222aa"><span style="font-size: 12px;">Wotzlaw Robert&nbsp;</span></span></li>
-<span style="font-size: 12px;"></span></ul>
-<h3><a name="documents"></a><span style="font-family: arial, helvetica, sans-serif;">Documents</span></h3>
-<p>Apply for membership or read the OSMC bylaws or OSMC-PL License.<span style="border-collapse: collapse; font-family: Arial, Helvetica, sans-serif; color: #000000; line-height: normal;"> </span></p>
-<ul>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><a href="/images/docs/OpenSourceModelicaConsortium-bylaws-260610-v29.pdf">Bylaws and OSMC-PL License</a></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><a href="/images/docs/OSMC-organizational-member-application-form.pdf" style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; color: #1b57b1; text-decoration: none; font-weight: normal; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;">Organizational member application form</a></li>
-<li style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;"><a href="/images/docs/OSMC-organizational-member-application-form.pdf" style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; color: #1b57b1; text-decoration: none; font-weight: normal; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;">Individual member application form</a></li>
-</ul>
-<hr style="border-right-width: 0px; border-bottom-width: 0px; height: 1px; border-top: #dddddd 1px solid; border-left-width: 0px;" />
-<h2 style="font-family: Arial, Helvetica, sans-serif; font-size: 18px; font-weight: bold; color: #222222; outline-width: 0px; outline-style: initial; outline-color: initial; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; line-height: 1.2; background-position: initial initial; background-repeat: initial initial; padding: 0px; border: 0px initial initial; margin: 10px 0px 10px 0px;"><a name="contact"></a>Contact</h2>
-<p style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; padding: 0px; border: 0px initial initial; margin: 10px 0px 10px 0px;">To contact us: <a href="mailto:OpenModelica@ida.liu.se" style="outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; color: #1b57b1; text-decoration: none; font-weight: normal; background-position: initial initial; background-repeat: initial initial; padding: 0px; margin: 0px; border: 0px initial initial;">OpenModelica [at] ida.liu.se</a></p>
+
+### Universities
+
+- Australian National University, Acton, Australia
+- University of Augsburg, Augsburg, Germany
+- Hochschule Bielefeld, Germany
+- Huazhong University (HUST), NCDC Center, Wuhan, China
+- University of Bolivar, Colombia
+- University of Buenos Aires, Discrete Simulation Lab, Argentina
+- Technical University of Braunschweig, Germany
+- University of Catalunya (CITCEA-UPC), Spain
+- Chalmers University, Control, Sweden
+- Chalmers University, Machine, Sweden
+- Technical University Delft, The Netherlands
+- Technical University Dresden, Germany
+- Université Laval, Canada
+- Technical University Hamburg, Germany
+- IIT Bombay, Mumbai, India
+- Linköping University, Sweden
+- Linnaeus University, Sweden
+- University of Leuven, SySi group, Heverlee, Belgium
+- University of Maryland, System Enginerring, USA
+- University of Maryland, CEEE, USA
+- Politecnico di Milano, Italy
+- Mälardalen University, Sweden
+- University of Pisa, Pisa, Italy
+- University of South-Eastern Norway, Norway
+- Rensselaer Polytechnic Institute, Troy, NY, USA
+- Vanderbilt University, Nashville, USA
+
+### Individual Members
+
+- Andersson Anders
+- Asghar Adeel
+- Axin Mikael
+- Bachmann Bernhard
+- Baras John
+- Bartolini Andrea
+- Beaude Francois
+- Ben Gaid Mongi
+- Bouskela Daniel
+- Braun Robert
+- Braun Willi
+- Broman David
+- Buffoni Lena
+- Campillo Javier
+- Casella Francesco
+- Castro Rodrigo
+- Ceraolo Massimo
+- Combel Sebastien
+- Dahlquist Erik
+- Elsheikh Atiyah
+- Eriksson Björn
+- Eriksson Henrik
+- Fernström Anders
+- Ferretti Gianni
+- Franke Rüdiger
+- Frenkel Jens
+- Fritzson Dag
+- Fritzson Peter
+- Gebremedhin Mahder
+- Grozman Pavel
+- Gubsch Ines
+- Hao Hong
+- Heuveline Vincent
+- Horkeby Sune
+- Hossain Muhammed Zoheb
+- Isaksson Alf
+- Jacobson Bengt
+- Jansson Jonas
+- Jardin Audrey
+- Jonströmer Ulf
+- Kanth Daniel
+- Karhela Tommi
+- Kiel Henning
+- Klinghed Joel
+- Kofranek Jiri
+- Kortelainen Juha
+- Krus Petter
+- Lebedev Alexey
+- Leksell Magnus
+- Lennartsson Bengt
+- Lenord Oliver
+- Leva Alberto
+- Lie Bernt
+- Liebman Ariel
+- Lindberg Rickard
+- Link Kilian
+- Lundvall Håkan
+- Lv Hong
+- Magnusson Henrik
+- Mavris Dimitri
+- Metkar Abhir Raj
+- Meyers Eric
+- Moudgalya Kannan
+- Nemer Maroun
+- Niemistö Hannu
+- Nordin Peter
+- Norling Kristoffer
+- Novack Jim
+- Ochel Lennart
+- Östlund Per
+- Padubidri Pavan
+- Palanisamy Arunkumar
+- Paredis Chris
+- Pettersson Karl
+- Pop Adrian
+- Privitzer Pavol
+- Ruge Vitalij
+- Ruusu Reino
+- Sahlin Per
+- Samlaus Roland
+- Schamai Wladimir
+- Schmitz Gerhard
+- Shah Sunil
+- Sjölund Martin
+- Staack Ingo
+- Stavåker Kristian
+- Tariq Sonia
+- Täuber Patrick
+- Thiele Bernhard
+- Thieriot Hubert
+- Thorslund Gustaf
+- Torabzadeh-Tari Mohsen
+- Valsalam Rominus
+- Vanfretti Luigi
+- Vanrolleghem Peter
+- Villa Jose
+- Watson Bruce
+- Waurich Volker
+- Winkler Dietmar
+- Worschech Niklas
+- Wotzlaw Robert
+
+---
+
+## Documents {#documents}
+
+Apply for membership or read the OSMC bylaws or OSMC-PL License.
+
+- [Bylaws and OSMC-PL License](/images/docs/OpenSourceModelicaConsortium-bylaws-260610-v29.pdf)
+- [Organizational member application form](/images/docs/OSMC-organizational-member-application-form.pdf)
+- [Individual member application form](/images/docs/OSMC-organizational-member-application-form.pdf)
+
+---
+
+## Contact {#contact}
+
+To contact us: [OpenModelica \[at\] ida.liu.se](mailto:OpenModelica@ida.liu.se)
 <div id="_mcePaste" class="mcePaste" data-mce-bogus="1" style="position: absolute; left: 0px; top: 857px; width: 1px; height: 1px; overflow: hidden;">
 <p class="x_MsoNormal" style="margin: 0cm 0cm 0.0001pt 22.5pt; font-size: 11pt; font-family: Calibri, sans-serif; color: #212121; text-indent: -18pt; line-height: 23.4667px;"><span style="font-size: 10pt; line-height: 21.3333px; font-family: Symbol; color: black;" lang="EN-GB">·<span style="font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span style="font-size: 9pt; line-height: 19.2px; font-family: Arial, sans-serif; color: black;" lang="EN-GB">Rüdiger Franke, Chairman, ABB AG, Germany</span></p>
 <p class="x_MsoNormal" style="margin: 0cm 0cm 0.0001pt 22.5pt; font-size: 11pt; font-family: Calibri, sans-serif; color: #212121; text-indent: -18pt; line-height: 23.4667px;"><span style="font-size: 10pt; line-height: 21.3333px; font-family: Symbol; color: black;" lang="EN-GB">·<span style="font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span style="font-size: 9pt; line-height: 19.2px; font-family: Arial, sans-serif; color: black;" lang="EN-GB">Oliver Lenord, Vice Chairman, Bosch, Germany</span></p>
