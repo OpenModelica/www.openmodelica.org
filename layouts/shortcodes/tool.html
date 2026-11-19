@@ -1,0 +1,26 @@
+{{- /* A tool with a thumbnail next to its description, see content/useresresources/tools.md.
+    Parameters: image (thumbnail), alt (text for the image), image-title (optional),
+    link (optional, for example a screenshot), title (optional, for the link)
+    and target (optional, for the link, for example "_blank"). */
+-}}
+{{- $imgTitle := "" -}}
+{{- with .Get "image-title" -}}
+    {{- $imgTitle = printf " title=\"%s\"" (. | htmlEscape) -}}
+{{- end -}}
+{{- $img := printf "<img src=\"%s\" alt=\"%s\"%s />" (.Get "image" | htmlEscape) (.Get "alt" | htmlEscape) $imgTitle | safeHTML -}}
+{{- $link := .Get "link" -}}
+<div class="tool">
+    {{- if not $link }}
+        {{ $img }}
+    {{- else if .Get "title" }}
+        <a
+            href="{{ $link }}"
+            title="{{ .Get "title" }}"
+            {{ with .Get "target" }}target="{{ . }}"{{ end }}
+            >{{ $img }}</a
+        >
+    {{- else }}
+        <a href="{{ $link }}" {{ with .Get "target" }}target="{{ . }}"{{ end }}>{{ $img }}</a>
+    {{- end }}
+    <div class="tool-text">{{ .Inner | .Page.RenderString (dict "display" "block") }}</div>
+</div>
