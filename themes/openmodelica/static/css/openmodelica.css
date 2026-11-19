@@ -572,6 +572,24 @@ table.table th {
     vertical-align: bottom;
 }
 
+/* Alerts written in Markdown ("> [!NOTE]", "> [!WARNING]", ...),
+   see layouts/_markup/render-blockquote.html */
+blockquote.alert {
+    margin: 10pt 0;
+    padding: 4pt 12pt;
+    border-left: 4px solid #1b57b1;
+    border-radius: 4px;
+    background-color: #e8effa;
+}
+blockquote.alert p {
+    margin: 4pt 0;
+}
+blockquote.alert-warning,
+blockquote.alert-caution {
+    border-left-color: #c62828;
+    background-color: #fdecea;
+}
+
 dl {
     width: 100%;
     overflow: hidden;

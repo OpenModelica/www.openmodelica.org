@@ -57,6 +57,18 @@ Give it the class `table`, and do not add `style`, `border`, `cellpadding` or ot
 
 The stylesheet styles `table.table`.
 
+### Notes and warnings
+
+To highlight a note or a warning, use a GitHub-style alert instead of coloured text:
+
+```markdown
+> [!WARNING]
+> The numbers are raw request counts from the web server log.
+```
+
+`[!NOTE]`, `[!TIP]` and `[!IMPORTANT]` give a blue box, `[!WARNING]` and `[!CAUTION]` a red one.
+The stylesheet styles them as `blockquote.alert`.
+
 ### Generated pages
 
 A Jenkins job generates the bibliography pages in `content/research/` (master theses, PhD theses, papers and the full bibliography).

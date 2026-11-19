@@ -1,0 +1,12 @@
+{{- /* GitHub-style alerts, for example "> [!WARNING]", get the classes "alert" and
+    "alert-warning", so that the stylesheet can style them. */
+-}}
+{{- if eq .Type "alert" -}}
+    <blockquote class="alert alert-{{ .AlertType }}">
+        {{ .Text }}
+    </blockquote>
+{{- else -}}
+    <blockquote>
+        {{ .Text }}
+    </blockquote>
+{{- end -}}
