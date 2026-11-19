@@ -39,7 +39,7 @@ numbers from the AWStats of build.openmodelica.org and writes `static/api/statis
 - The numbers are the sum rows of the AWStats extra sections in `scripts/awstats/extra-sections.conf`,
   which must be part of `/etc/awstats/awstats.conf.local` on the web server.
 - The AWStats login is the Jenkins username/password credential with the ID `awstats`.
-- Pull requests and builds without the login reuse the published numbers.
+- Pull requests, other branches and builds without the login reuse the published numbers.
 
 To see the page locally with the published numbers:
 
