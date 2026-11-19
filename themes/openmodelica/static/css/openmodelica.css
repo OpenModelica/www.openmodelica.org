@@ -10,8 +10,15 @@ body {
 	color: #000000;
 	word-wrap:break-word !important;
 	font-family: 'Open Sans', sans-serif;
-    margin-top: 0px;
+    margin: 0;
     font-size: 10pt;
+    /* Keep the footer at the bottom of the window on short pages */
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+#content {
+    flex: 1 0 auto;
 }
 
 h1, h2, h3, h4 {
@@ -290,6 +297,8 @@ li > a:only-child:after { content: ''; }
     border-bottom: 3px solid #111111;
     text-align: center;
     color: #888888;
+    padding: 15pt 10pt;
+    line-height: 1.6;
 }
 
 #ja-footer .footer2 a {
