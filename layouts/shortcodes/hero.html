@@ -1,33 +1,62 @@
 {{- $release := site.Params.current_version.release -}}
 <section class="hero">
-  <div class="hero-text">
-    <h1>{{ .Get "title" }}</h1>
-    {{ .Inner | .Page.RenderString (dict "display" "block") }}
-    <div class="hero-buttons">
-      <div class="download-split">
-        <details class="os-menu" id="download-menu">
-          <summary class="os-toggle" title="Choose the platform">
-            <span class="os-icon os-download" id="download-os-icon"></span><span class="caret"></span>
-          </summary>
-          <ul>
-            <li><a href="/download/download-windows"><span class="os-icon os-windows"></span>Windows</a></li>
-            <li><a href="/download/download-linux"><span class="os-icon os-linux"></span>Linux</a></li>
-            <li><a href="/download/download-mac"><span class="os-icon os-mac"></span>Mac</a></li>
-            <li><a href="/download/docker"><span class="os-icon os-docker"></span>Docker</a></li>
-            <li><a href="/download/virtual-machine"><span class="os-icon"></span>Virtual machine</a></li>
-            <li><a href="/download/nightlybuildsdownload"><span class="os-icon"></span>Nightly builds</a></li>
-          </ul>
-        </details>
-        <a class="button big" id="download-button" href="/download/download-windows">
-          <span>Download<small id="download-caption">Version {{ $release }}</small></span>
-        </a>
-      </div>
-      <a class="button big secondary" href="https://playground.openmodelica.org/demo/">
-        <span>Run in your web browser<small>Nothing to install</small></span>
-      </a>
+    <div class="hero-text">
+        <h1>{{ .Get "title" }}</h1>
+        {{ .Inner | .Page.RenderString (dict "display" "block") }}
+        <div class="hero-buttons">
+            <div class="download-split">
+                <details class="os-menu" id="download-menu">
+                    <summary class="os-toggle" title="Choose the platform">
+                        <span class="os-icon os-download" id="download-os-icon"></span
+                        ><span class="caret"></span>
+                    </summary>
+                    <ul>
+                        <li>
+                            <a href="/download/download-windows"
+                                ><span class="os-icon os-windows"></span>Windows</a
+                            >
+                        </li>
+                        <li>
+                            <a href="/download/download-linux"
+                                ><span class="os-icon os-linux"></span>Linux</a
+                            >
+                        </li>
+                        <li>
+                            <a href="/download/download-mac"
+                                ><span class="os-icon os-mac"></span>Mac</a
+                            >
+                        </li>
+                        <li>
+                            <a href="/download/docker"
+                                ><span class="os-icon os-docker"></span>Docker</a
+                            >
+                        </li>
+                        <li>
+                            <a href="/download/virtual-machine"
+                                ><span class="os-icon"></span>Virtual machine</a
+                            >
+                        </li>
+                        <li>
+                            <a href="/download/nightlybuildsdownload"
+                                ><span class="os-icon"></span>Nightly builds</a
+                            >
+                        </li>
+                    </ul>
+                </details>
+                <a class="button big" id="download-button" href="/download/download-windows">
+                    <span>Download<small id="download-caption">Version {{ $release }}</small></span>
+                </a>
+            </div>
+            <a class="button big secondary" href="https://playground.openmodelica.org/demo/">
+                <span>Run in your web browser<small>Nothing to install</small></span>
+            </a>
+        </div>
     </div>
-  </div>
-  <img class="hero-image" src="/images/om.jpg" alt="Screenshots of OMEdit, OMNotebook and simulation plots">
+    <img
+        class="hero-image"
+        src="/images/om.jpg"
+        alt="Screenshots of OMEdit, OMNotebook and simulation plots"
+    />
 </section>
 <script>
 (function () {

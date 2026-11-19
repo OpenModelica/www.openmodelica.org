@@ -45,3 +45,19 @@ To see the page locally with the published numbers:
 python3 scripts/statistics.py
 hugo serve
 ```
+
+## Formatting
+
+The Hugo templates (`layouts/`, `themes/openmodelica/layouts/`) and the theme stylesheets are formatted with
+[Prettier](https://prettier.io/) and the Go template plugin, with the settings in `.prettierrc.json`.
+Page content is not formatted. A GitHub workflow checks the formatting of every pull request.
+
+```bash
+npm install
+npm run format        # format all files
+npm run check-format  # only check
+```
+
+Prettier breaks `{{ if }}…{{ else }}…{{ end }}` blocks inside attribute values onto several lines,
+which puts line breaks into the value. Use a single action instead, for example
+`href="{{ .Params.external_url | default .RelPermalink }}"`.

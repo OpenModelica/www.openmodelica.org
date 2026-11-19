@@ -2,3 +2,4 @@
 .hugo_build.lock
 public
 static/api/statistics.json
+node_modules

@@ -1,4 +1,4 @@
 <div class="card">
-<h2>{{ .Get "title" }}</h2>
-{{ .Inner | .Page.RenderString (dict "display" "block") }}
+    <h2>{{ .Get "title" }}</h2>
+    {{ .Inner | .Page.RenderString (dict "display" "block") }}
 </div>

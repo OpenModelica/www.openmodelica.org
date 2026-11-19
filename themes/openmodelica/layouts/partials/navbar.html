@@ -2,84 +2,136 @@
 <div id="nav-container">
     <nav>
         <ul class="nav menu mod-list space-left">
-            <li class="item-101 default current active deeper parent"><a href="/">Home</a>
+            <li class="item-101 default current active deeper parent">
+                <a href="/">Home</a>
                 <ul class="nav-child unstyled small">
-                    {{range where .Site.RegularPages "Section" "home"}}
-                    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+                    {{ range where .Site.RegularPages "Section" "home" }}
+                        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
                     {{ end }}
                     <li><a href="/privacy-policy">Privacy Policy</a></li>
                     <li><a href="/terms-of-service">Terms of Service</a></li>
                 </ul>
             </li>
-            <li class="item-150 deeper parent"><a href="#">Download</a>
+            <li class="item-150 deeper parent">
+                <a href="#">Download</a>
                 <ul class="nav-child unstyled small">
                     <li class="item-201"><a href="/download/download-windows">Windows</a></li>
                     <li class="item-202"><a href="/download/download-linux">Linux</a></li>
                     <li class="item-203"><a href="/download/download-mac">Mac</a></li>
                     <li class="item-352"><a href="/download/docker">Docker (All OS)</a></li>
-                    <li class="item-352"><a href="/download/virtual-machine">Virtual Machine (All OS)</a></li>
-                    <li class="item-241"><a href="/download/nightlybuildsdownload">Nightly Builds</a></li>
+                    <li class="item-352">
+                        <a href="/download/virtual-machine">Virtual Machine (All OS)</a>
+                    </li>
+                    <li class="item-241">
+                        <a href="/download/nightlybuildsdownload">Nightly Builds</a>
+                    </li>
                     <li class="item-242"><a href="/download/statistics">Statistics</a></li>
                 </ul>
             </li>
             <li><a href="https://playground.openmodelica.org/demo/">Playground</a></li>
-            <li class="item-236 deeper parent"><a href="#">Users</a>
+            <li class="item-236 deeper parent">
+                <a href="#">Users</a>
                 <ul class="nav-child unstyled small">
-                    <li class="item-153"><a href="/useresresources/userdocumentation">User Documentation</a></li>
-                    <li class="item-237"><a href="/useresresources/modelica-courses">Modelica Courses</a></li>
+                    <li class="item-153">
+                        <a href="/useresresources/userdocumentation">User Documentation</a>
+                    </li>
+                    <li class="item-237">
+                        <a href="/useresresources/modelica-courses">Modelica Courses</a>
+                    </li>
                     <li class="item-190"><a href="/useresresources/tools">Tools</a></li>
-                    <li class="item-169"><a href="{{ .Site.Params.bugreporting }}" target="_blank">Report Bugs</a></li>
-                    <li class="item-249"><a href="/useresresources/mailing-list">Mailing List</a></li>
+                    <li class="item-169">
+                        <a href="{{ .Site.Params.bugreporting }}" target="_blank">Report Bugs</a>
+                    </li>
+                    <li class="item-249">
+                        <a href="/useresresources/mailing-list">Mailing List</a>
+                    </li>
                     <li class="item-149"><a href="/forum">Forum</a></li>
                     <li class="item-161"><a href="/useresresources/license">License</a></li>
-                    <li class="item-363"><a
-                            href="https://trac.openmodelica.org/OpenModelica/wiki/WritingCompliantLibraries">Modelica
-                            standard
-                            compliance</a></li>
-                    <li class="item-154"><a href="/useresresources/applications">Applications</a></li>
-                    <li class="item-200"><a href="/useresresources/related-products">Industrial Products</a></li>
-                </ul>
-            </li>
-            <li class="item-239 deeper parent"><a href="#">Developers</a>
-                <ul class="nav-child unstyled small">
-                    <li class="item-240"><a href="/developersresources/sourcecode">Source Code</a></li>
-                    <li class="item-157"><a href="{{ .Site.Params.bugreporting }}" target="_blank">Report Bugs</a></li>
-                    <li class="item-163"><a href="/developersresources/devdocumentation">Developer Documentation</a>
+                    <li class="item-363">
+                        <a
+                            href="https://trac.openmodelica.org/OpenModelica/wiki/WritingCompliantLibraries"
+                            >Modelica standard compliance</a
+                        >
                     </li>
-                    <li class="item-195"><a href="/developersresources/courses">Developers Courses</a></li>
-                    <li class="item-165"><a href="/developersresources/contributor-license-agreement">Contributor license agreement</a></li>
+                    <li class="item-154">
+                        <a href="/useresresources/applications">Applications</a>
+                    </li>
+                    <li class="item-200">
+                        <a href="/useresresources/related-products">Industrial Products</a>
+                    </li>
                 </ul>
             </li>
-            <li class="item-151 deeper parent"><a href="#">Events</a>
+            <li class="item-239 deeper parent">
+                <a href="#">Developers</a>
                 <ul class="nav-child unstyled small">
-                    <li class="item-229 deeper parent"><a href="https://modprodblog.wordpress.com/">MODPROD Workshop</a>
+                    <li class="item-240">
+                        <a href="/developersresources/sourcecode">Source Code</a>
+                    </li>
+                    <li class="item-157">
+                        <a href="{{ .Site.Params.bugreporting }}" target="_blank">Report Bugs</a>
+                    </li>
+                    <li class="item-163">
+                        <a href="/developersresources/devdocumentation">Developer Documentation</a>
+                    </li>
+                    <li class="item-195">
+                        <a href="/developersresources/courses">Developers Courses</a>
+                    </li>
+                    <li class="item-165">
+                        <a href="/developersresources/contributor-license-agreement"
+                            >Contributor license agreement</a
+                        >
+                    </li>
+                </ul>
+            </li>
+            <li class="item-151 deeper parent">
+                <a href="#">Events</a>
+                <ul class="nav-child unstyled small">
+                    <li class="item-229 deeper parent">
+                        <a href="https://modprodblog.wordpress.com/">MODPROD Workshop</a>
                         <ul class="nav-child unstyled small">
                             {{ range where .Site.RegularPages ".CurrentSection.RelPermalink" "=" "/events/modprod/" }}
-                                <li><a href="{{ if .Params.external_url }}{{ .Params.external_url }}{{ else }}{{ .RelPermalink }}{{ end }}">{{ .Title }}</a></li>
+                                <li>
+                                    <a href="{{ .Params.external_url | default .RelPermalink }}"
+                                        >{{ .Title }}</a
+                                    >
+                                </li>
                             {{ end }}
                         </ul>
                     </li>
-                    <li><a href="#">OpenModelica Workshop</a>
+                    <li>
+                        <a href="#">OpenModelica Workshop</a>
                         <ul class="nav-child unstyled small">
                             {{ range where .Site.RegularPages ".CurrentSection.RelPermalink" "=" "/events/openmodelica-workshop/" }}
-                                <li><a href="{{ if .Params.external_url }}{{ .Params.external_url }}{{ else }}{{ .RelPermalink }}{{ end }}">{{ .Title }}</a></li>
+                                <li>
+                                    <a href="{{ .Params.external_url | default .RelPermalink }}"
+                                        >{{ .Title }}</a
+                                    >
+                                </li>
                             {{ end }}
                         </ul>
                     </li>
-                    <li class="item-220 deeper parent"><a href="/events/othermeetings">Other Events</a></li>
+                    <li class="item-220 deeper parent">
+                        <a href="/events/othermeetings">Other Events</a>
+                    </li>
                     <li class="item-183"><a href="/events/contact">Contact</a></li>
                     <li><a href="/events/travel-information">Travel Information</a></li>
                 </ul>
             </li>
-            <li class="item-152 deeper parent"><a href="/research">Research</a>
+            <li class="item-152 deeper parent">
+                <a href="/research">Research</a>
                 <ul class="nav-child unstyled small">
-                    <li class="item-171"><a href="/research/conference-papers">Conference papers</a></li>
+                    <li class="item-171">
+                        <a href="/research/conference-papers">Conference papers</a>
+                    </li>
                     <li class="item-212"><a href="/research/journal-papers">Journal papers</a></li>
-                    <li class="item-172"><a href="/research/phd-and-licentiate-theses">PhD and Licentiate theses</a>
+                    <li class="item-172">
+                        <a href="/research/phd-and-licentiate-theses">PhD and Licentiate theses</a>
                     </li>
                     <li class="item-173"><a href="/research/master-theses">Master Theses</a></li>
                     <li class="item-174"><a href="/research/books">Books</a></li>
-                    <li class="item-193"><a href="/research/open-master-theses">Open Master Theses</a></li>
+                    <li class="item-193">
+                        <a href="/research/open-master-theses">Open Master Theses</a>
+                    </li>
                     <li class="item-226"><a href="/research/projects">Projects</a></li>
                 </ul>
             </li>

@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "description": "Formatting tools for the Hugo templates and stylesheets",
+  "scripts": {
+    "format": "prettier --write .",
+    "check-format": "prettier --check ."
+  },
+  "devDependencies": {
+    "prettier": "3.3.3",
+    "prettier-plugin-go-template": "0.0.15"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "plugins": ["prettier-plugin-go-template"],
+  "tabWidth": 4,
+  "printWidth": 100,
+  "overrides": [
+    {
+      "files": ["*.html"],
+      "options": {
+        "parser": "go-template"
+      }
+    },
+    {
+      "files": ["*.yml", "*.yaml"],
+      "options": {
+        "tabWidth": 2
+      }
+    }
+  ]
+}
