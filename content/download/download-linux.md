@@ -7,18 +7,18 @@ toc: true
 Official Release
 : * contains only validated new features
   * intended for productive usage
-  * latest official release **<span id="omc-version-release">{{< param "current_version.release" >}}</span>** (<a href="https://github.com/OpenModelica/OpenModelica/commits/{{< param "current_branch.release" >}}">commit history</a>) (<a href="https://github.com/OpenModelica/OpenModelica/releases/tag/v{{< param "current_version.release" >}}">release notes</a>)
+  * latest official release **<span id="omc-version-release">{{< param "current_version.release" >}}</span>** ([commit history](https://github.com/OpenModelica/OpenModelica/commits/{{< param "current_branch.release" >}})) ([release notes](https://github.com/OpenModelica/OpenModelica/releases/tag/v{{< param "current_version.release" >}}))
 
 Stable Development
 : * dev.xx versions are released during development when the performance is sufficiently stable; they contain bug fixes and some new features that still need to be validated
   * dev.beta.xx versions are released in preparation to official releases for testing; no new features are added to beta versions, only bug fixes
-  * latest stable release: **<span id="omc-version-stable">{{< param "current_version.stable" >}}** (<a href="https://github.com/OpenModelica/OpenModelica/commits/{{< param "current_branch.stable" >}}">commit history</a>) (<a href="https://github.com/OpenModelica/OpenModelica/releases/tag/v{{< param "current_version.stable" >}}">release notes</a>)
+  * latest stable release: **<span id="omc-version-stable">{{< param "current_version.stable" >}}</span>** ([commit history](https://github.com/OpenModelica/OpenModelica/commits/{{< param "current_branch.stable" >}})) ([release notes](https://github.com/OpenModelica/OpenModelica/releases/tag/v{{< param "current_version.stable" >}}))
 
 Nightly Build
-: * built daily with the latest additions to the code base that pass the standard regression tests (<a href="https://github.com/OpenModelica/OpenModelica/commits/{{< param "current_branch.nightly" >}}">commit history</a>)
+: * built daily with the latest additions to the code base that pass the standard regression tests ([commit history](https://github.com/OpenModelica/OpenModelica/commits/{{< param "current_branch.nightly" >}}))
   * intended to make the latest developments and enhancements available for testers and developers, not for productive usage
   * features that are not subject to regression testing may get broken between one nightly build and the next
-  * current nightly builds **<span id="omc-version-nightly">{{< param "current_version.nightly" >}}**
+  * current nightly builds **<span id="omc-version-nightly">{{< param "current_version.nightly" >}}</span>**
 
 ## Debian / Ubuntu Packages
 
@@ -150,12 +150,16 @@ getJSON('/api/linux.json', function(err, data) {
 });
 </script>
 
-<p><img style="vertical-align: baseline;" src="/images/ubuntu-logo.gif" alt="" width="80" height="80" border="0" /><img style="vertical-align: baseline;" src="/images/debian_splash.png" alt="" width="80" height="80" border="0" /></p>
+<img src="/images/ubuntu-logo.gif" alt="" width="80" height="80" /> <img src="/images/debian_splash.png" alt="" width="80" height="80" />
 
 We provide .deb packages for the following Debian and Ubuntu versions:
-<span id="debian-os-names">LTS versions of both and non-LTS versions of the latest Ubuntu (x86, amd64, and armv7). You can also check the <a href="https://build.openmodelica.org/apt/dists/">full list including latest update</a></span>.
+<span id="debian-os-names">LTS versions of both and non-LTS versions of the latest Ubuntu (x86, amd64, and armv7).
+You can also check the [full list including latest update](https://build.openmodelica.org/apt/dists/)</span>.
 
-Source packages are also provided if your distribution is too old (or still not released yet) for the binary packages. Older distributions may not have all build dependencies used by omc, but can still be built. Some older distributions still have binary packages, but are no longer maintained. Note that armhf packages are only available for more recent versions of Ubuntu (and not Debian at all).
+Source packages are also provided if your distribution is too old (or still not released yet) for the binary packages.
+Older distributions may not have all build dependencies used by omc, but can still be built.
+Some older distributions still have binary packages, but are no longer maintained.
+Note that armhf packages are only available for more recent versions of Ubuntu (and not Debian at all).
 
 Use the following lines in a shell to update your packages and install the certificate signing the OpenModelica packages:
 
@@ -204,7 +208,8 @@ sudo apt install --no-install-recommends omc
 
 ### Modelica libraries
 
-There is a package manager for Modelica libraries built into the scripting interface and the OMEdit graphical user interface. See the [documentation](/doc/OpenModelicaUsersGuide/latest/packagemanager.html) for details.
+There is a package manager for Modelica libraries built into the scripting interface and the OMEdit graphical user interface.
+See the [documentation](/doc/OpenModelicaUsersGuide/latest/packagemanager.html) for details.
 
 #### Offline Installation
 
@@ -219,7 +224,8 @@ These libraries will be automatically installed by the package manager in the us
 
 ### C++ runtime
 
-The C++ runtime is an alternative to the default C runtime. To install the C++ runtime run this command:
+The C++ runtime is an alternative to the default C runtime.
+To install the C++ runtime run this command:
 
 ```bash
 sudo apt install libomccpp
@@ -244,7 +250,7 @@ sudo apt-get install omc
 
 ## RPM packages
 
-<p><img style="vertical-align: baseline;" src="/images/rpm-package.png" alt="" width="80" height="80" border="0" /></p>
+<img src="/images/rpm-package.png" alt="" width="80" height="80" />
 
 To add the OpenModelica yum/dnf repository to your system, choose your OS below and run the command(s):
 
@@ -314,4 +320,4 @@ To install libraries, see [above](#modelica-libraries).
 
 ## Source Code
 
-If you can't use deb packages at all, we recommended installing OpenModelica from <a href="/developersresources/sourcecode">source code</a>.
+If you can't use deb packages at all, we recommended installing OpenModelica from [source code](/developersresources/sourcecode).
