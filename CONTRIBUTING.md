@@ -69,6 +69,19 @@ To highlight a note or a warning, use a GitHub-style alert instead of coloured t
 `[!NOTE]`, `[!TIP]` and `[!IMPORTANT]` give a blue box, `[!WARNING]` and `[!CAUTION]` a red one.
 The stylesheet styles them as `blockquote.alert`.
 
+### Styles for one section
+
+A section can have its own stylesheet, for pages that need a layout of their own.
+List it in the `_index.md` of the section with `cascade`, so that all pages of the section load it:
+
+```yaml
+cascade:
+  stylesheets: ["/css/workshop-program.css"]
+```
+
+The workshop programmes in `content/events/openmodelica-workshop/` use this for their session tables.
+They also set `mergeEmptyCells: true`: an empty cell at the end of a table row is merged into the cell before it, for example for a coffee break without speaker and talk.
+
 ### Generated pages
 
 A Jenkins job generates the bibliography pages in `content/research/` (master theses, PhD theses, papers and the full bibliography).

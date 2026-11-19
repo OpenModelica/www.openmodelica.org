@@ -1,0 +1,15 @@
+/* Programmes of the OpenModelica workshops (content/events/openmodelica-workshop/).
+   Loaded only on these pages, through "cascade: stylesheets" in the _index.md of that section. */
+
+/* Every session is a table with the columns time, speakers and talk.
+   The tables span the page and have the same column widths, so that they line up. */
+table.table {
+    width: 100%;
+    table-layout: fixed;
+}
+table.table th:nth-child(1) {
+    width: 7.5em;
+}
+table.table th:nth-child(2) {
+    width: 42%;
+}

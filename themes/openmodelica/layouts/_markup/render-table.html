@@ -1,6 +1,10 @@
 {{- /* Markdown tables get the class "table", like the HTML tables in the pages,
-    so that table.table in the stylesheet styles both. */
+    so that table.table in the stylesheet styles both.
+    On pages with "mergeEmptyCells: true" (the workshop programmes, through "cascade" in their
+    _index.md), empty cells at the end of a row are merged into the last non-empty cell,
+    for example for a lunch break that has no speaker and no talk. */
 -}}
+{{- $merge := .Page.Params.mergeEmptyCells -}}
 <table class="table">
     <thead>
         {{- range .THead }}
@@ -13,9 +17,33 @@
     </thead>
     <tbody>
         {{- range .TBody }}
+            {{- $row := . }}
+            {{- $last := sub (len $row) 1 }}
+            {{- if $merge }}
+                {{- $last = 0 }}
+                {{- range $i, $cell := $row }}
+                    {{- if ne (trim (string $cell.Text) " ") "" }}{{ $last = $i }}{{ end }}
+                {{- end }}
+            {{- end }}
+            {{- $span := sub (len $row) $last }}
             <tr>
-                {{- range . }}
-                    <td style="text-align: {{ .Alignment | default "left" }}">{{- .Text -}}</td>
+                {{- range $i, $cell := $row }}
+                    {{- if lt $i $last }}
+                        <td style="text-align: {{ $cell.Alignment | default "left" }}">
+                            {{- $cell.Text -}}
+                        </td>
+                    {{- else if and (eq $i $last) (gt $span 1) }}
+                        <td
+                            colspan="{{ $span }}"
+                            style="text-align: {{ $cell.Alignment | default "left" }}"
+                        >
+                            {{- $cell.Text -}}
+                        </td>
+                    {{- else if eq $i $last }}
+                        <td style="text-align: {{ $cell.Alignment | default "left" }}">
+                            {{- $cell.Text -}}
+                        </td>
+                    {{- end }}
                 {{- end }}
             </tr>
         {{- end }}

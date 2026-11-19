@@ -5,6 +5,13 @@
     href="/css/openmodelica.css?v={{ substr (readFile "themes/openmodelica/static/css/openmodelica.css" | md5) 0 8 }}"
 />
 <link rel="stylesheet" href="/css/syntax.css" />
+{{- /* Stylesheets for some pages only, for example with "cascade: stylesheets" in the _index.md of a section */ -}}
+{{ range .Params.stylesheets }}
+    <link
+        rel="stylesheet"
+        href="{{ . }}?v={{ substr (readFile (printf "themes/openmodelica/static%s" .) | md5) 0 8 }}"
+    />
+{{ end }}
 <link rel="icon" type="image/x-icon" href="/images/logo-small.svg" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />{{ if .Params.qrcodejs }}
     <script src="/js/qrcode.min.js"></script>
