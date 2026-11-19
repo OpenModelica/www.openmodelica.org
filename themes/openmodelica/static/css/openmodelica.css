@@ -611,6 +611,20 @@ blockquote.alert-caution {
     margin-top: 0;
 }
 
+/* Bibliography pages generated with bibtex2html (content/research/*.md, written by
+   Jenkins; changes to these pages are overwritten, so they are styled here) */
+td.bibtexitem {
+    padding-bottom: 6pt;
+}
+td.bibtexitem blockquote {
+    margin: 0 0 0 1.5em;
+    color: #555555;
+    font-size: 10pt;
+}
+td.bibtexitem font {
+    font-size: inherit;
+}
+
 dl {
     width: 100%;
     overflow: hidden;
