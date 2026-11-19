@@ -1,0 +1,13 @@
+// markdownlint settings, see CONTRIBUTING.md for the rules for writing pages.
+{
+    // One sentence per line: lines are as long as the sentence.
+    "MD013": false,
+
+    // No HTML in pages. Complex tables are the exception, see CONTRIBUTING.md.
+    "MD033": {
+        "allowed_elements": ["table", "thead", "tbody", "tr", "th", "td", "br"],
+    },
+
+    // Lines such as "_Last updated: 2026-09-17_" are not headings.
+    "MD036": false,
+}

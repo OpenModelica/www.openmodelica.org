@@ -1,0 +1,10 @@
+// markdownlint settings for the download pages, in addition to the ones in the repository root.
+{
+    "extends": "../../.markdownlint.jsonc",
+
+    // The release lists on the Windows and Linux pages are lists inside definition lists
+    // ("Official Release" / ": * ..."). markdownlint does not know definition lists and reports
+    // the indentation of these lists. Remove this when the lists are replaced, see TODO.md.
+    "MD007": false,
+    "MD032": false,
+}
