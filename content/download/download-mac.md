@@ -19,15 +19,19 @@ It is a universal build that runs on Apple Silicon and Intel Macs.
 2. The package is not signed.
    Thus macOS does not let you open it after a download (it tells you that the application is damaged or that Apple cannot verify it).
    To let it run, open the Terminal and remove the quarantine flag that macOS put on the downloaded application:
+
    ```bash
    xattr -dr com.apple.quarantine /Applications/OMEdit.app
    ```
+
    Do this again each time you install a new version.
 3. To simulate with the default target language (C), you need a C compiler.
    Install the Xcode command-line tools:
+
    ```bash
    xcode-select --install
    ```
+
    Alternatively, set *Tools > Options > Simulation > Target Language* to `wasm-jit`.
    This target does not use a C compiler.
 

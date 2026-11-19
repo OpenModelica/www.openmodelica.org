@@ -184,14 +184,12 @@ Release branch <select id="deb-branch-select" onChange="selectedBranch()">
   <option value="nightly">nightly</option>
 </select>
 
-
 <div class="highlight"><pre tabindex="0" class="chroma">
 <code>echo "deb [arch=<span id="deb-arch">$(dpkg --print-architecture)</span> signed-by=/usr/share/keyrings/openmodelica-keyring.gpg] \
   https://build.openmodelica.org/apt \
   <span id="deb-codename">$(cat /etc/os-release | grep "\(UBUNTU\\|DEBIAN\\|VERSION\)_CODENAME" | sort | cut -d= -f 2 | head -1)</span> \
   <span id="deb-branch">stable</span>" | sudo tee /etc/apt/sources.list.d/openmodelica.list</code>
 </pre></div>
-
 
 Then update and install OpenModelica:
 
@@ -234,7 +232,7 @@ sudo apt install libomccpp
 ### Older Releases
 
 Older releases are stored for some stable Debian/Ubuntu versions along with the libraries that existed at the time of the release.
-You can find the releases at https://build.openmodelica.org/omc/builds/linux/releases.
+You can find the releases at <https://build.openmodelica.org/omc/builds/linux/releases>.
 
 Starting with OpenModelica 1.9.4 you can use apt to download the packages using a deb-line such as the one below (replace 1.25.5 with the release you want); make sure all existing OpenModelica packages have been uninstalled (so you do not end up with mismatching versions of dependencies).
 Older release directories do not contain the Contents files that apt-file uses, so the line tells apt not to download them:
