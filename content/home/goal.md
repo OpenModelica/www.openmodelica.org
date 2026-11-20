@@ -13,6 +13,6 @@ The main goals of the project are to:
 
 We invite researchers and students, or any interested developer to participate in the project.
 
-- Participate in the [OpenModelicaInterest](/forum) discussion forum.
+- Ask questions and discuss in [GitHub Discussions](https://github.com/OpenModelica/OpenModelica/discussions).
 - Help us: get the latest [source code or nightly build](/developersresources/sourcecode) and [report bugs!](https://github.com/OpenModelica/OpenModelica/issues/new/choose)
 - To learn about Modelica, read a [book](/research/booksproceedings#books) or a [tutorial](/images/docs/userdocs/modprod2012-tutorial1-Peter-Fritzson-ModelicaTutorial.pdf) about Modelica

@@ -5,7 +5,7 @@ title: "Courses"
 ## MetaModelica Course
 
 This course is intended to teach the basics of MetaModelica language and to explain how the OpenModelica compiler is built.
-Alse refer to [developers forum](/forum/forum?id=7).
+Ask questions in [GitHub Discussions](https://github.com/OpenModelica/OpenModelica/discussions).
 
 The links from below are useful for the course in MetaModelica:
 
