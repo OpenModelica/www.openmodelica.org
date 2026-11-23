@@ -55,6 +55,8 @@ body {
     margin: 0;
     font-size: 11pt;
     line-height: 1.5;
+    /* Numbers the entries of the bibliography pages, see .bib-entry */
+    counter-reset: bib-entry;
     /* Keep the footer at the bottom of the window on short pages */
     display: flex;
     flex-direction: column;
@@ -503,6 +505,30 @@ li[role="doc-endnote"] {
 .card li {
     margin-bottom: 2pt;
 }
+/* An entry of the bibliography pages, see scripts/bibliography.py */
+/* The entries are numbered [1], [2], ... through the page, like the
+   bibliographies of papers; the number is not part of the text. */
+.bib-entry {
+    position: relative;
+    margin: 0;
+    padding: 5pt 6pt 5pt 3.4em;
+    counter-increment: bib-entry;
+}
+.bib-entry::before {
+    content: "[" counter(bib-entry) "]";
+    position: absolute;
+    left: 0;
+    width: 2.8em;
+    color: #555555;
+    text-align: right;
+}
+.bib-entry strong {
+    color: #222222;
+}
+.bib-entry:target {
+    border-radius: 6px;
+    background-color: #e8effa;
+}
 .cards .news {
     display: flex;
     flex-direction: column;
@@ -614,20 +640,6 @@ blockquote.alert-caution {
 }
 .tool-text > :first-child {
     margin-top: 0;
-}
-
-/* Bibliography pages generated with bibtex2html (content/research/*.md, written by
-   Jenkins; changes to these pages are overwritten, so they are styled here) */
-td.bibtexitem {
-    padding-bottom: 6pt;
-}
-td.bibtexitem blockquote {
-    margin: 0 0 0 1.5em;
-    color: #555555;
-    font-size: 10pt;
-}
-td.bibtexitem font {
-    font-size: inherit;
 }
 
 dl {

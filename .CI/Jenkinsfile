@@ -29,6 +29,7 @@ pipeline {
       script {
         echo "Running on: ${env.NODE_NAME}"
         sh "python3 scripts/statistics.py"
+        sh "python3 scripts/bibliography.py"
         sh "hugo --gc --minify=true --cleanDestinationDir --cacheDir=/cache/hugo --noTimes --noChmod --destination=public --buildDrafts=true --buildExpired=true --buildFuture=true"
         sh "zip -r www.openmodelica.org.zip public/"
         archiveArtifacts artifacts: 'www.openmodelica.org.zip', fingerprint: true
@@ -62,6 +63,8 @@ pipeline {
           echo "Keeping the previous download statistics: ${err}"
           sh statistics
         }
+        // The pages of the Research menu from bibliography/, see scripts/bibliography.py.
+        sh "python3 scripts/bibliography.py"
         sh "hugo --gc --minify=true --cleanDestinationDir --cacheDir=/cache/hugo --noTimes --noChmod --destination=/var/www/hugo.openmodelica.org"
       }
     }
