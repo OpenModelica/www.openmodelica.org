@@ -1,5 +1,5 @@
 ---
-title: "Open Master Theses Related to the OpenModelica Platform"
+title: "Open Master Theses"
 date: 2022-12-12
 ---
 

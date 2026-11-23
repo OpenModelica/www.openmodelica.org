@@ -33,9 +33,9 @@ URL = "https://raw.githubusercontent.com/OpenModelica/OpenModelica/master/doc/bi
 # The pages and their front matter.
 # The pages, their front matter and the BibTeX types of their entries.
 PAGES = {
-    "journal-papers": ('title: "Journal Articles"', {"article"}),
+    "journal-papers": ('title: "Journal Papers"', {"article"}),
     "conference-papers": ('title: "Conference Papers"', {"inproceedings", "conference", "incollection"}),
-    "phd-and-licentiate-theses": ('title: "Doctoral and Licentiate Theses"', {"phdthesis"}),
+    "phd-and-licentiate-theses": ('title: "PhD and Licentiate Theses"', {"phdthesis"}),
     "master-theses": ('title: "Master Theses"\naliases: ["/research/recentlycompletedtheses"]', {"mastersthesis"}),
 }
 ALL = 'title: "OpenModelica Bibliography"'
