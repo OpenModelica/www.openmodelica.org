@@ -87,21 +87,12 @@ The purpose of OMShell is to provide an interactive environment for working with
 
 {{< /tool >}}
 
-### [Modelica Development Tooling (MDT)](/free-and-open-source-software/modelica-development-tooling-mdt)
+### [Modelica Development Tooling (MDT)](https://github.com/OpenModelica/MDT)
 
 {{< tool image="/images/MDT/MDT.jpg" alt="MDT Screenshot" link="/images/MDT/MDT.jpg" target="_blank" >}}
 
 * MDT provides an advanced development environment for Modelica within the Eclipse platform.
 * Advanced textual environment for eclipse.
-
-{{< /tool >}}
-
-### [Modelica Modeling Language (ModelicaML)](/free-and-open-source-software/modelicaml)
-
-{{< tool image="/images/modelicaml_concept.jpg" alt="modelicaml" link="/images/modelicaml_concept.jpg" target="_blank" >}}
-
-* Graphical modeling language for the description of time-continuous and time-discrete/event-based system dynamics .
-* Click the thumbnail for a screenshot.
 
 {{< /tool >}}
 
