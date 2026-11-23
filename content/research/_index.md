@@ -21,3 +21,5 @@ Research on OpenModelica is done at these universities:
   See the [Modelica related research at PELAB](https://www.ida.liu.se/labs/pelab/modelica/) and the [PELAB publications](https://www.ida.liu.se/labs/pelab/publications/).
 - [Hochschule Bielefeld – University of Applied Sciences and Arts](https://www.hsbi.de/en) (HSBI), Germany, at the Faculty of Engineering and Mathematics.
   See the [publications of Bernhard Bachmann](https://www.hsbi.de/publikationsserver/person/33931).
+- [Politecnico di Milano](https://www.polimi.it/en) (PoliMi), Italy, at the [Department of Electronics, Information and Bioengineering (DEIB)](https://www.deib.polimi.it/eng/home-page).
+  See the [page of Francesco Casella](https://www.deib.polimi.it/eng/people/details/129954).
