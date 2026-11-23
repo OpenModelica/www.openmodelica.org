@@ -15,6 +15,12 @@
 <link rel="icon" type="image/x-icon" href="/images/logo-small.svg" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />{{ if .Params.qrcodejs }}
     <script src="/js/qrcode.min.js"></script>
+{{ end }}{{ if .Params.bibtex }}
+    {{- /* Shows the BibTeX of an entry in a dialog, see scripts/bibliography.py */ -}}
+    <script
+        src="/js/bibtex.js?v={{ substr (readFile "themes/openmodelica/static/js/bibtex.js" | md5) 0 8 }}"
+        defer
+    ></script>
 {{ end }}{{ with .Params.external_url }}
     <meta http-equiv="refresh" content="0; URL={{ . }}" />
 {{ end }}

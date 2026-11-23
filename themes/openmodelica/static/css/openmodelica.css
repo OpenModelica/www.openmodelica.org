@@ -529,6 +529,50 @@ li[role="doc-endnote"] {
     border-radius: 6px;
     background-color: #e8effa;
 }
+/* The BibTeX of an entry, opened by themes/openmodelica/static/js/bibtex.js */
+.bibtex-dialog {
+    width: min(720px, calc(100vw - 32px));
+    padding: 0;
+    border: 1px solid #dddddd;
+    border-radius: 8px;
+}
+.bibtex-dialog::backdrop {
+    background-color: rgba(0, 0, 0, 0.35);
+}
+.bibtex-box {
+    padding: 12pt 14pt;
+}
+.bibtex-head {
+    display: flex;
+    align-items: center;
+    gap: 8pt;
+    margin-bottom: 8pt;
+}
+.bibtex-head strong {
+    flex: 1;
+    overflow-wrap: anywhere;
+}
+.bibtex-head button {
+    padding: 3pt 10pt;
+    border: 1px solid #1b57b1;
+    border-radius: 6px;
+    background-color: #ffffff;
+    color: #1b57b1;
+    font: inherit;
+    cursor: pointer;
+}
+.bibtex-head button:hover {
+    background-color: #e8effa;
+}
+.bibtex-dialog pre {
+    max-height: 60vh;
+    margin: 0;
+    padding: 8pt;
+    overflow: auto;
+    border-radius: 6px;
+    background-color: #f6f8fa;
+    font-size: 10pt;
+}
 .stats {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(130pt, 1fr));

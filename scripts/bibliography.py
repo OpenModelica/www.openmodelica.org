@@ -10,6 +10,9 @@ content/research/:
   openmodelica.md     all entries, sorted by author
   openmodelica_bib.md the BibTeX source of all entries
 
+and the BibTeX source of each entry to static/api/bibtex.json, which
+themes/openmodelica/static/js/bibtex.js shows when a BibTeX link is clicked.
+
 The pages are not in Git; the Jenkins job of this website runs this script
 before hugo. The Jenkins job of OpenModelica starts the website job when
 openmodelica.bib changed on master.
@@ -22,6 +25,7 @@ Only the Python standard library is needed.
 """
 
 import argparse
+import json
 import os
 import re
 import sys
@@ -297,6 +301,7 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--bib", default=URL, help="URL or file of openmodelica.bib (default: %(default)s)")
     ap.add_argument("--output-dir", default="content/research")
+    ap.add_argument("--json", default="static/api/bibtex.json", help="BibTeX source of each entry, by key")
     ap.add_argument("--base", default="/research/", help="URL of the bibliography pages")
     args = ap.parse_args()
 
@@ -316,7 +321,7 @@ def main():
         for e in sorted((e for e in entries if e.kind in kinds), key=lambda e: (len(e.key), e.key)):
             unique.setdefault((latex(e.get("title")).lower(), year(e)), e)
         cited = sorted(unique.values(), key=lambda e: (-year(e), -month(e), e.key.lower()))
-        out, current = [front_matter(fields)], None
+        out, current = [front_matter(fields + "\nbibtex: true")], None
         for e in cited:
             if year(e) != current:
                 current = year(e)
@@ -334,7 +339,7 @@ def main():
         else:
             name = latex(e.get("key") or e.get("title"))
         return (name.lower(), -year(e), e.key.lower())
-    out = [front_matter(ALL)]
+    out = [front_matter(ALL + "\nbibtex: true")]
     for e in sorted(entries, key=sortkey):
         out.append("\n" + render(e, args.base, byKey) + "\n")
     write("openmodelica", "".join(out))
@@ -343,6 +348,10 @@ def main():
     for e in sorted(entries, key=sortkey):
         out.append('\n### [%s](%sopenmodelica#%s) {id="%s"}\n\n```bibtex\n%s\n```\n' % (md(e.key), args.base, e.key, e.key, e.source))
     write("openmodelica_bib", "".join(out))
+
+    os.makedirs(os.path.dirname(args.json) or ".", exist_ok=True)
+    with open(args.json, "w", encoding="utf-8") as fout:
+        json.dump({e.key: e.source for e in entries}, fout, ensure_ascii=False, separators=(",", ":"))
 
 
 if __name__ == "__main__":
