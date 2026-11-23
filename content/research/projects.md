@@ -11,7 +11,7 @@ The Open Source Modelica Consortium has been active in the following publicly fu
 | 2021-2024 | [PHyMoS](https://phymos.de/en/) | German Federal Ministry for Economic Affairs and Energy (BMWi) |
 | 2019-2022 | EMBrACE | [ITEA3](https://itea4.org/project/embrace.html) |
 | 2019-2022 | EMISYS | [Vinnova Electronics, software and communication - FFI](https://www.vinnova.se/p/emisys/) |
-| 2017-2021 | EMPHYSIS | [ITEA3](https://itea4.org/project/emphysis.html) |
+| 2017-2021 | [EMPHYSIS](https://emphysis.github.io/) | [ITEA3](https://itea4.org/project/emphysis.html) |
 | 2016-2018 | [PARADOM](https://tu-dresden.de/zih/forschung/projekte/paradom) | German Federal Ministry of Education and Research (BMBF) |
 | 2015-2019 | [OpenCPS](https://opencps.eu/) | [ITEA3](https://itea4.org/project/opencps.html) |
 | 2015-2019 | RTISIM | [Vinnova Strategic Indo-Swedish Cooperative Innovation Programme on "Embedded Systems"](https://www.vinnova.se/en/p/real-time-interoperability-oriented-co-simulation-with-openmodelica-and-embedded-controllers---rtisim/) |
