@@ -1,3 +1,0 @@
----
-title: Joomla! Specific Links
----
