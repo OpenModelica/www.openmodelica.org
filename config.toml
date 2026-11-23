@@ -14,6 +14,10 @@ theme = 'openmodelica'
     [markup.goldmark.renderer]
       # Raw HTML is part of the Joomla export
       unsafe = true
+    [markup.goldmark.parser.attribute]
+      # Attributes like {id="..." class="bib-entry"} on the line after a
+      # paragraph, used by the generated bibliography pages
+      block = true
 
 [blackfriday]
 extensions = [

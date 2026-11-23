@@ -3,6 +3,7 @@
 In order to test the webpage locally:
 
 ```bash
+python3 scripts/bibliography.py  # generates the bibliography pages, see below
 hugo serve
 ```
 
@@ -45,6 +46,24 @@ To see the page locally with the published numbers:
 
 ```bash
 python3 scripts/statistics.py
+hugo serve
+```
+
+## Bibliography
+
+The pages of the journal papers, conference papers, PhD and licentiate theses, master theses and the whole
+bibliography in the Research menu are generated from `doc/bibliography/openmodelica.bib` of the
+[OpenModelica repository](https://github.com/OpenModelica/OpenModelica), so add or change entries there.
+Each page shows the entries of one BibTeX type (`article`, `inproceedings`, `phdthesis`, `mastersthesis`).
+
+The pages are not in Git: the Jenkins job runs `scripts/bibliography.py` before `hugo`, which downloads
+`openmodelica.bib` from the master branch and writes the pages to `content/research/`.
+The Jenkins job of OpenModelica starts the website job when `openmodelica.bib` changed on master.
+
+To see the pages locally:
+
+```bash
+python3 scripts/bibliography.py                 # or --bib path/to/openmodelica.bib
 hugo serve
 ```
 
