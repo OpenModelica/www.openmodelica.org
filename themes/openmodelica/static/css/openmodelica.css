@@ -529,6 +529,32 @@ li[role="doc-endnote"] {
     border-radius: 6px;
     background-color: #e8effa;
 }
+.stats {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(130pt, 1fr));
+    gap: 12pt;
+    margin: 12pt 0;
+}
+.stat {
+    display: flex;
+    flex-direction: column;
+    padding: 10pt 14pt;
+    border: 1px solid #dddddd;
+    border-radius: 8px;
+    background-color: #ffffff;
+}
+.stat:hover {
+    border-color: currentColor;
+    text-decoration: none;
+}
+.stat-number {
+    font-size: 22pt;
+    font-weight: bold;
+    line-height: 1.2;
+}
+.stat-label {
+    color: #333333;
+}
 .cards .news {
     display: flex;
     flex-direction: column;
