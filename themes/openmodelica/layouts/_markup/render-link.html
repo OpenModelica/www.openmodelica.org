@@ -1,0 +1,11 @@
+{{- /* Links to other websites and to documents such as PDFs, e.g. research
+    papers, open in a new tab; links to pages of this website do not. */
+-}}
+{{- $url := urls.Parse .Destination -}}
+{{- $own := slice "" "openmodelica.org" "www.openmodelica.org" -}}
+{{- $document := findRE `(?i)\.(pdf|zip|txt|mo|onb|ps|ppt|pptx|doc|docx)$` $url.Path -}}
+{{- $newTab := and (not (hasPrefix .Destination "#")) (or (not (in $own $url.Host)) $document) -}}
+{{- $attrs := printf `href="%s"` (htmlEscape .Destination) -}}
+{{- with .Title }}{{ $attrs = printf `%s title="%s"` $attrs (htmlEscape .) }}{{ end -}}
+{{- if $newTab }}{{ $attrs = printf `%s target="_blank" rel="noopener"` $attrs }}{{ end -}}
+{{- printf "<a %s>%s</a>" $attrs .Text | safeHTML -}}
