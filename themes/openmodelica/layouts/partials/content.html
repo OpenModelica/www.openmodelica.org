@@ -1,10 +1,15 @@
 {{- partial "toc.html" . -}}
 <h1>{{ .Title }}</h1>
-{{ with .PublishDate }}
-    <div class="publishDate">Published {{ .Format "2006-01-02" }}</div>
-{{ end }}
-{{ with .ExpiryDate }}
-    <div class="publishDate">Expires {{ .Format "2006-01-02" }}</div>
+{{- /* Only pages have their own dates; a section page like /research/ gets the
+    date of its newest page from Hugo. */
+-}}
+{{ if .IsPage }}
+    {{ with .PublishDate }}
+        <div class="publishDate">Published {{ .Format "2006-01-02" }}</div>
+    {{ end }}
+    {{ with .ExpiryDate }}
+        <div class="publishDate">Expires {{ .Format "2006-01-02" }}</div>
+    {{ end }}
 {{ end }}
 {{ with .Params.external_url }}
     Redirecting to <a href="{{ . }}">{{ . }}</a>
