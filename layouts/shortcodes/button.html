@@ -1,0 +1,7 @@
+{{- /* A link that looks like a button, for a call to action in a page.
+    Parameters: href, and optionally class="secondary" for the white variant.
+    The inner text is the button label. */
+-}}
+{{- $class := "button" -}}
+{{- with .Get "class" }}{{ $class = printf "button %s" . }}{{ end -}}
+<p><a class="{{ $class }}" href="{{ .Get "href" }}">{{ .Inner | .Page.RenderString }}</a></p>

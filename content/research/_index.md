@@ -2,8 +2,24 @@
 title: "Research"
 ---
 
-- Visit the [Modelica related research pages](https://www.ida.liu.se/%7Epelab/modelica) at Programming Environments Laboratory (PELAB).
-- Visit the index of our research [publications](https://www.ida.liu.se/%7Epelab/publications).
-- Try Google Scholar: [Modelica+PELAB](https://scholar.google.com/scholar?hl=en&lr=&safe=off&q=Modelica+PELAB).
-- To learn more about Modelica, read [a book about Modelica](https://www.ida.liu.se/labs/pelab/modelica/OpenModelica/Documents/ModelicaBookExcerpts.pdf) written by [Peter Fritzson](https://www.ida.liu.se/%7Epetfr).
-- Alternatively you can read the [Modelica Language Specification](https://specification.modelica.org) or other [Modelica publications](https://www.modelica.org/publications).
+OpenModelica is developed together with research on Modelica, compilers, simulation and model-based development.
+The results are published in books, journal and conference papers, and theses:
+
+{{< research-stats >}}
+
+All publications are also available as one [bibliography](/research/openmodelica) and as a [BibTeX file](/research/openmodelica_bib).
+
+Are you a student looking for a thesis topic?
+
+{{< button href="/research/open-master-theses" >}}Find an open master thesis{{< /button >}}
+
+## Universities
+
+Research on OpenModelica is done at these universities:
+
+- [Linköping University](https://liu.se/en) (LiU), Sweden, at the [Programming Environments Laboratory (PELAB)](https://www.ida.liu.se/labs/pelab/), where OpenModelica was started.
+  See the [Modelica related research at PELAB](https://www.ida.liu.se/labs/pelab/modelica/) and the [PELAB publications](https://www.ida.liu.se/labs/pelab/publications/).
+- [Hochschule Bielefeld – University of Applied Sciences and Arts](https://www.hsbi.de/en) (HSBI), Germany, at the Faculty of Engineering and Mathematics.
+  See the [publications of Bernhard Bachmann](https://www.hsbi.de/publikationsserver/person/33931).
+- [Politecnico di Milano](https://www.polimi.it/en) (PoliMi), Italy, at the [Department of Electronics, Information and Bioengineering (DEIB)](https://www.deib.polimi.it/eng/home-page).
+  See the [page of Francesco Casella](https://www.deib.polimi.it/eng/people/details/129954).
